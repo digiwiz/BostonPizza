@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: 4dd57d672a4c2ae45a8d8c5741578da4
+timeCreated: 1523252298
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Amare
+    100002: Baileys
+    100004: BAR BACK
+    100006: Becherovka
+    100008: Beefeater
+    100010: Beefeater001
+    100012: Beer_Gla24
+    100014: Beer_Gla25
+    100016: Beer_Gla26
+    100018: Beer_Gla27
+    100020: Beer_Gla28
+    100022: Beer_Gla29
+    100024: Beer_Gla30
+    100026: Beer_Gla31
+    100028: Beer_Gla32
+    100030: Beer_Gla33
+    100032: Beer_Gla34
+    100034: Beer_Gla35
+    100036: Beer_Gla36
+    100038: Beer_Gla37
+    100040: Beer_Gla38
+    100042: Beer_Gla39
+    100044: Beer_Gla40
+    100046: Beer_Gla41
+    100048: Beer_Gla42
+    100050: Beer_Gla43
+    100052: Beer_Gla44
+    100054: Beer_Gla45
+    100056: Beer_Gla46
+    100058: Beer_Gla47
+    100060: //RootNode
+    100062: cahlua
+    100064: ChivasRega
+    100066: ChivasRega001
+    100068: chivasRegal
+    100070: cointreau
+    100072: cointreau001
+    100074: cointreau002
+    100076: cointreau003
+    100078: Curacao
+    100080: glasses
+    100082: Group1227
+    100084: Group1231
+    100086: Group1232
+    100088: Group1233
+    100090: Group1871020393
+    100092: Group496
+    100094: Havana_Club
+    100096: Hightball1
+    100098: Hightball2
+    100100: Hightball3
+    100102: Hightball4
+    100104: Hightball5
+    100106: Hightball6
+    100108: Hightball7
+    100110: Hightball8
+    100112: Hightball9
+    100114: Jack_Daniel`s
+    100116: Jack_Daniel`s001
+    100118: Jagermeister
+    100120: Jagermeister001
+    100122: Jameson
+    100124: Jameson001
+    100126: Line01
+    100128: Malibu
+    100130: martel
+    100132: martel001
+    100134: Mesh872
+    100136: Object003
+    100138: Object004
+    100140: Object01
+    100142: Object02
+    100144: Olmeca
+    100146: pernod
+    100148: Sambuka
+    100150: X001_001_l
+    100152: X001_001_l001
+    100154: XO_lqi
+    100156: XO_lqi001
+    100158: XOfront
+    100160: XOfront001
+    100162: XOMain
+    100164: XOMain001
+    100166: XOPropka
+    100168: XOPropka001
+    400000: Amare
+    400002: Baileys
+    400004: BAR BACK
+    400006: Becherovka
+    400008: Beefeater
+    400010: Beefeater001
+    400012: Beer_Gla24
+    400014: Beer_Gla25
+    400016: Beer_Gla26
+    400018: Beer_Gla27
+    400020: Beer_Gla28
+    400022: Beer_Gla29
+    400024: Beer_Gla30
+    400026: Beer_Gla31
+    400028: Beer_Gla32
+    400030: Beer_Gla33
+    400032: Beer_Gla34
+    400034: Beer_Gla35
+    400036: Beer_Gla36
+    400038: Beer_Gla37
+    400040: Beer_Gla38
+    400042: Beer_Gla39
+    400044: Beer_Gla40
+    400046: Beer_Gla41
+    400048: Beer_Gla42
+    400050: Beer_Gla43
+    400052: Beer_Gla44
+    400054: Beer_Gla45
+    400056: Beer_Gla46
+    400058: Beer_Gla47
+    400060: //RootNode
+    400062: cahlua
+    400064: ChivasRega
+    400066: ChivasRega001
+    400068: chivasRegal
+    400070: cointreau
+    400072: cointreau001
+    400074: cointreau002
+    400076: cointreau003
+    400078: Curacao
+    400080: glasses
+    400082: Group1227
+    400084: Group1231
+    400086: Group1232
+    400088: Group1233
+    400090: Group1871020393
+    400092: Group496
+    400094: Havana_Club
+    400096: Hightball1
+    400098: Hightball2
+    400100: Hightball3
+    400102: Hightball4
+    400104: Hightball5
+    400106: Hightball6
+    400108: Hightball7
+    400110: Hightball8
+    400112: Hightball9
+    400114: Jack_Daniel`s
+    400116: Jack_Daniel`s001
+    400118: Jagermeister
+    400120: Jagermeister001
+    400122: Jameson
+    400124: Jameson001
+    400126: Line01
+    400128: Malibu
+    400130: martel
+    400132: martel001
+    400134: Mesh872
+    400136: Object003
+    400138: Object004
+    400140: Object01
+    400142: Object02
+    400144: Olmeca
+    400146: pernod
+    400148: Sambuka
+    400150: X001_001_l
+    400152: X001_001_l001
+    400154: XO_lqi
+    400156: XO_lqi001
+    400158: XOfront
+    400160: XOfront001
+    400162: XOMain
+    400164: XOMain001
+    400166: XOPropka
+    400168: XOPropka001
+    2100000: vray glass li
+    2100002: vray chrome08 210
+    2100004: vray Leather  grey
+    2100006: vray cntr_ribbon
+    2100008: vray cntr02
+    2100010: vray 1Glass
+    2100012: vray 1Glass123123
+    2100014: 'vray Material #212419'
+    2100016: 'vray Material #14'
+    2100018: 'vray Material #14231'
+    2100020: mulliopns
+    2100022: 'Material #50830'
+    2100024: vray Bls_C
+    2100026: vray Bls
+    2100028: vray bls_L
+    2100030: vray whiskeyJD
+    2100032: vray jdC
+    2100034: vray 01 - Default
+    2100036: vray jgrms
+    2100038: vray jgrm_cap
+    2100040: vray Gin
+    2100042: vray Bftr
+    2100044: vray J_whisk
+    2100046: vray Jameson
+    2100048: vray Jms_C
+    2100050: vray cntr
+    2100052: vray cntr_c
+    2100054: vray cntr_seal
+    2100056: vray Bech
+    2100058: vray Bech_C
+    2100060: vray Bech_L
+    2100062: vray teq
+    2100064: vray olm
+    2100066: vray olmC
+    2100068: vray prnC1
+    2100070: vray prnC
+    2100072: vray pernod
+    2100074: 'vray Material #106'
+    2100076: vray cvs_lb
+    2100078: vray chiv_cD
+    2100080: vray whiskey
+    2100082: vray cognac
+    2100084: vray martelC
+    2100086: vray martl
+    2100088: vray smb_c
+    2100090: 'vray Material #132'
+    2100092: vray smbk
+    2100094: vray rmz
+    2100096: vray cahlua
+    2100098: vray chl
+    2100100: vray chl_S
+    2100102: vray chl_c
+    2100104: vray CurB
+    2100106: vray CrcC
+    2100108: vray 02 - Default
+    2100110: vray rumCC
+    2100112: vray rumC
+    2100114: vray RUM
+    2100116: vray HC
+    2100118: vray mlb_c
+    2100120: vray mlb
+    2100122: vray 17 - Defaultg
+    2100124: vray absolut01
+    2100126: vray absolut02
+    2100128: glass
+    2100130: vray Standard 3
+    2100132: 'vray Material #265'
+    2100134: vray ,Black Nero
+    2100136: vray ,Black Ner_
+    2100138: 'vray Material #32'
+    2100140: 'vray Material #34'
+    2100142: vray goldd
+    2100144: 'vray Material #35'
+    2300000: Amare
+    2300002: Baileys
+    2300004: Becherovka
+    2300006: Beefeater
+    2300008: Beefeater001
+    2300010: Beer_Gla24
+    2300012: Beer_Gla25
+    2300014: Beer_Gla26
+    2300016: Beer_Gla27
+    2300018: Beer_Gla28
+    2300020: Beer_Gla29
+    2300022: Beer_Gla30
+    2300024: Beer_Gla31
+    2300026: Beer_Gla32
+    2300028: Beer_Gla33
+    2300030: Beer_Gla34
+    2300032: Beer_Gla35
+    2300034: Beer_Gla36
+    2300036: Beer_Gla37
+    2300038: Beer_Gla38
+    2300040: Beer_Gla39
+    2300042: Beer_Gla40
+    2300044: Beer_Gla41
+    2300046: Beer_Gla42
+    2300048: Beer_Gla43
+    2300050: Beer_Gla44
+    2300052: Beer_Gla45
+    2300054: Beer_Gla46
+    2300056: Beer_Gla47
+    2300058: cahlua
+    2300060: ChivasRega
+    2300062: ChivasRega001
+    2300064: chivasRegal
+    2300066: cointreau
+    2300068: cointreau001
+    2300070: cointreau002
+    2300072: cointreau003
+    2300074: Curacao
+    2300076: Group496
+    2300078: Havana_Club
+    2300080: Hightball1
+    2300082: Hightball2
+    2300084: Hightball3
+    2300086: Hightball4
+    2300088: Hightball5
+    2300090: Hightball6
+    2300092: Hightball7
+    2300094: Hightball8
+    2300096: Hightball9
+    2300098: Jack_Daniel`s
+    2300100: Jack_Daniel`s001
+    2300102: Jagermeister
+    2300104: Jagermeister001
+    2300106: Jameson
+    2300108: Jameson001
+    2300110: Line01
+    2300112: Malibu
+    2300114: martel
+    2300116: martel001
+    2300118: Mesh872
+    2300120: Object003
+    2300122: Object004
+    2300124: Object01
+    2300126: Object02
+    2300128: Olmeca
+    2300130: pernod
+    2300132: Sambuka
+    2300134: X001_001_l
+    2300136: X001_001_l001
+    2300138: XO_lqi
+    2300140: XO_lqi001
+    2300142: XOfront
+    2300144: XOfront001
+    2300146: XOMain
+    2300148: XOMain001
+    2300150: XOPropka
+    2300152: XOPropka001
+    3300000: Amare
+    3300002: Baileys
+    3300004: Becherovka
+    3300006: Beefeater
+    3300008: Beefeater001
+    3300010: Beer_Gla24
+    3300012: Beer_Gla25
+    3300014: Beer_Gla26
+    3300016: Beer_Gla27
+    3300018: Beer_Gla28
+    3300020: Beer_Gla29
+    3300022: Beer_Gla30
+    3300024: Beer_Gla31
+    3300026: Beer_Gla32
+    3300028: Beer_Gla33
+    3300030: Beer_Gla34
+    3300032: Beer_Gla35
+    3300034: Beer_Gla36
+    3300036: Beer_Gla37
+    3300038: Beer_Gla38
+    3300040: Beer_Gla39
+    3300042: Beer_Gla40
+    3300044: Beer_Gla41
+    3300046: Beer_Gla42
+    3300048: Beer_Gla43
+    3300050: Beer_Gla44
+    3300052: Beer_Gla45
+    3300054: Beer_Gla46
+    3300056: Beer_Gla47
+    3300058: cahlua
+    3300060: ChivasRega
+    3300062: ChivasRega001
+    3300064: chivasRegal
+    3300066: cointreau
+    3300068: cointreau001
+    3300070: cointreau002
+    3300072: cointreau003
+    3300074: Curacao
+    3300076: Group496
+    3300078: Havana_Club
+    3300080: Hightball1
+    3300082: Hightball2
+    3300084: Hightball3
+    3300086: Hightball4
+    3300088: Hightball5
+    3300090: Hightball6
+    3300092: Hightball7
+    3300094: Hightball8
+    3300096: Hightball9
+    3300098: Jack_Daniel`s
+    3300100: Jack_Daniel`s001
+    3300102: Jagermeister
+    3300104: Jagermeister001
+    3300106: Jameson
+    3300108: Jameson001
+    3300110: Line01
+    3300112: Malibu
+    3300114: martel
+    3300116: martel001
+    3300118: Mesh872
+    3300120: Object003
+    3300122: Object004
+    3300124: Object01
+    3300126: Object02
+    3300128: Olmeca
+    3300130: pernod
+    3300132: Sambuka
+    3300134: X001_001_l
+    3300136: X001_001_l001
+    3300138: XO_lqi
+    3300140: XO_lqi001
+    3300142: XOfront
+    3300144: XOfront001
+    3300146: XOMain
+    3300148: XOMain001
+    3300150: XOPropka
+    3300152: XOPropka001
+    4300000: cointreau001
+    4300002: ChivasRega001
+    4300004: Group496
+    4300006: ChivasRega
+    4300008: cointreau002
+    4300010: Baileys
+    4300012: Jack_Daniel`s
+    4300014: Jagermeister
+    4300016: Beefeater
+    4300018: Jameson
+    4300020: cointreau
+    4300022: Becherovka
+    4300024: Olmeca
+    4300026: pernod
+    4300028: chivasRegal
+    4300030: martel
+    4300032: Sambuka
+    4300034: Amare
+    4300036: cahlua
+    4300038: Curacao
+    4300040: Havana_Club
+    4300042: Malibu
+    4300044: Line01
+    4300046: Beefeater001
+    4300048: Jack_Daniel`s001
+    4300050: martel001
+    4300052: Jagermeister001
+    4300054: Jameson001
+    4300056: cointreau003
+    4300058: Mesh872
+    4300060: Hightball9
+    4300062: Hightball8
+    4300064: Hightball7
+    4300066: Hightball6
+    4300068: Hightball5
+    4300070: Hightball4
+    4300072: Hightball3
+    4300074: Hightball2
+    4300076: Hightball1
+    4300078: Beer_Gla47
+    4300080: Beer_Gla46
+    4300082: Beer_Gla45
+    4300084: Beer_Gla44
+    4300086: Beer_Gla43
+    4300088: Beer_Gla42
+    4300090: Beer_Gla41
+    4300092: Beer_Gla40
+    4300094: Beer_Gla39
+    4300096: Beer_Gla38
+    4300098: Beer_Gla37
+    4300100: Beer_Gla36
+    4300102: Beer_Gla35
+    4300104: Beer_Gla34
+    4300106: Beer_Gla33
+    4300108: Beer_Gla32
+    4300110: Beer_Gla31
+    4300112: Beer_Gla30
+    4300114: Beer_Gla29
+    4300116: Beer_Gla28
+    4300118: Beer_Gla27
+    4300120: Beer_Gla26
+    4300122: Beer_Gla25
+    4300124: Beer_Gla24
+    4300126: Object01
+    4300128: X001_001_l
+    4300130: Object02
+    4300132: XOfront
+    4300134: XOMain
+    4300136: XOPropka
+    4300138: XO_lqi
+    4300140: XOfront001
+    4300142: XOPropka001
+    4300144: XOMain001
+    4300146: XO_lqi001
+    4300148: Object003
+    4300150: Object004
+    4300152: X001_001_l001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
