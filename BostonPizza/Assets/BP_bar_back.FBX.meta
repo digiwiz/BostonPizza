@@ -480,7 +480,602 @@ ModelImporter:
     4300150: Object004
     4300152: X001_001_l001
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #50830'
+    second: {fileID: 2100000, guid: 1a64f2d36db014f45bb14eb3b4ec69b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: 2b1f2c66d5a4cd54399a75e8ba941893, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mulliopns
+    second: {fileID: 2100000, guid: 2a46a52e2d30e8642bbeec2d0d0b525a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray ,Black Ner_
+    second: {fileID: 2100000, guid: 3d003e9f602c4d0438f7472be1f068bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray ,Black Nero
+    second: {fileID: 2100000, guid: cf5674fc656791b489c4d5d203122336, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray 01 - Default
+    second: {fileID: 2100000, guid: 1a527ad85af6b6544a3d9e97e90bc9c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray 02 - Default
+    second: {fileID: 2100000, guid: e13f45461a20d904fb1714374a40f1d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray 17 - Defaultg
+    second: {fileID: 2100000, guid: 390cebde23bc89f459f976510997018f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray 1Glass
+    second: {fileID: 2100000, guid: 412ac6eb765402b47b1debec92b86a1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray 1Glass123123
+    second: {fileID: 2100000, guid: 45bd5c6a0c8d12f4087dea47dc2b7263, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Bech
+    second: {fileID: 2100000, guid: 86d4286962b6d63468f1df09268a7c37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Bech_C
+    second: {fileID: 2100000, guid: e9627de1d0af23d4cb5d900bb6c55858, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Bech_L
+    second: {fileID: 2100000, guid: ee784116838a672479d1f6a421b25c27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Bftr
+    second: {fileID: 2100000, guid: 2414328a727299b47ba52ab5ca960f03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Bls
+    second: {fileID: 2100000, guid: f5e5c79f98ebecd4aacab0c3fbcbc7e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Bls_C
+    second: {fileID: 2100000, guid: 4e610707f35d08144909e38c6a68c86f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray CrcC
+    second: {fileID: 2100000, guid: 1f88e62f99b0b1948a562da41db2ab26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray CurB
+    second: {fileID: 2100000, guid: c91e3a21306691047a67a150da7eadf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Gin
+    second: {fileID: 2100000, guid: a6027c03c8b1e98419e3a76d1ba21c82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray HC
+    second: {fileID: 2100000, guid: c1d8672699ed1904e8bfeda5b5949c65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray J_whisk
+    second: {fileID: 2100000, guid: 3981e52ab6a607f45bbeefa39353b565, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Jameson
+    second: {fileID: 2100000, guid: 2f0cc1044cd654e4e87d7dee0387c054, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Jms_C
+    second: {fileID: 2100000, guid: a1ff290a5b62bae45abba32c3e9fb254, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Leather  grey
+    second: {fileID: 2100000, guid: 3c6196704cd899c42b8511cda074ab36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'vray Material #106'
+    second: {fileID: 2100000, guid: b425d3ca8171b4d4c91b2becb88f96ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'vray Material #132'
+    second: {fileID: 2100000, guid: c84bf96970785554f88b991ff63207b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'vray Material #14'
+    second: {fileID: 2100000, guid: 2a190447deaeed34f835a634f034ce5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'vray Material #14231'
+    second: {fileID: 2100000, guid: cef28d3d8b93c144c94cb73efdc09c9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'vray Material #212419'
+    second: {fileID: 2100000, guid: 79f62f659d2b9bd41afc99b5933776e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'vray Material #265'
+    second: {fileID: 2100000, guid: 924f2d7b0b92b3740b606180420fe2fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'vray Material #32'
+    second: {fileID: 2100000, guid: 61bdc661443b6924cbc14a0acee15a7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'vray Material #34'
+    second: {fileID: 2100000, guid: 777a45712994d444a8f02eba74f59f06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'vray Material #35'
+    second: {fileID: 2100000, guid: 1138d8fc2d05e5a4b9d2bb0b3413593b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray RUM
+    second: {fileID: 2100000, guid: 2053ea19c9d4a564e9b9f931a5fea73e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Standard 3
+    second: {fileID: 2100000, guid: 178f24ddf629f5642873b35be1cf8616, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray absolut01
+    second: {fileID: 2100000, guid: c8446d47f78f6e94c938587fcc5fa729, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray absolut02
+    second: {fileID: 2100000, guid: eb40ec7e57f1ffa49ac3074fe045d68b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray bls_L
+    second: {fileID: 2100000, guid: 381a505c571487c419c11e47c3260b5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray cahlua
+    second: {fileID: 2100000, guid: f5596a10eb75df643b605c0b5e6079a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray chiv_cD
+    second: {fileID: 2100000, guid: 73d74ba09812b5548b103c50e907bb2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray chl
+    second: {fileID: 2100000, guid: 9507eafeca29b4c40b2a9e5229bca14d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray chl_S
+    second: {fileID: 2100000, guid: aa91254be2af4e849a70ebb024191c4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray chl_c
+    second: {fileID: 2100000, guid: d3b94a6ce85c1fe48a60271d45aaf99b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray chrome08 210
+    second: {fileID: 2100000, guid: 5d1301ffd8a365d45bed2c821a115f4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray cntr
+    second: {fileID: 2100000, guid: 395e137fafc567c42b1ce27ac071441a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray cntr02
+    second: {fileID: 2100000, guid: decf55293bd5b54418b0f260cf4ae5cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray cntr_c
+    second: {fileID: 2100000, guid: fdcedd038f2fec44bb91d2feeb4d41e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray cntr_ribbon
+    second: {fileID: 2100000, guid: 2e9bc72c1d295084a9e79bd55bd32e1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray cntr_seal
+    second: {fileID: 2100000, guid: ba46c149dfd598c4c9d3f91351dc9ea3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray cognac
+    second: {fileID: 2100000, guid: 3685352e337b93041ad3b3587e9a92fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray cvs_lb
+    second: {fileID: 2100000, guid: ed567c6a1657d5a459cd1e5f5e2f575b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray glass li
+    second: {fileID: 2100000, guid: 6aaafc054e469c8408282f5443c32752, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray goldd
+    second: {fileID: 2100000, guid: 1dcbf55b3f86d74438e9f622e047d626, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray jdC
+    second: {fileID: 2100000, guid: fcf6af488c9b49348a689b931ded4914, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray jgrm_cap
+    second: {fileID: 2100000, guid: 5e4108602a5ef204282d06bb50e28728, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray jgrms
+    second: {fileID: 2100000, guid: b9b301add5e37004cb5e8ebb4e02e470, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray martelC
+    second: {fileID: 2100000, guid: e43f2d263c587ca4d9c46f73fadb3bb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray martl
+    second: {fileID: 2100000, guid: 0bff805b3df446f4a9a8a23905b67b27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray mlb
+    second: {fileID: 2100000, guid: 859e09bb4c0f39043907f0f0c9a24bfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray mlb_c
+    second: {fileID: 2100000, guid: cc59336be9975194e94695fa55ea4ed6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray olm
+    second: {fileID: 2100000, guid: 79b7023adab3cc9498842913d44afd43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray olmC
+    second: {fileID: 2100000, guid: 76d21beefb0f8d04aa42c1bda0b75b27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray pernod
+    second: {fileID: 2100000, guid: d56e4a0f5cfe00e4688fe48457bdb1b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray prnC
+    second: {fileID: 2100000, guid: fdffdd176ceb81646835f4c57a14efcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray prnC1
+    second: {fileID: 2100000, guid: cc6a69ce48a5bc34d8eccc6b7519a756, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray rmz
+    second: {fileID: 2100000, guid: 3a7e79d0abd4f894293665dd196b494c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray rumC
+    second: {fileID: 2100000, guid: 5cb1ac08cc0a42149bfe7f63b05ccdbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray rumCC
+    second: {fileID: 2100000, guid: 9d1b8ca146750a0448b079d6fceff0dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray smb_c
+    second: {fileID: 2100000, guid: 55519fd5b08d6124e873b8726f2ce68a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray smbk
+    second: {fileID: 2100000, guid: 780d84bbc6e3f8448a70183b319e5d0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray teq
+    second: {fileID: 2100000, guid: 3480bd24ffbb47b42a4e177401222855, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray whiskey
+    second: {fileID: 2100000, guid: b32a73b691943014d8e0a47eac3c6e53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray whiskeyJD
+    second: {fileID: 2100000, guid: 948846fad3773614ca8dc0327cdf1c95, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3
+    second: {fileID: 2800000, guid: 6536628f4a7aee34c9ad59fb50293559, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CNTR
+    second: {fileID: 2800000, guid: 51c66f953b0989141a53571b567da465, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CrB
+    second: {fileID: 2800000, guid: ca321ef7819b4df4b9a38c2cb9437826, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: HC_d
+    second: {fileID: 2800000, guid: 9eac55eea2e9cc14d945f31c6615508e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: HC_m
+    second: {fileID: 2800000, guid: 2f46231be0eb3a6439e794fa6742ff32, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: J_dan
+    second: {fileID: 2800000, guid: 49fc3b47b07787e4da370adbd68eb97a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rmz_D
+    second: {fileID: 2800000, guid: 8e156d1119cd11e4b9aedd080d8f5e0b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: abv_d
+    second: {fileID: 2800000, guid: 59b8b3cdefd73404daf39bf94271f716, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: abv_m
+    second: {fileID: 2800000, guid: de3dec7e652e97a468b29b8395697401, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: b778c1304f678cc9022515c426d301a5
+    second: {fileID: 2800000, guid: 65d9c2a8a3e9f3b40b57649114bfb2f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bch_b
+    second: {fileID: 2800000, guid: a4321bcbb81bc5a4ba0897a2966f1732, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bch_d
+    second: {fileID: 2800000, guid: 99f90aa98719119448af0a4c5591602b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bft_B
+    second: {fileID: 2800000, guid: 6371d85089dbd8f48beb53654001022f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bft_D
+    second: {fileID: 2800000, guid: e301749bc3e7fc146b14845e984a248d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bft_G
+    second: {fileID: 2800000, guid: 3dd1aacf88a7a544eb322f8e53a258a4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bft_M
+    second: {fileID: 2800000, guid: 506b62edb0e43a144b4b4b05e364fbc0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bls_B
+    second: {fileID: 2800000, guid: 7df1dbfc7c18dd74498a1dbff2377e9d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bls_D
+    second: {fileID: 2800000, guid: 356c11f9c116ac14493f852a252869bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bls_M
+    second: {fileID: 2800000, guid: e380c01e97160c84b8b1e9e5335d08bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chl_A
+    second: {fileID: 2800000, guid: f96374a12293cb04bab1a608f0a42a66, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chl_B
+    second: {fileID: 2800000, guid: c779a3bbc1a396b49b497d5558a227a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chl_D
+    second: {fileID: 2800000, guid: 1dfb14ee98a766f4ba5678c9cc8889c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chl_cB
+    second: {fileID: 2800000, guid: c47aa77f0bc6daa4dabb00a5ae553191, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chv_B
+    second: {fileID: 2800000, guid: ea42455cdec64b446b8b72de0c6d5261, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chv_D
+    second: {fileID: 2800000, guid: f7a9065b0f3b60f48af537ea4f50baee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chv_M
+    second: {fileID: 2800000, guid: b9c2ce405afb9a441bacddbf7042782f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chv_cB
+    second: {fileID: 2800000, guid: 4c81cfb55f0ee7941ae570d249a36935, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chv_cD
+    second: {fileID: 2800000, guid: f8afeb8e1b73be64c8b447f839c0aede, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cntr_G
+    second: {fileID: 2800000, guid: 6c5d340235423a64e8d3af9db8842f1a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: jgrm_B
+    second: {fileID: 2800000, guid: 8dd68ad43b169fb4a94f4bd142e42730, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: jgrm_D
+    second: {fileID: 2800000, guid: c49897b922104d44ea11d95190b290f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: jgrm_G
+    second: {fileID: 2800000, guid: a616210cea5b2f243a3fa90e93521955, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: jgrm_M
+    second: {fileID: 2800000, guid: 7fcf8694b46703240aa04a06fcb30ce7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: jms_D
+    second: {fileID: 2800000, guid: 3732cf078385c3b46b1e5e68324d1c10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: jms_M
+    second: {fileID: 2800000, guid: 67f141d42746f0546b669558347360bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: jms_O
+    second: {fileID: 2800000, guid: a843faf84ff706a4790523ed4106dcc0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mlb_D
+    second: {fileID: 2800000, guid: 9da67fe8cc735b940a2f085155196320, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mlb_cB
+    second: {fileID: 2800000, guid: 545ee3219c6fd6a4ca13c318fd3cf216, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mlb_cD
+    second: {fileID: 2800000, guid: cf6459e89b21b09479acbc47135ce2ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mrtl_D
+    second: {fileID: 2800000, guid: e80e0e6ef5f238f40be540ca90228b2a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mrtl_G
+    second: {fileID: 2800000, guid: d481b8958c79c2947869d781e3e469a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mrtl_M
+    second: {fileID: 2800000, guid: 66990ff89e55b8e43a849d4d40652c60, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: olmB
+    second: {fileID: 2800000, guid: b160fe17edb86e04b9fe37dc52ebcffe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: olmD
+    second: {fileID: 2800000, guid: 320f2e4596dc6ae44841fbc5e67dfb74, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: prnd
+    second: {fileID: 2800000, guid: 87f7fdc05adce6a418f7cfbaf02f0a27, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: smbk
+    second: {fileID: 2800000, guid: 4b518dc82d75c314d90b5e19a0baa039, type: 3}
   materials:
     importMaterials: 1
     materialName: 0
@@ -518,7 +1113,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

@@ -1106,7 +1106,152 @@ ModelImporter:
     4300426: Group2566
     4300428: Group2567
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B3
+    second: {fileID: 2100000, guid: a28f31f74cf58fc4fbbafcf1ddc052eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glossy black
+    second: {fileID: 2100000, guid: e2a6e695149f67243b6fcccf93cda9aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #57070'
+    second: {fileID: 2100000, guid: b5ee7a22cee2b784c848024087c9a881, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #57105'
+    second: {fileID: 2100000, guid: df0b3042be125cf44ace860397bfb036, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PL 3
+    second: {fileID: 2100000, guid: 541752593c35eeb4ebfb081e6e727550, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PL 4
+    second: {fileID: 2100000, guid: ca60d3c4ec01bb341bf2510cccb87d94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PL1
+    second: {fileID: 2100000, guid: ab19ad05632b07142a63cc98508d5500, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PL2
+    second: {fileID: 2100000, guid: b9df5029b75960d488b9ed38893c021d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SS1
+    second: {fileID: 2100000, guid: e0e9aa88a0b24dc4ea83db7c6fc57cfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SS2
+    second: {fileID: 2100000, guid: 7ff4001eeaf966749b5f40d528349447, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome22
+    second: {fileID: 2100000, guid: ef74d8e6e392f524c8acd89f6bffb14a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dd
+    second: {fileID: 2100000, guid: e96f520146a3e2745b13bdddcd6050d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stainless steel new
+    second: {fileID: 2100000, guid: c6f5974e9aca2c54bbecc704e4559cb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray 4120_240
+    second: {fileID: 2100000, guid: 0845a94bf1d252a4fa5ffb9a097ec86e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Color_02
+    second: {fileID: 2100000, guid: 04e922696aee3104492288e777061f27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _Color01
+    second: {fileID: 2100000, guid: 83be04f7520bd71419d00d1afb3feaca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _Color_M
+    second: {fileID: 2100000, guid: df151db166ac0454588385cfd1c7a47e, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 00 paints etc
+    second: {fileID: 2800000, guid: 9ddb98dad5dfac3478c695f2ef5a1457, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 0000ConcreteFloors0065_5_L
+    second: {fileID: 2800000, guid: 089e241bebd2f024e81d8bad00d27447, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 01HEX_Base
+    second: {fileID: 2800000, guid: 7cf172eee1786dc4cb62073a0402d456, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: B-3 & TL-3
+    second: {fileID: 2800000, guid: a5fa3621d69c3534db5984845a4bb056, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Concrete_02
+    second: {fileID: 2800000, guid: c6b45c26e1c4bdb4893cdbb486e09fa4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GY019
+    second: {fileID: 2800000, guid: f9ff752835383cf4f9399193b62c4f5d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PL-1
+    second: {fileID: 2800000, guid: 9544cdb213cc36a42a02770e225c78f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PL-2
+    second: {fileID: 2800000, guid: 025dd214615acda40aeca61c67d90c74, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PL-3
+    second: {fileID: 2800000, guid: 27dd4d22b91f7b340a19ef41eaae8433, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SS-1
+    second: {fileID: 2800000, guid: 59ae0056c1582df46ab20621bf8eb801, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SS-2
+    second: {fileID: 2800000, guid: a7bfed2425a4e304e971868bc2b1deb0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood oak dif
+    second: {fileID: 2800000, guid: 729bbd0d57ead704fa3a69790cb7bd93, type: 3}
   materials:
     importMaterials: 1
     materialName: 0
@@ -1144,7 +1289,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
