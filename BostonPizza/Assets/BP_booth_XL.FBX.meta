@@ -21,16 +21,36 @@ ModelImporter:
     2100010: 'Material #30'
     2100012: 'Material #31'
     2100014: 'Material #32'
+    2100016: vray DK GRY fabric
+    2100018: vray DRK wood
+    2100020: vray _DarkSea
+    2100022: vra_Black_
+    2100024: vray_Black_
     2300000: Mesh1534
     2300002: //RootNode
     3300000: Mesh1534
     3300002: //RootNode
     4300000: Mesh1534
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray DK GRY fabric
+    second: {fileID: 2100000, guid: d7cb9a5f595a0fa4e8ef07c2c3255f4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray DRK wood
+    second: {fileID: 2100000, guid: e846ebc3c8a7ba1419704d18176cdf50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _DarkSea
+    second: {fileID: 2100000, guid: 74f09a9fc961aac4fb5d38cf0da83a7e, type: 2}
   materials:
     importMaterials: 1
-    materialName: 0
+    materialName: 1
     materialSearch: 1
     materialLocation: 1
   animations:
@@ -65,7 +85,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

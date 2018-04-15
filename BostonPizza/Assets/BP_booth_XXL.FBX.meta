@@ -11,14 +11,58 @@ ModelImporter:
     2100002: 'Material #32'
     2100004: 'Material #33'
     2100006: 'Material #34'
+    2100008: vray _Black_
+    2100010: vray DRK wood
+    2100012: vray DK GRY fabric
+    2100014: vray _DarkSea
     2300000: //RootNode
     3300000: //RootNode
     4300000: Mesh1201
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #31'
+    second: {fileID: 2100000, guid: d6ec6fcb419215843b0f16000c952a4d, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #32'
+    second: {fileID: 2100068, guid: a695bec69f0ea9942beab528f5e44e59, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #33'
+    second: {fileID: 2100070, guid: a695bec69f0ea9942beab528f5e44e59, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #34'
+    second: {fileID: 2100014, guid: 627abe486c02b784a85268253a0cac96, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray DK GRY fabric
+    second: {fileID: 2100000, guid: d7cb9a5f595a0fa4e8ef07c2c3255f4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray DRK wood
+    second: {fileID: 2100000, guid: e846ebc3c8a7ba1419704d18176cdf50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _Black_
+    second: {fileID: 2100000, guid: f8062623ead37044a80f47f551c2d81b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _DarkSea
+    second: {fileID: 2100000, guid: 74f09a9fc961aac4fb5d38cf0da83a7e, type: 2}
   materials:
     importMaterials: 1
-    materialName: 0
+    materialName: 1
     materialSearch: 1
     materialLocation: 1
   animations:
@@ -53,7 +97,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

@@ -53,6 +53,12 @@ ModelImporter:
     100090: Mesh4171
     100092: Mesh4172
     100094: Mesh4173
+    100096: base
+    100098: base 1
+    100100: bulb
+    100102: cable
+    100104: frame
+    100106: glass
     400000: //RootNode
     400002: Group1871020393
     400004: Group1871020394
@@ -101,9 +107,18 @@ ModelImporter:
     400090: Mesh4171
     400092: Mesh4172
     400094: Mesh4173
+    400096: base
+    400098: base 1
+    400100: bulb
+    400102: cable
+    400104: frame
+    400106: glass
     2100000: vray Bronze
     2100002: Glass Window Perfect
     2100004: 'Material #11'
+    2100006: 'Material #25'
+    2100008: 'Material #26'
+    2100010: 'Material #27'
     2300000: Mesh4129
     2300002: Mesh4130
     2300004: Mesh4131
@@ -149,6 +164,12 @@ ModelImporter:
     2300084: Mesh4171
     2300086: Mesh4172
     2300088: Mesh4173
+    2300090: base
+    2300092: base 1
+    2300094: bulb
+    2300096: cable
+    2300098: frame
+    2300100: glass
     3300000: Mesh4129
     3300002: Mesh4130
     3300004: Mesh4131
@@ -194,6 +215,12 @@ ModelImporter:
     3300084: Mesh4171
     3300086: Mesh4172
     3300088: Mesh4173
+    3300090: base
+    3300092: base 1
+    3300094: bulb
+    3300096: cable
+    3300098: frame
+    3300100: glass
     4300000: Mesh4129
     4300002: Mesh4130
     4300004: Mesh4131
@@ -239,6 +266,12 @@ ModelImporter:
     4300084: Mesh4171
     4300086: Mesh4172
     4300088: Mesh4173
+    4300090: base
+    4300092: cable
+    4300094: glass
+    4300096: frame
+    4300098: bulb
+    4300100: base
     9500000: //RootNode
   externalObjects: {}
   materials:

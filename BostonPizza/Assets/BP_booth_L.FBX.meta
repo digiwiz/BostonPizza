@@ -11,15 +11,59 @@ ModelImporter:
     2100002: 'Material #40'
     2100004: 'Material #42'
     2100006: 'Material #39'
+    2100008: vray DK GRY fabric
+    2100010: vray DRK wood
+    2100012: vray _DarkSea
     2300000: //RootNode
     3300000: //RootNode
     4300000: Mesh4075
+    4300002: Mesh1534
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #39'
+    second: {fileID: 2100000, guid: 7c3a7cb1ab31ea44592ea923a9a04f5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #40'
+    second: {fileID: 2100000, guid: 5e2866ad0ba3e304a95a937f080f5c29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #41'
+    second: {fileID: 2100000, guid: d7cb9a5f595a0fa4e8ef07c2c3255f4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #42'
+    second: {fileID: 2100000, guid: 74f09a9fc961aac4fb5d38cf0da83a7e, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: B-1 & B-4
+    second: {fileID: 2800000, guid: 3074d17b56b22a54caa3e807d9d0c697, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FB-1
+    second: {fileID: 2800000, guid: 0c49856b0643ab84a87956005f81aa5b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FB-2
+    second: {fileID: 2800000, guid: 1e981d165d4995e48b6b2e7029073fd3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood oak dif
+    second: {fileID: 2800000, guid: c4ff2c309f294714aa4dae206942a959, type: 3}
   materials:
     importMaterials: 1
     materialName: 0
-    materialSearch: 1
+    materialSearch: 2
     materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
@@ -53,7 +97,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

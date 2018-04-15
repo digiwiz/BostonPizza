@@ -97,6 +97,15 @@ ModelImporter:
     100178: Object482
     100180: Object483
     100182: Object484
+    100184: ChamferBox039
+    100186: ChamferBox040
+    100188: ChamferBox041
+    100190: Group1871020377
+    100192: Group1871020378
+    100194: Group1871020379
+    100196: Object537
+    100198: Object538
+    100200: Object539
     400000: 00000 NEW model
     400002: //RootNode
     400004: ChamferBox009
@@ -189,8 +198,21 @@ ModelImporter:
     400178: Object482
     400180: Object483
     400182: Object484
+    400184: ChamferBox039
+    400186: ChamferBox040
+    400188: ChamferBox041
+    400190: Group1871020377
+    400192: Group1871020378
+    400194: Group1871020379
+    400196: Object537
+    400198: Object538
+    400200: Object539
     2100000: 'Material #4'
     2100002: 'Material #24'
+    2100004: 'Material #25'
+    2100006: 'Material #26'
+    2100008: 'Material #27'
+    2100010: 'Material #28'
     2300000: ChamferBox009
     2300002: ChamferBox010
     2300004: ChamferBox011
@@ -251,6 +273,12 @@ ModelImporter:
     2300114: Object482
     2300116: Object483
     2300118: Object484
+    2300120: ChamferBox039
+    2300122: ChamferBox040
+    2300124: ChamferBox041
+    2300126: Object537
+    2300128: Object538
+    2300130: Object539
     3300000: ChamferBox009
     3300002: ChamferBox010
     3300004: ChamferBox011
@@ -311,6 +339,12 @@ ModelImporter:
     3300114: Object482
     3300116: Object483
     3300118: Object484
+    3300120: ChamferBox039
+    3300122: ChamferBox040
+    3300124: ChamferBox041
+    3300126: Object537
+    3300128: Object538
+    3300130: Object539
     4300000: Object455
     4300002: ChamferBox009
     4300004: ChamferBox010
@@ -371,6 +405,12 @@ ModelImporter:
     4300114: ChamferBox037
     4300116: ChamferBox038
     4300118: Object484
+    4300120: ChamferBox039
+    4300122: Object537
+    4300124: ChamferBox040
+    4300126: Object538
+    4300128: ChamferBox041
+    4300130: Object539
     9500000: //RootNode
   externalObjects: {}
   materials:
