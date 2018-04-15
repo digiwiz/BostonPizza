@@ -506,6 +506,7 @@ ModelImporter:
     100996: Standard73
     100998: Standard74
     101000: Standard_b
+    101002: all
     400000: 00 LIGHT FIXTURES
     400002: 00 LIGHT FIXTURES 2
     400004: 00 LIGHT FIXTURES 3
@@ -1007,6 +1008,7 @@ ModelImporter:
     400996: Standard73
     400998: Standard74
     401000: Standard_b
+    401002: all
     2100000: 'Material #57164'
     2100002: 'Material #57165'
     2100004: 'Material #57166'
@@ -1028,6 +1030,16 @@ ModelImporter:
     2100036: 'Material #57139'
     2100038: 'Material #57231'
     2100040: 'Material #57233'
+    2100042: 'Material #25'
+    2100044: 'Material #43'
+    2100046: 'Material #42'
+    2100048: 'Material #26'
+    2100050: 'Material #55'
+    2100052: 'Material #56'
+    2100054: 'Material #48'
+    2100056: 'Material #52'
+    2100058: 'Material #40'
+    2100060: 'Material #57'
     2300000: Group1831
     2300002: Group1932
     2300004: Group1933

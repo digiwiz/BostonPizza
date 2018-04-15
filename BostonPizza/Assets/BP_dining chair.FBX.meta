@@ -29,6 +29,10 @@ ModelImporter:
     400020: Rectangle007
     2100000: 'Material #1'
     2100002: 'Material #57097'
+    2100004: 'Material #57129'
+    2100006: 'Material #57130'
+    2100008: 'Material #58'
+    2100010: 'Material #59'
     2300000: Box175695
     2300002: Line005
     2300004: Line006
@@ -56,6 +60,7 @@ ModelImporter:
     4300012: Rectangle006
     4300014: Box175695
     4300016: Rectangle007
+    7400000: Take 001
     9500000: //RootNode
   externalObjects: {}
   materials:

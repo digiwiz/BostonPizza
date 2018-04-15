@@ -265,6 +265,7 @@ ModelImporter:
     100514: Sphere124
     100516: Sphere125
     100518: Sphere126
+    100520: Team Room
     400000: 00 TEAM SIGN
     400002: 00000 NEW model
     400004: a_simpl100
@@ -525,9 +526,11 @@ ModelImporter:
     400514: Sphere124
     400516: Sphere125
     400518: Sphere126
+    400520: Team Room
     2100000: stainless steel new
     2100002: 'Material #57068'
     2100004: 'Material #28'
+    2100006: 'Material #60'
     2300000: a_simpl100
     2300002: a_simpl101
     2300004: a_simpl102
@@ -783,6 +786,8 @@ ModelImporter:
     2300504: Sphere124
     2300506: Sphere125
     2300508: Sphere126
+    2300510: lights
+    2300512: Team Room
     3300000: a_simpl100
     3300002: a_simpl101
     3300004: a_simpl102
@@ -1038,6 +1043,8 @@ ModelImporter:
     3300504: Sphere124
     3300506: Sphere125
     3300508: Sphere126
+    3300510: lights
+    3300512: Team Room
     4300000: a_simple15
     4300002: a_simple36
     4300004: a_simple25
@@ -1293,6 +1300,8 @@ ModelImporter:
     4300504: Sphere003
     4300506: Sphere002
     4300508: Sphere001
+    4300510: Team Room
+    4300512: lights
     7400000: Take 001
     9500000: //RootNode
   externalObjects: {}

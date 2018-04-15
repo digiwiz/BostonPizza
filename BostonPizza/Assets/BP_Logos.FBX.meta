@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: ede9f08858cf77b41b72dfbace8fb7bd
+timeCreated: 1523752480
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 00 LOGOS
+    100002: 00000 NEW model
+    100004: //RootNode
+    100006: Group1871020415
+    100008: Group85
+    100010: Group86
+    100012: Group87
+    100014: Group88
+    100016: Group89
+    100018: Group90
+    100020: Group91
+    100022: Group92
+    100024: Group93
+    100026: Group94
+    100028: Group95
+    100030: Group_1001
+    100032: Group_106_
+    400000: 00 LOGOS
+    400002: 00000 NEW model
+    400004: //RootNode
+    400006: Group1871020415
+    400008: Group85
+    400010: Group86
+    400012: Group87
+    400014: Group88
+    400016: Group89
+    400018: Group90
+    400020: Group91
+    400022: Group92
+    400024: Group93
+    400026: Group94
+    400028: Group95
+    400030: Group_1001
+    400032: Group_106_
+    2100000: vray Aluminum
+    2100002: vray Color_07
+    2300000: Group85
+    2300002: Group86
+    2300004: Group87
+    2300006: Group88
+    2300008: Group89
+    2300010: Group90
+    2300012: Group91
+    2300014: Group92
+    2300016: Group93
+    2300018: Group94
+    2300020: Group95
+    2300022: Group_1001
+    2300024: Group_106_
+    3300000: Group85
+    3300002: Group86
+    3300004: Group87
+    3300006: Group88
+    3300008: Group89
+    3300010: Group90
+    3300012: Group91
+    3300014: Group92
+    3300016: Group93
+    3300018: Group94
+    3300020: Group95
+    3300022: Group_1001
+    3300024: Group_106_
+    4300000: Group_106_
+    4300002: Group_1001
+    4300004: Group90
+    4300006: Group95
+    4300008: Group91
+    4300010: Group89
+    4300012: Group85
+    4300014: Group88
+    4300016: Group93
+    4300018: Group94
+    4300020: Group92
+    4300022: Group87
+    4300024: Group86
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
