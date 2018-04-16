@@ -3483,7 +3483,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: B3
-    second: {fileID: 2100000, guid: 8efe2c0f603e5c142b709665f7883e4a, type: 2}
+    second: {fileID: -1981172663, guid: 55c440e07eeed5d4cb75fa69e0ed12f7, type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -3613,7 +3613,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: stainless steel new
-    second: {fileID: 2100000, guid: 2f24b379b255d4e418593814ae753b2f, type: 2}
+    second: {fileID: 1724786012, guid: 84c793e4960ede04d95606df846d905a, type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -3628,12 +3628,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: vray Aluminum
-    second: {fileID: 2100000, guid: cf65112d558a45447b7dc38f47eb80f5, type: 2}
+    second: {fileID: -1193678312, guid: 91c7216962fce144497c9493e2c8369a, type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: vray BlueGrey
-    second: {fileID: 2100000, guid: 2c42b066dc9ccb84ab825f34e2d38192, type: 2}
+    second: {fileID: 1872355042, guid: f3d123db8406ca742b07cb8b6786a087, type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -3798,7 +3798,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: wood 3
-    second: {fileID: 2100000, guid: 314aa2bdce387c24980be3ad812c3d03, type: 2}
+    second: {fileID: 888115000, guid: d3dda91f255e4d74ba1a5bac19abe7b5, type: 3}
   materials:
     importMaterials: 1
     materialName: 1

@@ -6072,10 +6072,75 @@ ModelImporter:
     4302414: Group847
     4302416: Group848
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold
+    second: {fileID: 2100000, guid: 70702c81a8639f04584075348e7ec331, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PL4
+    second: {fileID: 2100000, guid: 9e9128eed614a7e4baf8f1fa0b81c56f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PL5
+    second: {fileID: 2100000, guid: 1961a461aaee3594d81991fb65073b89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PL6
+    second: {fileID: 2100000, guid: 79cd36a37049b3c438d966fe010bf5f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Neon_Lig
+    second: {fileID: 2100000, guid: 9ee550d0734b5da48aa28c3b949380fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray WijnFl01
+    second: {fileID: 2100000, guid: 24d821cfc11621646856b25dde245af3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray WijnFl02
+    second: {fileID: 2100000, guid: 649777d20da0cb841b775474dbccb521, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray WijnFl03
+    second: {fileID: 2100000, guid: 984b2aa0de091b940a70795591478f73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray WijnFles
+    second: {fileID: 2100000, guid: 52bfa570b25a85f4d9af7e46787d7490, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Wijnetik
+    second: {fileID: 2100000, guid: 3cfdfe0ceb417724c9ab19070c9ec188, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _45
+    second: {fileID: 2100000, guid: b977eb166638038499fc134b070f0c31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _Black_
+    second: {fileID: 2100000, guid: f8062623ead37044a80f47f551c2d81b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _DarkGra
+    second: {fileID: 2100000, guid: 5635bb073c5ed6845ab78d602cd561d0, type: 2}
   materials:
     importMaterials: 1
-    materialName: 0
+    materialName: 1
     materialSearch: 1
     materialLocation: 1
   animations:

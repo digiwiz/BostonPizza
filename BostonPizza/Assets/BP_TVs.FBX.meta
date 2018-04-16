@@ -64,10 +64,20 @@ ModelImporter:
     4300016: Group_1404
     4300018: Group_1460
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #57081'
+    second: {fileID: 2100000, guid: 0693495094e86be43898bdee1e7ac6fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #57093'
+    second: {fileID: 2100000, guid: 6229b2c67235a9a40bc2d943482973e8, type: 2}
   materials:
     importMaterials: 1
-    materialName: 0
+    materialName: 1
     materialSearch: 1
     materialLocation: 1
   animations:

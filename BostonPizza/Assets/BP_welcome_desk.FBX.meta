@@ -34,6 +34,11 @@ ModelImporter:
     2100004: vray Colosseu
     2100006: 'Material #57073'
     2100008: 'Material #57096'
+    2100010: 'Material #25'
+    2100012: 'Material #26'
+    2100014: 'Material #27'
+    2100016: 'Material #30'
+    2100018: 'Material #31'
     2300000: Group1737
     2300002: Group1738
     2300004: Group1739
@@ -62,10 +67,35 @@ ModelImporter:
     4300014: Group1746
     4300016: Group1745
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B3
+    second: {fileID: 2100000, guid: 8efe2c0f603e5c142b709665f7883e4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #57073'
+    second: {fileID: 2100000, guid: 6692cadcea4ed9e40acd95b79f6773bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #57096'
+    second: {fileID: 2100000, guid: 98194d89e1a055b468b66d493c014d2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dd
+    second: {fileID: 2100000, guid: 05449e4184b6542488c0bfdec0792612, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Colosseu
+    second: {fileID: 2100000, guid: 17500104aeec0f84cbfaf1ec4ed6d0db, type: 2}
   materials:
     importMaterials: 1
-    materialName: 0
+    materialName: 1
     materialSearch: 1
     materialLocation: 1
   animations:

@@ -460,6 +460,23 @@ ModelImporter:
     2100028: PL 4
     2100030: PL 3
     2100032: 'Material #57105'
+    2100034: 'Material #28'
+    2100036: 'Material #31'
+    2100038: 'Material #37'
+    2100040: 'Material #29'
+    2100042: 'Material #42'
+    2100044: 'Material #43'
+    2100046: 'Material #36'
+    2100048: 'Material #26'
+    2100050: 'Material #34'
+    2100052: 'Material #39'
+    2100054: 'Material #30'
+    2100056: 'Material #35'
+    2100058: 'Material #27'
+    2100060: 'Material #33'
+    2100062: 'Material #32'
+    2100064: 'Material #38'
+    2100066: 'Material #25'
     2300000: Group1494
     2300002: Group1495
     2300004: Group1496
@@ -1111,32 +1128,32 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: B3
-    second: {fileID: 2100000, guid: a28f31f74cf58fc4fbbafcf1ddc052eb, type: 2}
+    second: {fileID: -1981172663, guid: 55c440e07eeed5d4cb75fa69e0ed12f7, type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Glossy black
-    second: {fileID: 2100000, guid: e2a6e695149f67243b6fcccf93cda9aa, type: 2}
+    second: {fileID: 2100000, guid: 7c670116199907f40bd5bb8d66ab9cd4, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: 'Material #57070'
-    second: {fileID: 2100000, guid: b5ee7a22cee2b784c848024087c9a881, type: 2}
+    second: {fileID: 2100000, guid: bea22b9d9959e764b8b3f078389a73d9, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: 'Material #57105'
-    second: {fileID: 2100000, guid: df0b3042be125cf44ace860397bfb036, type: 2}
+    second: {fileID: 2100000, guid: 06ca9eac6a4f7df428c0a23f0ca8d228, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: PL 3
-    second: {fileID: 2100000, guid: 541752593c35eeb4ebfb081e6e727550, type: 2}
+    second: {fileID: 2100000, guid: 915cf0f52a70a1d4fbf86a68e723f4f5, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: PL 4
-    second: {fileID: 2100000, guid: ca60d3c4ec01bb341bf2510cccb87d94, type: 2}
+    second: {fileID: 2100000, guid: 28bb0595763e79f408b3f1448212b9ab, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1146,7 +1163,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: PL2
-    second: {fileID: 2100000, guid: b9df5029b75960d488b9ed38893c021d, type: 2}
+    second: {fileID: 2100000, guid: 9c20318cb0a2a6648b691683161b59bc, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1161,37 +1178,37 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: chrome22
-    second: {fileID: 2100000, guid: ef74d8e6e392f524c8acd89f6bffb14a, type: 2}
+    second: {fileID: 2100000, guid: f43941dd75000494086d032c595aa824, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: dd
-    second: {fileID: 2100000, guid: e96f520146a3e2745b13bdddcd6050d3, type: 2}
+    second: {fileID: 2100000, guid: 05449e4184b6542488c0bfdec0792612, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: stainless steel new
-    second: {fileID: 2100000, guid: c6f5974e9aca2c54bbecc704e4559cb2, type: 2}
+    second: {fileID: 1724786012, guid: 84c793e4960ede04d95606df846d905a, type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: vray 4120_240
-    second: {fileID: 2100000, guid: 0845a94bf1d252a4fa5ffb9a097ec86e, type: 2}
+    second: {fileID: 2100000, guid: ee57142a450838f4e832b02e3fa54208, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: vray Color_02
-    second: {fileID: 2100000, guid: 04e922696aee3104492288e777061f27, type: 2}
+    second: {fileID: 2100000, guid: 274c17b0c9ed7cf43a80599ab72ea483, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: vray _Color01
-    second: {fileID: 2100000, guid: 83be04f7520bd71419d00d1afb3feaca, type: 2}
+    second: {fileID: 2100000, guid: 16d2e7a34661dd44cbd031fa25ff0921, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: vray _Color_M
-    second: {fileID: 2100000, guid: df151db166ac0454588385cfd1c7a47e, type: 2}
+    second: {fileID: 2100000, guid: 4aad28d601a8b5441805e93111954962, type: 2}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
@@ -1254,7 +1271,7 @@ ModelImporter:
     second: {fileID: 2800000, guid: 729bbd0d57ead704fa3a69790cb7bd93, type: 3}
   materials:
     importMaterials: 1
-    materialName: 0
+    materialName: 1
     materialSearch: 1
     materialLocation: 1
   animations:

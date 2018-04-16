@@ -225,10 +225,65 @@ ModelImporter:
     4300074: Group952
     4300076: Group954
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #39'
+    second: {fileID: 2100000, guid: 7c3a7cb1ab31ea44592ea923a9a04f5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #40'
+    second: {fileID: 2100000, guid: 5e2866ad0ba3e304a95a937f080f5c29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #57070'
+    second: {fileID: 2100000, guid: bea22b9d9959e764b8b3f078389a73d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #57081'
+    second: {fileID: 2100000, guid: 0693495094e86be43898bdee1e7ac6fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PL4
+    second: {fileID: 2100000, guid: 9e9128eed614a7e4baf8f1fa0b81c56f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VNL-2
+    second: {fileID: 2100000, guid: 123128064af4ad844b22073ecd155fd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tveehhh
+    second: {fileID: 2100000, guid: 90d5f07dfaedd5b4fa36fc52af6b046d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray 0009_Lin
+    second: {fileID: 2100000, guid: e30e2352531ba7641bdc254a07f714a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Color_08
+    second: {fileID: 2100000, guid: c1cb3c679a82eb24aa348d00ac46ba71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Metal_02
+    second: {fileID: 2100000, guid: 0a845ddb1b1dc9b4eb4012ae0c9653bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Wood_Wic
+    second: {fileID: 2100000, guid: 38a48453d0109514684e327d36971b82, type: 2}
   materials:
     importMaterials: 1
-    materialName: 0
+    materialName: 1
     materialSearch: 1
     materialLocation: 1
   animations:

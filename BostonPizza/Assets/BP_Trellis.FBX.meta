@@ -432,6 +432,7 @@ ModelImporter:
     400422: Web_3_8
     400424: Web_3_9
     2100000: PT3
+    2100002: 'Material #45'
     2300000: Cord1
     2300002: Cord10
     2300004: Cord11
@@ -1063,10 +1064,15 @@ ModelImporter:
     4300416: Cord15
     4300418: Cord_1_15
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PT3
+    second: {fileID: 2100000, guid: 0fe714f806454a2468f4ca4c7d102ef9, type: 2}
   materials:
     importMaterials: 1
-    materialName: 0
+    materialName: 1
     materialSearch: 1
     materialLocation: 1
   animations:

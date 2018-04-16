@@ -539,10 +539,20 @@ ModelImporter:
     4300206: Group2299
     4300208: Group_4765
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray DARK_GRE
+    second: {fileID: 2100000, guid: b9505f4860a517247b790612d4090b80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Wood_werewrBam
+    second: {fileID: 2100000, guid: 11afb990a62534144a1d66b5b8e5bca9, type: 2}
   materials:
     importMaterials: 1
-    materialName: 0
+    materialName: 1
     materialSearch: 1
     materialLocation: 1
   animations:

@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: 19053f98c4a30304c95b63657548c097
+timeCreated: 1523803890
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 00 BOOTH BENCHES
+    100002: 00000 NEW model
+    100004: Booth1_101
+    100006: Booth1_1_1
+    100008: Booth1_1_2
+    100010: Booth1_1_3
+    100012: Booth1_1_4
+    100014: Booth1_1_5
+    100016: Booth1_1_6
+    100018: Booth1_1_7
+    100020: Booth1_1_8
+    100022: Booth1_1_9
+    100024: Booth1_601
+    100026: Booth1_602
+    100028: Booth1_603
+    100030: Booth1_604
+    100032: Booth1_605
+    100034: Booth1_6_1
+    100036: Booth1_6_2
+    100038: Booth1_6_3
+    100040: Booth1_6_4
+    100042: Booth1_6_5
+    100044: Booth1_6_6
+    100046: Booth1_6_7
+    100048: Booth1_6_8
+    100050: Booth1_6_9
+    100052: //RootNode
+    100054: Mesh1201
+    100056: Mesh1203
+    100058: Mesh1534
+    100060: Mesh4075
+    400000: 00 BOOTH BENCHES
+    400002: 00000 NEW model
+    400004: Booth1_101
+    400006: Booth1_1_1
+    400008: Booth1_1_2
+    400010: Booth1_1_3
+    400012: Booth1_1_4
+    400014: Booth1_1_5
+    400016: Booth1_1_6
+    400018: Booth1_1_7
+    400020: Booth1_1_8
+    400022: Booth1_1_9
+    400024: Booth1_601
+    400026: Booth1_602
+    400028: Booth1_603
+    400030: Booth1_604
+    400032: Booth1_605
+    400034: Booth1_6_1
+    400036: Booth1_6_2
+    400038: Booth1_6_3
+    400040: Booth1_6_4
+    400042: Booth1_6_5
+    400044: Booth1_6_6
+    400046: Booth1_6_7
+    400048: Booth1_6_8
+    400050: Booth1_6_9
+    400052: //RootNode
+    400054: Mesh1201
+    400056: Mesh1203
+    400058: Mesh1534
+    400060: Mesh4075
+    2100000: vray _Black_
+    2100002: PL 4
+    2100004: vray DARK_GRE
+    2100006: vray _DarkSea
+    2100008: vray DRK wood
+    2100010: vray DK GRY fabric
+    2100012: 'Material #7187'
+    2300000: Booth1_101
+    2300002: Booth1_1_1
+    2300004: Booth1_1_2
+    2300006: Booth1_1_3
+    2300008: Booth1_1_4
+    2300010: Booth1_1_5
+    2300012: Booth1_1_6
+    2300014: Booth1_1_7
+    2300016: Booth1_1_8
+    2300018: Booth1_1_9
+    2300020: Booth1_601
+    2300022: Booth1_602
+    2300024: Booth1_603
+    2300026: Booth1_604
+    2300028: Booth1_605
+    2300030: Booth1_6_1
+    2300032: Booth1_6_2
+    2300034: Booth1_6_3
+    2300036: Booth1_6_4
+    2300038: Booth1_6_5
+    2300040: Booth1_6_6
+    2300042: Booth1_6_7
+    2300044: Booth1_6_8
+    2300046: Booth1_6_9
+    2300048: Mesh1201
+    2300050: Mesh1203
+    2300052: Mesh1534
+    2300054: Mesh4075
+    3300000: Booth1_101
+    3300002: Booth1_1_1
+    3300004: Booth1_1_2
+    3300006: Booth1_1_3
+    3300008: Booth1_1_4
+    3300010: Booth1_1_5
+    3300012: Booth1_1_6
+    3300014: Booth1_1_7
+    3300016: Booth1_1_8
+    3300018: Booth1_1_9
+    3300020: Booth1_601
+    3300022: Booth1_602
+    3300024: Booth1_603
+    3300026: Booth1_604
+    3300028: Booth1_605
+    3300030: Booth1_6_1
+    3300032: Booth1_6_2
+    3300034: Booth1_6_3
+    3300036: Booth1_6_4
+    3300038: Booth1_6_5
+    3300040: Booth1_6_6
+    3300042: Booth1_6_7
+    3300044: Booth1_6_8
+    3300046: Booth1_6_9
+    3300048: Mesh1201
+    3300050: Mesh1203
+    3300052: Mesh1534
+    3300054: Mesh4075
+    4300000: Booth1_6_8
+    4300002: Booth1_605
+    4300004: Booth1_601
+    4300006: Booth1_604
+    4300008: Booth1_6_9
+    4300010: Booth1_603
+    4300012: Booth1_602
+    4300014: Booth1_6_1
+    4300016: Booth1_6_6
+    4300018: Booth1_6_5
+    4300020: Booth1_6_3
+    4300022: Booth1_6_2
+    4300024: Booth1_6_7
+    4300026: Booth1_6_4
+    4300028: Booth1_1_6
+    4300030: Booth1_1_7
+    4300032: Booth1_1_5
+    4300034: Booth1_1_4
+    4300036: Booth1_1_3
+    4300038: Booth1_1_2
+    4300040: Booth1_1_1
+    4300042: Booth1_1_9
+    4300044: Booth1_1_8
+    4300046: Booth1_101
+    4300048: Mesh1534
+    4300050: Mesh1203
+    4300052: Mesh1201
+    4300054: Mesh4075
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #7187'
+    second: {fileID: 2100000, guid: 68c0ef54d7ec7b141b5a097ee61aa069, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PL 4
+    second: {fileID: 2100000, guid: 28bb0595763e79f408b3f1448212b9ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray DARK_GRE
+    second: {fileID: 2100000, guid: b9505f4860a517247b790612d4090b80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray DK GRY fabric
+    second: {fileID: 2100000, guid: d7cb9a5f595a0fa4e8ef07c2c3255f4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray DRK wood
+    second: {fileID: 2100000, guid: e846ebc3c8a7ba1419704d18176cdf50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _Black_
+    second: {fileID: 2100000, guid: f8062623ead37044a80f47f551c2d81b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _DarkSea
+    second: {fileID: 2100000, guid: 74f09a9fc961aac4fb5d38cf0da83a7e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

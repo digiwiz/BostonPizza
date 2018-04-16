@@ -8,8 +8,8 @@ Material:
   m_PrefabInternal: {fileID: 0}
   m_Name: vray _24
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: _EMISSION
-  m_LightmapFlags: 1
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -39,7 +39,7 @@ Material:
         m_Scale: {x: 0.02, y: 0.02}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: af8778a81ff6705439af66c6df1cb634, type: 3}
+        m_Texture: {fileID: 2800000, guid: ccac631225b95294aaad901e54574c49, type: 3}
         m_Scale: {x: 0.02, y: 0.02}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -72,5 +72,5 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.50735295, g: 0.50735295, b: 0.50735295, a: 1}
+    - _Color: {r: 0.8088235, g: 0.8088235, b: 0.8088235, a: 1}
     - _EmissionColor: {r: 0.52205884, g: 0.52205884, b: 0.52205884, a: 1}
