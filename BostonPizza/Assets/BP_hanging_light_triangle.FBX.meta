@@ -273,7 +273,17 @@ ModelImporter:
     4300098: bulb
     4300100: base
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: f088039dd8519c84aa5e2b3a9379f2f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #27'
+    second: {fileID: 2100000, guid: 1bd3e40c5adec084abf8a9feb53bc7dd, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

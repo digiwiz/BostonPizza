@@ -37,7 +37,22 @@ ModelImporter:
     4300006: Group_5130
     4300008: Group_5129
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #47'
+    second: {fileID: 2100000, guid: 6b441322a0c9069489a24e88a30b403f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #48'
+    second: {fileID: 2100000, guid: 4c33f5ac320f4264282c0eb6568c8133, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #49'
+    second: {fileID: 2100000, guid: 410b9e50005b5ea44a58ea607f97732d, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

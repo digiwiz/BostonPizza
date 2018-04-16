@@ -32,7 +32,17 @@ ModelImporter:
     4300004: Group1977
     4300006: Group1983
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #31'
+    second: {fileID: 2100000, guid: f22613bf73f0b3848b552536d7765399, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #35'
+    second: {fileID: 2100000, guid: 1d95594d0982dc74a81491b018ab84f9, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
