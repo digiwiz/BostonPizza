@@ -13,10 +13,20 @@ ModelImporter:
     3300000: //RootNode
     4300000: Tap
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glossy black
+    second: {fileID: 2100000, guid: 7c670116199907f40bd5bb8d66ab9cd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stainless steel new
+    second: {fileID: 1724786012, guid: 84c793e4960ede04d95606df846d905a, type: 3}
   materials:
     importMaterials: 1
-    materialName: 0
+    materialName: 1
     materialSearch: 1
     materialLocation: 1
   animations:

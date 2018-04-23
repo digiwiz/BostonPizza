@@ -30,10 +30,20 @@ ModelImporter:
     4300004: Tap001
     4300006: Bar_tap_tube
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glossy black
+    second: {fileID: 2100000, guid: 7c670116199907f40bd5bb8d66ab9cd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stainless steel new
+    second: {fileID: 2100000, guid: 2f24b379b255d4e418593814ae753b2f, type: 2}
   materials:
     importMaterials: 1
-    materialName: 0
+    materialName: 1
     materialSearch: 1
     materialLocation: 1
   animations:
