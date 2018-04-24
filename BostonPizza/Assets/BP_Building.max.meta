@@ -4627,7 +4627,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: TL 7
-    second: {fileID: 2100000, guid: 82e4158b435312b4e8512244cdda7421, type: 2}
+    second: {fileID: -739968194, guid: 9eec4734fe7e9a147baa9489a7d4ae8b, type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
