@@ -1214,6 +1214,9 @@ ModelImporter:
     102412: WijnFles70
     102414: WijnFles71
     102416: WijnFlesDo
+    102418: Box001
+    102420: Plane006
+    102422: Plane007
     400000: //RootNode
     400002: Etiket_R01
     400004: Etiket_R02
@@ -2423,6 +2426,9 @@ ModelImporter:
     402412: WijnFles70
     402414: WijnFles71
     402416: WijnFlesDo
+    402418: Box001
+    402420: Plane006
+    402422: Plane007
     2100000: vray _45
     2100002: PL5
     2100004: vray _DarkGra
@@ -2436,6 +2442,7 @@ ModelImporter:
     2100020: vray Neon_Lig
     2100022: PL4
     2100024: Gold
+    2100026: No Name
     2300000: Etiket_R01
     2300002: Etiket_R02
     2300004: Etiket_R03
@@ -3643,6 +3650,9 @@ ModelImporter:
     2302408: WijnFles70
     2302410: WijnFles71
     2302412: WijnFlesDo
+    2302414: Box001
+    2302416: Plane006
+    2302418: Plane007
     3300000: Etiket_R01
     3300002: Etiket_R02
     3300004: Etiket_R03
@@ -4850,6 +4860,9 @@ ModelImporter:
     3302408: WijnFles70
     3302410: WijnFles71
     3302412: WijnFlesDo
+    3302414: Box001
+    3302416: Plane006
+    3302418: Plane007
     4300000: Group459
     4300002: Group458
     4300004: Group334
@@ -6057,11 +6070,49 @@ ModelImporter:
     4302408: Group844
     4302410: Group847
     4302412: Group848
+    4302414: Plane007
+    4302416: Plane006
+    4302418: Box001
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 01389b8bb5c76ff4497cc35a534af6a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PL4
+    second: {fileID: 2100000, guid: 9e9128eed614a7e4baf8f1fa0b81c56f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PL5
+    second: {fileID: 2100000, guid: 1961a461aaee3594d81991fb65073b89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PL6
+    second: {fileID: 2100000, guid: 79cd36a37049b3c438d966fe010bf5f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Neon_Lig
+    second: {fileID: 2100000, guid: 9ee550d0734b5da48aa28c3b949380fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _45
+    second: {fileID: 2100000, guid: b977eb166638038499fc134b070f0c31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _DarkGra
+    second: {fileID: 2100000, guid: 5635bb073c5ed6845ab78d602cd561d0, type: 2}
   materials:
     importMaterials: 1
-    materialName: 0
+    materialName: 1
     materialSearch: 1
     materialLocation: 1
   animations:
@@ -6088,7 +6139,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 0.0254
     meshCompression: 0
     addColliders: 0
     importVisibility: 1

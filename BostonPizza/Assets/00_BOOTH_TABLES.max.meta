@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: 491e9b491615229458ce6a8d133bf637
+timeCreated: 1524522096
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Group1948
+    100004: Group1966
+    100006: Group1984
+    100008: Group2002
+    100010: Group2020
+    100012: Group2038
+    100014: Group2056
+    100016: Group2063
+    100018: Group2127
+    100020: Group2144
+    100022: Group2161
+    100024: Group2178
+    100026: Mesh1501
+    100028: Mesh1506
+    100030: Mesh1511
+    100032: Mesh1516
+    100034: Mesh1521
+    100036: Mesh1526
+    100038: Mesh1531
+    100040: Mesh1548
+    100042: Mesh1758
+    100044: Mesh1763
+    100046: Mesh1768
+    100048: Mesh1773
+    100050: Mesh4097
+    100052: Mesh4098
+    100054: Mesh4099
+    100056: Mesh4100
+    100058: Mesh4101
+    100060: Mesh4102
+    100062: Mesh4103
+    100064: Mesh4104
+    100066: Mesh4105
+    100068: Mesh4106
+    100070: Mesh4107
+    100072: Mesh4108
+    400000: //RootNode
+    400002: Group1948
+    400004: Group1966
+    400006: Group1984
+    400008: Group2002
+    400010: Group2020
+    400012: Group2038
+    400014: Group2056
+    400016: Group2063
+    400018: Group2127
+    400020: Group2144
+    400022: Group2161
+    400024: Group2178
+    400026: Mesh1501
+    400028: Mesh1506
+    400030: Mesh1511
+    400032: Mesh1516
+    400034: Mesh1521
+    400036: Mesh1526
+    400038: Mesh1531
+    400040: Mesh1548
+    400042: Mesh1758
+    400044: Mesh1763
+    400046: Mesh1768
+    400048: Mesh1773
+    400050: Mesh4097
+    400052: Mesh4098
+    400054: Mesh4099
+    400056: Mesh4100
+    400058: Mesh4101
+    400060: Mesh4102
+    400062: Mesh4103
+    400064: Mesh4104
+    400066: Mesh4105
+    400068: Mesh4106
+    400070: Mesh4107
+    400072: Mesh4108
+    2100000: vray Aluminum
+    2100002: vray DRK wood
+    2100004: wood 3
+    2300000: Group1948
+    2300002: Group1966
+    2300004: Group1984
+    2300006: Group2002
+    2300008: Group2020
+    2300010: Group2038
+    2300012: Group2056
+    2300014: Group2063
+    2300016: Group2127
+    2300018: Group2144
+    2300020: Group2161
+    2300022: Group2178
+    2300024: Mesh1501
+    2300026: Mesh1506
+    2300028: Mesh1511
+    2300030: Mesh1516
+    2300032: Mesh1521
+    2300034: Mesh1526
+    2300036: Mesh1531
+    2300038: Mesh1548
+    2300040: Mesh1758
+    2300042: Mesh1763
+    2300044: Mesh1768
+    2300046: Mesh1773
+    2300048: Mesh4097
+    2300050: Mesh4098
+    2300052: Mesh4099
+    2300054: Mesh4100
+    2300056: Mesh4101
+    2300058: Mesh4102
+    2300060: Mesh4103
+    2300062: Mesh4104
+    2300064: Mesh4105
+    2300066: Mesh4106
+    2300068: Mesh4107
+    2300070: Mesh4108
+    3300000: Group1948
+    3300002: Group1966
+    3300004: Group1984
+    3300006: Group2002
+    3300008: Group2020
+    3300010: Group2038
+    3300012: Group2056
+    3300014: Group2063
+    3300016: Group2127
+    3300018: Group2144
+    3300020: Group2161
+    3300022: Group2178
+    3300024: Mesh1501
+    3300026: Mesh1506
+    3300028: Mesh1511
+    3300030: Mesh1516
+    3300032: Mesh1521
+    3300034: Mesh1526
+    3300036: Mesh1531
+    3300038: Mesh1548
+    3300040: Mesh1758
+    3300042: Mesh1763
+    3300044: Mesh1768
+    3300046: Mesh1773
+    3300048: Mesh4097
+    3300050: Mesh4098
+    3300052: Mesh4099
+    3300054: Mesh4100
+    3300056: Mesh4101
+    3300058: Mesh4102
+    3300060: Mesh4103
+    3300062: Mesh4104
+    3300064: Mesh4105
+    3300066: Mesh4106
+    3300068: Mesh4107
+    3300070: Mesh4108
+    4300000: Mesh1531
+    4300002: Group2056
+    4300004: Mesh1516
+    4300006: Group2002
+    4300008: Group1966
+    4300010: Mesh1506
+    4300012: Mesh1501
+    4300014: Group1948
+    4300016: Group2038
+    4300018: Mesh1526
+    4300020: Mesh1521
+    4300022: Group2020
+    4300024: Mesh1511
+    4300026: Group1984
+    4300028: Group2178
+    4300030: Mesh1773
+    4300032: Group2161
+    4300034: Mesh1768
+    4300036: Mesh1763
+    4300038: Group2144
+    4300040: Mesh1758
+    4300042: Group2127
+    4300044: Group2063
+    4300046: Mesh1548
+    4300048: Mesh4097
+    4300050: Mesh4098
+    4300052: Mesh4099
+    4300054: Mesh4100
+    4300056: Mesh4101
+    4300058: Mesh4102
+    4300060: Mesh4103
+    4300062: Mesh4104
+    4300064: Mesh4105
+    4300066: Mesh4106
+    4300068: Mesh4107
+    4300070: Mesh4108
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Aluminum
+    second: {fileID: 2100000, guid: cf65112d558a45447b7dc38f47eb80f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray DRK wood
+    second: {fileID: 2100000, guid: e846ebc3c8a7ba1419704d18176cdf50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood 3
+    second: {fileID: 2100000, guid: 314aa2bdce387c24980be3ad812c3d03, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

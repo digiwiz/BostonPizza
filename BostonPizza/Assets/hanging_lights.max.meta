@@ -1,0 +1,2660 @@
+fileFormatVersion: 2
+guid: 329032bbb67b30042adae0b48d25e806
+timeCreated: 1524515641
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AcDbPolyFaceMesh E_27_721
+    100002: AcDbPolyFaceMesh E_27_722
+    100004: AcDbPolyFaceMesh E_27_723
+    100006: AcDbPolyFaceMesh E_27_724
+    100008: AcDbPolyFaceMesh E_27_725
+    100010: AcDbPolyFaceMesh E_27_726
+    100012: AcDbPolyFaceMesh E_27_727
+    100014: AcDbPolyFaceMesh E_27_728
+    100016: AcDbPolyFaceMesh E_27_729
+    100018: AcDbPolyFaceMesh E_27_730
+    100020: AcDbPolyFaceMesh E_27_731
+    100022: AcDbPolyFaceMesh E_27_732
+    100024: AcDbPolyFaceMesh E_27_733
+    100026: AcDbPolyFaceMesh E_27_734
+    100028: AcDbPolyFaceMesh E_27_735
+    100030: AcDbPolyFaceMesh E_27_736
+    100032: AcDbPolyFaceMesh E_27_737
+    100034: AcDbPolyFaceMesh E_27_738
+    100036: AcDbPolyFaceMesh E_27_739
+    100038: AcDbPolyFaceMesh E_27_740
+    100040: AcDbPolyFaceMesh E_27_741
+    100042: AcDbPolyFaceMesh E_27_742
+    100044: AcDbPolyFaceMesh E_27_743
+    100046: AcDbPolyFaceMesh E_27_744
+    100048: AcDbPolyFaceMesh E_27_745
+    100050: AcDbPolyFaceMesh E_27_746
+    100052: AcDbPolyFaceMesh E_27_747
+    100054: AcDbPolyFaceMesh E_27_748
+    100056: AcDbPolyFaceMesh E_27_749
+    100058: AcDbPolyFaceMesh E_27_750
+    100060: AcDbPolyFaceMesh E_27_751
+    100062: AcDbPolyFaceMesh E_27_752
+    100064: AcDbPolyFaceMesh E_27_753
+    100066: AcDbPolyFaceMesh E_27_754
+    100068: AcDbPolyFaceMesh E_27_755
+    100070: AcDbPolyFaceMesh E_27_756
+    100072: AcDbPolyFaceMesh E_27_757
+    100074: AcDbPolyFaceMesh E_27_758
+    100076: AcDbPolyFaceMesh E_27_759
+    100078: AcDbPolyFaceMesh E_27_760
+    100080: AcDbPolyFaceMesh E_27_761
+    100082: AcDbPolyFaceMesh E_27_762
+    100084: AcDbPolyFaceMesh E_27_763
+    100086: AcDbPolyFaceMesh E_27_764
+    100088: AcDbPolyFaceMesh E_27_765
+    100090: AcDbPolyFaceMesh E_27_766
+    100092: AcDbPolyFaceMesh E_27_767
+    100094: AcDbPolyFaceMesh E_27_768
+    100096: AcDbPolyFaceMesh E_27_769
+    100098: AcDbPolyFaceMesh E_27_770
+    100100: AcDbPolyFaceMesh E_27_771
+    100102: AcDbPolyFaceMesh E_27_772
+    100104: AcDbPolyFaceMesh E_27_773
+    100106: AcDbPolyFaceMesh E_27_774
+    100108: AcDbPolyFaceMesh E_27_775
+    100110: AcDbPolyFaceMesh E_27_776
+    100112: AcDbPolyFaceMesh E_27_777
+    100114: AcDbPolyFaceMesh E_27_778
+    100116: AcDbPolyFaceMesh E_27_779
+    100118: AcDbPolyFaceMesh E_27_780
+    100120: AcDbPolyFaceMesh E_27_781
+    100122: AcDbPolyFaceMesh E_27_782
+    100124: AcDbPolyFaceMesh E_27_783
+    100126: AcDbPolyFaceMesh E_27_784
+    100128: AcDbPolyFaceMesh E_27_785
+    100130: AcDbPolyFaceMesh E_27_786
+    100132: AcDbPolyFaceMesh E_27_787
+    100134: AcDbPolyFaceMesh E_27_788
+    100136: AcDbPolyFaceMesh E_27_789
+    100138: AcDbPolyFaceMesh E_27_790
+    100140: AcDbPolyFaceMesh E_27_791
+    100142: AcDbPolyFaceMesh E_27_792
+    100144: AcDbPolyFaceMesh E_27_793
+    100146: AcDbPolyFaceMesh E_27_794
+    100148: AcDbPolyFaceMesh E_27_795
+    100150: AcDbPolyFaceMesh E_27_796
+    100152: AcDbPolyFaceMesh E_27_797
+    100154: AcDbPolyFaceMesh E_27_798
+    100156: AcDbPolyFaceMesh E_27_799
+    100158: AcDbPolyFaceMesh E_27_800
+    100160: AcDbPolyFaceMesh E_27_801
+    100162: AcDbPolyFaceMesh E_27_802
+    100164: AcDbPolyFaceMesh E_27_803
+    100166: AcDbPolyFaceMesh E_27_804
+    100168: AcDbPolyFaceMesh E_27_805
+    100170: AcDbPolyFaceMesh E_27_806
+    100172: AcDbPolyFaceMesh E_27_807
+    100174: AcDbPolyFaceMesh E_27_808
+    100176: AcDbPolyFaceMesh E_27_809
+    100178: AcDbPolyFaceMesh E_27_810
+    100180: AcDbPolyFaceMesh E_27_811
+    100182: AcDbPolyFaceMesh E_27_812
+    100184: AcDbPolyFaceMesh E_27_813
+    100186: AcDbPolyFaceMesh E_27_814
+    100188: AcDbPolyFaceMesh E_27_815
+    100190: AcDbPolyFaceMesh E_27_816
+    100192: AcDbPolyFaceMesh E_27_817
+    100194: AcDbPolyFaceMesh E_27_818
+    100196: AcDbPolyFaceMesh E_27_819
+    100198: AcDbPolyFaceMesh E_27_820
+    100200: AcDbPolyFaceMesh E_27_821
+    100202: AcDbPolyFaceMesh E_27_822
+    100204: AcDbPolyFaceMesh E_27_823
+    100206: AcDbPolyFaceMesh E_27_824
+    100208: AcDbPolyFaceMesh E_27_825
+    100210: AcDbPolyFaceMesh E_27_826
+    100212: AcDbPolyFaceMesh E_27_827
+    100214: AcDbPolyFaceMesh E_27_828
+    100216: AcDbPolyFaceMesh E_27_829
+    100218: AcDbPolyFaceMesh E_27_830
+    100220: AcDbPolyFaceMesh E_27_831
+    100222: AcDbPolyFaceMesh E_27_832
+    100224: AcDbPolyFaceMesh E_27_833
+    100226: AcDbPolyFaceMesh E_27_834
+    100228: AcDbPolyFaceMesh E_27_835
+    100230: AcDbPolyFaceMesh E_27_836
+    100232: AcDbPolyFaceMesh E_27_837
+    100234: AcDbPolyFaceMesh E_27_838
+    100236: AcDbPolyFaceMesh E_27_839
+    100238: AcDbPolyFaceMesh E_27_840
+    100240: AcDbPolyFaceMesh E_27_841
+    100242: AcDbPolyFaceMesh E_27_842
+    100244: AcDbPolyFaceMesh E_27_843
+    100246: AcDbPolyFaceMesh E_27_844
+    100248: AcDbPolyFaceMesh E_27_845
+    100250: AcDbPolyFaceMesh E_27_846
+    100252: AcDbPolyFaceMesh E_27_847
+    100254: AcDbPolyFaceMesh E_27_848
+    100256: AcDbPolyFaceMesh E_27_849
+    100258: AcDbPolyFaceMesh E_27_850
+    100260: AcDbPolyFaceMesh E_27_851
+    100262: AcDbPolyFaceMesh E_27_852
+    100264: AcDbPolyFaceMesh E_27_853
+    100266: AcDbPolyFaceMesh E_27_854
+    100268: AcDbPolyFaceMesh E_27_855
+    100270: AcDbPolyFaceMesh E_27_856
+    100272: AcDbPolyFaceMesh E_27_857
+    100274: AcDbPolyFaceMesh E_27_858
+    100276: AcDbPolyFaceMesh E_27_859
+    100278: AcDbPolyFaceMesh E_27_860
+    100280: AcDbPolyFaceMesh E_27_861
+    100282: AcDbPolyFaceMesh E_27_862
+    100284: AcDbPolyFaceMesh E_27_863
+    100286: AcDbPolyFaceMesh E_27_864
+    100288: AcDbPolyFaceMesh E_27_865
+    100290: AcDbPolyFaceMesh E_27_866
+    100292: AcDbPolyFaceMesh E_27_867
+    100294: AcDbPolyFaceMesh E_27_868
+    100296: AcDbPolyFaceMesh E_27_869
+    100298: AcDbPolyFaceMesh E_27_870
+    100300: AcDbPolyFaceMesh E_27_871
+    100302: AcDbPolyFaceMesh E_27_872
+    100304: AcDbPolyFaceMesh E_27_873
+    100306: AcDbPolyFaceMesh E_27_874
+    100308: AcDbPolyFaceMesh E_27_875
+    100310: AcDbPolyFaceMesh E_27_876
+    100312: AcDbPolyFaceMesh E_27_877
+    100314: AcDbPolyFaceMesh E_27_878
+    100316: AcDbPolyFaceMesh E_27_879
+    100318: AcDbPolyFaceMesh E_27_880
+    100320: AcDbPolyFaceMesh E_27_881
+    100322: AcDbPolyFaceMesh E_27_882
+    100324: AcDbPolyFaceMesh E_27_883
+    100326: AcDbPolyFaceMesh E_27_884
+    100328: AcDbPolyFaceMesh E_27_885
+    100330: AcDbPolyFaceMesh E_27_886
+    100332: AcDbPolyFaceMesh E_27_887
+    100334: AcDbPolyFaceMesh E_27_888
+    100336: AcDbPolyFaceMesh E_27_889
+    100338: AcDbPolyFaceMesh E_27_890
+    100340: AcDbPolyFaceMesh E_27_891
+    100342: AcDbPolyFaceMesh E_27_892
+    100344: AcDbPolyFaceMesh E_27_893
+    100346: AcDbPolyFaceMesh E_27_894
+    100348: AcDbPolyFaceMesh E_27_895
+    100350: AcDbPolyFaceMesh E_27_896
+    100352: AcDbPolyFaceMesh E_27_897
+    100354: AcDbPolyFaceMesh E_27_898
+    100356: AcDbPolyFaceMesh E_27_899
+    100358: AcDbPolyFaceMesh E_27_900
+    100360: AcDbPolyFaceMesh E_27_901
+    100362: AcDbPolyFaceMesh E_27_902
+    100364: AcDbPolyFaceMesh E_27_903
+    100366: AcDbPolyFaceMesh E_27_904
+    100368: AcDbPolyFaceMesh E_27_905
+    100370: AcDbPolyFaceMesh E_27_906
+    100372: AcDbPolyFaceMesh E_27_907
+    100374: AcDbPolyFaceMesh E_27_908
+    100376: AcDbPolyFaceMesh E_27_909
+    100378: E_27 polySurface1_721
+    100380: E_27 polySurface1_722
+    100382: E_27 polySurface1_723
+    100384: E_27 polySurface1_724
+    100386: E_27 polySurface1_725
+    100388: E_27 polySurface1_726
+    100390: E_27 polySurface1_727
+    100392: E_27 polySurface1_728
+    100394: E_27 polySurface1_729
+    100396: E_27 polySurface1_730
+    100398: E_27 polySurface1_731
+    100400: E_27 polySurface1_732
+    100402: E_27 polySurface1_733
+    100404: E_27 polySurface1_734
+    100406: E_27 polySurface1_735
+    100408: E_27 polySurface1_736
+    100410: E_27 polySurface1_737
+    100412: E_27 polySurface1_738
+    100414: E_27 polySurface1_739
+    100416: E_27 polySurface1_740
+    100418: E_27 polySurface1_741
+    100420: E_27 polySurface1_742
+    100422: E_27 polySurface1_743
+    100424: E_27 polySurface1_744
+    100426: E_27 polySurface1_745
+    100428: E_27 polySurface1_746
+    100430: E_27 polySurface1_747
+    100432: E_27 polySurface1_748
+    100434: E_27 polySurface1_749
+    100436: E_27 polySurface1_750
+    100438: E_27 polySurface1_751
+    100440: E_27 polySurface1_752
+    100442: E_27 polySurface1_753
+    100444: E_27 polySurface1_754
+    100446: E_27 polySurface1_755
+    100448: E_27 polySurface1_756
+    100450: E_27 polySurface1_757
+    100452: E_27 polySurface1_758
+    100454: E_27 polySurface1_759
+    100456: E_27 polySurface1_760
+    100458: E_27 polySurface1_761
+    100460: E_27 polySurface1_762
+    100462: E_27 polySurface1_763
+    100464: E_27 polySurface1_764
+    100466: E_27 polySurface1_765
+    100468: E_27 polySurface1_766
+    100470: E_27 polySurface1_767
+    100472: E_27 polySurface1_768
+    100474: E_27 polySurface1_769
+    100476: E_27 polySurface1_770
+    100478: E_27 polySurface1_771
+    100480: E_27 polySurface1_772
+    100482: E_27 polySurface1_773
+    100484: E_27 polySurface1_774
+    100486: E_27 polySurface1_775
+    100488: E_27 polySurface1_776
+    100490: E_27 polySurface1_777
+    100492: E_27 polySurface1_778
+    100494: E_27 polySurface1_779
+    100496: E_27 polySurface1_780
+    100498: E_27 polySurface1_781
+    100500: E_27 polySurface1_782
+    100502: E_27 polySurface1_783
+    100504: E_27 polySurface1_784
+    100506: E_27 polySurface1_785
+    100508: E_27 polySurface1_786
+    100510: E_27 polySurface1_787
+    100512: E_27 polySurface1_788
+    100514: E_27 polySurface1_789
+    100516: E_27 polySurface1_790
+    100518: E_27 polySurface1_791
+    100520: E_27 polySurface1_792
+    100522: E_27 polySurface1_793
+    100524: E_27 polySurface1_794
+    100526: E_27 polySurface1_795
+    100528: E_27 polySurface1_796
+    100530: E_27 polySurface1_797
+    100532: E_27 polySurface1_798
+    100534: E_27 polySurface1_799
+    100536: E_27 polySurface1_800
+    100538: E_27 polySurface1_801
+    100540: E_27 polySurface1_802
+    100542: E_27 polySurface1_803
+    100544: E_27 polySurface1_804
+    100546: E_27 polySurface1_805
+    100548: E_27 polySurface1_806
+    100550: E_27 polySurface1_807
+    100552: E_27 polySurface1_808
+    100554: E_27 polySurface1_809
+    100556: E_27 polySurface1_810
+    100558: E_27 polySurface1_811
+    100560: E_27 polySurface1_812
+    100562: E_27 polySurface1_813
+    100564: E_27 polySurface1_814
+    100566: E_27 polySurface1_815
+    100568: E_27 polySurface1_816
+    100570: E_27 polySurface1_817
+    100572: E_27 polySurface1_818
+    100574: E_27 polySurface1_819
+    100576: E_27 polySurface1_820
+    100578: E_27 polySurface1_821
+    100580: E_27 polySurface1_822
+    100582: E_27 polySurface1_823
+    100584: E_27 polySurface1_824
+    100586: E_27 polySurface1_825
+    100588: E_27 polySurface1_826
+    100590: E_27 polySurface1_827
+    100592: E_27 polySurface1_828
+    100594: E_27 polySurface1_829
+    100596: E_27 polySurface1_830
+    100598: E_27 polySurface1_831
+    100600: E_27 polySurface1_832
+    100602: E_27 polySurface1_833
+    100604: E_27 polySurface1_834
+    100606: E_27 polySurface1_835
+    100608: E_27 polySurface1_836
+    100610: E_27 polySurface1_837
+    100612: E_27 polySurface1_838
+    100614: E_27 polySurface1_839
+    100616: E_27 polySurface1_840
+    100618: E_27 polySurface1_841
+    100620: E_27 polySurface1_842
+    100622: E_27 polySurface1_843
+    100624: E_27 polySurface1_844
+    100626: E_27 polySurface1_845
+    100628: E_27 polySurface1_846
+    100630: E_27 polySurface1_847
+    100632: E_27 polySurface1_848
+    100634: E_27 polySurface1_849
+    100636: E_27 polySurface1_850
+    100638: E_27 polySurface1_851
+    100640: E_27 polySurface1_852
+    100642: E_27 polySurface1_853
+    100644: E_27 polySurface1_854
+    100646: E_27 polySurface1_855
+    100648: E_27 polySurface1_856
+    100650: E_27 polySurface1_857
+    100652: E_27 polySurface1_858
+    100654: E_27 polySurface1_859
+    100656: E_27 polySurface1_860
+    100658: E_27 polySurface1_861
+    100660: E_27 polySurface1_862
+    100662: E_27 polySurface1_863
+    100664: E_27 polySurface1_864
+    100666: E_27 polySurface1_865
+    100668: E_27 polySurface1_866
+    100670: E_27 polySurface1_867
+    100672: E_27 polySurface1_868
+    100674: E_27 polySurface1_869
+    100676: E_27 polySurface1_870
+    100678: E_27 polySurface1_871
+    100680: E_27 polySurface1_872
+    100682: E_27 polySurface1_873
+    100684: E_27 polySurface1_874
+    100686: E_27 polySurface1_875
+    100688: E_27 polySurface1_876
+    100690: E_27 polySurface1_877
+    100692: E_27 polySurface1_878
+    100694: E_27 polySurface1_879
+    100696: E_27 polySurface1_880
+    100698: E_27 polySurface1_881
+    100700: E_27 polySurface1_882
+    100702: E_27 polySurface1_883
+    100704: E_27 polySurface1_884
+    100706: E_27 polySurface1_885
+    100708: E_27 polySurface1_886
+    100710: E_27 polySurface1_887
+    100712: E_27 polySurface1_888
+    100714: E_27 polySurface1_889
+    100716: E_27 polySurface1_890
+    100718: E_27 polySurface1_891
+    100720: E_27 polySurface1_892
+    100722: E_27 polySurface1_893
+    100724: E_27 polySurface1_894
+    100726: E_27 polySurface1_895
+    100728: E_27 polySurface1_896
+    100730: E_27 polySurface1_897
+    100732: E_27 polySurface1_898
+    100734: E_27 polySurface1_899
+    100736: E_27 polySurface1_900
+    100738: E_27 polySurface1_901
+    100740: E_27 polySurface1_902
+    100742: E_27 polySurface1_903
+    100744: E_27 polySurface1_904
+    100746: E_27 polySurface1_905
+    100748: E_27 polySurface1_906
+    100750: E_27 polySurface1_907
+    100752: E_27 polySurface1_908
+    100754: E_27 polySurface1_909
+    100756: Group2131
+    100758: Group2132
+    100760: Group2133
+    100762: Group2134
+    100764: Group2135
+    100766: Group2136
+    100768: Group2137
+    100770: Group2138
+    100772: Group2139
+    100774: Group2140
+    100776: Group2141
+    100778: Group2142
+    100780: Group2143
+    100782: Group2144
+    100784: Group2145
+    100786: Group2146
+    100788: Group2147
+    100790: Group2148
+    100792: Group2149
+    100794: Group2150
+    100796: Group2151
+    100798: Group2152
+    100800: Group2153
+    100802: Group2154
+    100804: Group2155
+    100806: Group2156
+    100808: Group2157
+    100810: Group2158
+    100812: Group2159
+    100814: Group2160
+    100816: Group2161
+    100818: Group2162
+    100820: Group2163
+    100822: Group2164
+    100824: Group2165
+    100826: Group2166
+    100828: Group2167
+    100830: Group2168
+    100832: Group2169
+    100834: Group2170
+    100836: Group2171
+    100838: Group2172
+    100840: Group2173
+    100842: Group2174
+    100844: Group2175
+    100846: Group2176
+    100848: Group2177
+    100850: Group2178
+    100852: Group2179
+    100854: Group2180
+    100856: Group2181
+    100858: Group2182
+    100860: Group2183
+    100862: Group2184
+    100864: Group2185
+    100866: Group2186
+    100868: Group2187
+    100870: Group2188
+    100872: Group2189
+    100874: Group2190
+    100876: Group2191
+    100878: Group2192
+    100880: Group2193
+    100882: Group2194
+    100884: Group2195
+    100886: Group2196
+    100888: Group2197
+    100890: Group2198
+    100892: Group2199
+    100894: Group2200
+    100896: Group2201
+    100898: Group2202
+    100900: Group2203
+    100902: Group2204
+    100904: Group2205
+    100906: Group2206
+    100908: Group2207
+    100910: Group2208
+    100912: Group2209
+    100914: Group2210
+    100916: Group2211
+    100918: Group2212
+    100920: Group2213
+    100922: Group2214
+    100924: Group2215
+    100926: Group2216
+    100928: Group2217
+    100930: Group2218
+    100932: Group2219
+    100934: Group2220
+    100936: Group2221
+    100938: Group2222
+    100940: Group2223
+    100942: Group2224
+    100944: Group2225
+    100946: Group2226
+    100948: Group2227
+    100950: Group2228
+    100952: Group2229
+    100954: Group2230
+    100956: Group2231
+    100958: Group2232
+    100960: Group2233
+    100962: Group2234
+    100964: Group2235
+    100966: Group2236
+    100968: Group2237
+    100970: Group2238
+    100972: Group2239
+    100974: Group2240
+    100976: Group2241
+    100978: Group2242
+    100980: Group2243
+    100982: Group2244
+    100984: Group2245
+    100986: Group2246
+    100988: Group2247
+    100990: Group2248
+    100992: Group2249
+    100994: Group2250
+    100996: Group2251
+    100998: Group2252
+    101000: Group2253
+    101002: Group2254
+    101004: Group2255
+    101006: Group2256
+    101008: Group2257
+    101010: Group2258
+    101012: Group2259
+    101014: Group2260
+    101016: Group2261
+    101018: Group2262
+    101020: Group2263
+    101022: Group2264
+    101024: Group2265
+    101026: Group2266
+    101028: Group2267
+    101030: Group2268
+    101032: Group2269
+    101034: Group2270
+    101036: Group2271
+    101038: Group2272
+    101040: Group2273
+    101042: Group2274
+    101044: Group2275
+    101046: Group2276
+    101048: Group2277
+    101050: Group2278
+    101052: Group2279
+    101054: Group2280
+    101056: Group2281
+    101058: Group2282
+    101060: Group2283
+    101062: Group2284
+    101064: Group2285
+    101066: Group2286
+    101068: Group2670
+    101070: Group2671
+    101072: Group2672
+    101074: Group2673
+    101076: Group2674
+    101078: Group2675
+    101080: Group2676
+    101082: Group2677
+    101084: Group2678
+    101086: Group2679
+    101088: Group2680
+    101090: Group2681
+    101092: Group2682
+    101094: Group2683
+    101096: Group2684
+    101098: Group2685
+    101100: Group2686
+    101102: Group2687
+    101104: Group2688
+    101106: Group2689
+    101108: Group2690
+    101110: Group2691
+    101112: Group2692
+    101114: Group2693
+    101116: Group2694
+    101118: Group2695
+    101120: Group2696
+    101122: Group2697
+    101124: Group2698
+    101126: Group2699
+    101128: Group2700
+    101130: Group2701
+    101132: Group2702
+    101134: Group2703
+    101136: Group2704
+    101138: Group2705
+    101140: Group2706
+    101142: Group2707
+    101144: Group2708
+    101146: Group2709
+    101148: Group2710
+    101150: Group2711
+    101152: Group2712
+    101154: Group2713
+    101156: Group2714
+    101158: Group2715
+    101160: Group2716
+    101162: Group2717
+    101164: Group2718
+    101166: Group2719
+    101168: Group2720
+    101170: Group2721
+    101172: Group2722
+    101174: Group2723
+    101176: Group2724
+    101178: Group2725
+    101180: Group2726
+    101182: Group2727
+    101184: Group2728
+    101186: Group2729
+    101188: Group2730
+    101190: Group2731
+    101192: Group2732
+    101194: Group2733
+    101196: Group2734
+    101198: Group2735
+    101200: Group2736
+    101202: Group2737
+    101204: Group2738
+    101206: Group2739
+    101208: Group2740
+    101210: Group2741
+    101212: Group2742
+    101214: Group2743
+    101216: Group2744
+    101218: Group2745
+    101220: Group2746
+    101222: Group2747
+    101224: //RootNode
+    101226: Line1080
+    101228: Line1081
+    101230: Line1082
+    101232: Line1083
+    101234: Line1084
+    101236: Line1085
+    101238: Line1086
+    101240: Line1087
+    101242: Line1088
+    101244: Line1089
+    101246: Line1090
+    101248: Line1091
+    101250: Line1092
+    101252: Line1093
+    101254: Line462
+    101256: Line463
+    101258: Line464
+    101260: Line465
+    101262: Line466
+    101264: Line467
+    101266: Line468
+    101268: Line469
+    101270: Line470
+    101272: Line471
+    101274: Line472
+    101276: Line473
+    101278: Line474
+    101280: Line475
+    101282: Line476
+    101284: Line477
+    101286: Line478
+    101288: Line479
+    101290: Line480
+    101292: Line481
+    101294: Line482
+    101296: Line483
+    101298: Line484
+    101300: Line485
+    101302: Line486
+    101304: Line487
+    101306: Line488
+    101308: Line489
+    400000: AcDbPolyFaceMesh E_27_721
+    400002: AcDbPolyFaceMesh E_27_722
+    400004: AcDbPolyFaceMesh E_27_723
+    400006: AcDbPolyFaceMesh E_27_724
+    400008: AcDbPolyFaceMesh E_27_725
+    400010: AcDbPolyFaceMesh E_27_726
+    400012: AcDbPolyFaceMesh E_27_727
+    400014: AcDbPolyFaceMesh E_27_728
+    400016: AcDbPolyFaceMesh E_27_729
+    400018: AcDbPolyFaceMesh E_27_730
+    400020: AcDbPolyFaceMesh E_27_731
+    400022: AcDbPolyFaceMesh E_27_732
+    400024: AcDbPolyFaceMesh E_27_733
+    400026: AcDbPolyFaceMesh E_27_734
+    400028: AcDbPolyFaceMesh E_27_735
+    400030: AcDbPolyFaceMesh E_27_736
+    400032: AcDbPolyFaceMesh E_27_737
+    400034: AcDbPolyFaceMesh E_27_738
+    400036: AcDbPolyFaceMesh E_27_739
+    400038: AcDbPolyFaceMesh E_27_740
+    400040: AcDbPolyFaceMesh E_27_741
+    400042: AcDbPolyFaceMesh E_27_742
+    400044: AcDbPolyFaceMesh E_27_743
+    400046: AcDbPolyFaceMesh E_27_744
+    400048: AcDbPolyFaceMesh E_27_745
+    400050: AcDbPolyFaceMesh E_27_746
+    400052: AcDbPolyFaceMesh E_27_747
+    400054: AcDbPolyFaceMesh E_27_748
+    400056: AcDbPolyFaceMesh E_27_749
+    400058: AcDbPolyFaceMesh E_27_750
+    400060: AcDbPolyFaceMesh E_27_751
+    400062: AcDbPolyFaceMesh E_27_752
+    400064: AcDbPolyFaceMesh E_27_753
+    400066: AcDbPolyFaceMesh E_27_754
+    400068: AcDbPolyFaceMesh E_27_755
+    400070: AcDbPolyFaceMesh E_27_756
+    400072: AcDbPolyFaceMesh E_27_757
+    400074: AcDbPolyFaceMesh E_27_758
+    400076: AcDbPolyFaceMesh E_27_759
+    400078: AcDbPolyFaceMesh E_27_760
+    400080: AcDbPolyFaceMesh E_27_761
+    400082: AcDbPolyFaceMesh E_27_762
+    400084: AcDbPolyFaceMesh E_27_763
+    400086: AcDbPolyFaceMesh E_27_764
+    400088: AcDbPolyFaceMesh E_27_765
+    400090: AcDbPolyFaceMesh E_27_766
+    400092: AcDbPolyFaceMesh E_27_767
+    400094: AcDbPolyFaceMesh E_27_768
+    400096: AcDbPolyFaceMesh E_27_769
+    400098: AcDbPolyFaceMesh E_27_770
+    400100: AcDbPolyFaceMesh E_27_771
+    400102: AcDbPolyFaceMesh E_27_772
+    400104: AcDbPolyFaceMesh E_27_773
+    400106: AcDbPolyFaceMesh E_27_774
+    400108: AcDbPolyFaceMesh E_27_775
+    400110: AcDbPolyFaceMesh E_27_776
+    400112: AcDbPolyFaceMesh E_27_777
+    400114: AcDbPolyFaceMesh E_27_778
+    400116: AcDbPolyFaceMesh E_27_779
+    400118: AcDbPolyFaceMesh E_27_780
+    400120: AcDbPolyFaceMesh E_27_781
+    400122: AcDbPolyFaceMesh E_27_782
+    400124: AcDbPolyFaceMesh E_27_783
+    400126: AcDbPolyFaceMesh E_27_784
+    400128: AcDbPolyFaceMesh E_27_785
+    400130: AcDbPolyFaceMesh E_27_786
+    400132: AcDbPolyFaceMesh E_27_787
+    400134: AcDbPolyFaceMesh E_27_788
+    400136: AcDbPolyFaceMesh E_27_789
+    400138: AcDbPolyFaceMesh E_27_790
+    400140: AcDbPolyFaceMesh E_27_791
+    400142: AcDbPolyFaceMesh E_27_792
+    400144: AcDbPolyFaceMesh E_27_793
+    400146: AcDbPolyFaceMesh E_27_794
+    400148: AcDbPolyFaceMesh E_27_795
+    400150: AcDbPolyFaceMesh E_27_796
+    400152: AcDbPolyFaceMesh E_27_797
+    400154: AcDbPolyFaceMesh E_27_798
+    400156: AcDbPolyFaceMesh E_27_799
+    400158: AcDbPolyFaceMesh E_27_800
+    400160: AcDbPolyFaceMesh E_27_801
+    400162: AcDbPolyFaceMesh E_27_802
+    400164: AcDbPolyFaceMesh E_27_803
+    400166: AcDbPolyFaceMesh E_27_804
+    400168: AcDbPolyFaceMesh E_27_805
+    400170: AcDbPolyFaceMesh E_27_806
+    400172: AcDbPolyFaceMesh E_27_807
+    400174: AcDbPolyFaceMesh E_27_808
+    400176: AcDbPolyFaceMesh E_27_809
+    400178: AcDbPolyFaceMesh E_27_810
+    400180: AcDbPolyFaceMesh E_27_811
+    400182: AcDbPolyFaceMesh E_27_812
+    400184: AcDbPolyFaceMesh E_27_813
+    400186: AcDbPolyFaceMesh E_27_814
+    400188: AcDbPolyFaceMesh E_27_815
+    400190: AcDbPolyFaceMesh E_27_816
+    400192: AcDbPolyFaceMesh E_27_817
+    400194: AcDbPolyFaceMesh E_27_818
+    400196: AcDbPolyFaceMesh E_27_819
+    400198: AcDbPolyFaceMesh E_27_820
+    400200: AcDbPolyFaceMesh E_27_821
+    400202: AcDbPolyFaceMesh E_27_822
+    400204: AcDbPolyFaceMesh E_27_823
+    400206: AcDbPolyFaceMesh E_27_824
+    400208: AcDbPolyFaceMesh E_27_825
+    400210: AcDbPolyFaceMesh E_27_826
+    400212: AcDbPolyFaceMesh E_27_827
+    400214: AcDbPolyFaceMesh E_27_828
+    400216: AcDbPolyFaceMesh E_27_829
+    400218: AcDbPolyFaceMesh E_27_830
+    400220: AcDbPolyFaceMesh E_27_831
+    400222: AcDbPolyFaceMesh E_27_832
+    400224: AcDbPolyFaceMesh E_27_833
+    400226: AcDbPolyFaceMesh E_27_834
+    400228: AcDbPolyFaceMesh E_27_835
+    400230: AcDbPolyFaceMesh E_27_836
+    400232: AcDbPolyFaceMesh E_27_837
+    400234: AcDbPolyFaceMesh E_27_838
+    400236: AcDbPolyFaceMesh E_27_839
+    400238: AcDbPolyFaceMesh E_27_840
+    400240: AcDbPolyFaceMesh E_27_841
+    400242: AcDbPolyFaceMesh E_27_842
+    400244: AcDbPolyFaceMesh E_27_843
+    400246: AcDbPolyFaceMesh E_27_844
+    400248: AcDbPolyFaceMesh E_27_845
+    400250: AcDbPolyFaceMesh E_27_846
+    400252: AcDbPolyFaceMesh E_27_847
+    400254: AcDbPolyFaceMesh E_27_848
+    400256: AcDbPolyFaceMesh E_27_849
+    400258: AcDbPolyFaceMesh E_27_850
+    400260: AcDbPolyFaceMesh E_27_851
+    400262: AcDbPolyFaceMesh E_27_852
+    400264: AcDbPolyFaceMesh E_27_853
+    400266: AcDbPolyFaceMesh E_27_854
+    400268: AcDbPolyFaceMesh E_27_855
+    400270: AcDbPolyFaceMesh E_27_856
+    400272: AcDbPolyFaceMesh E_27_857
+    400274: AcDbPolyFaceMesh E_27_858
+    400276: AcDbPolyFaceMesh E_27_859
+    400278: AcDbPolyFaceMesh E_27_860
+    400280: AcDbPolyFaceMesh E_27_861
+    400282: AcDbPolyFaceMesh E_27_862
+    400284: AcDbPolyFaceMesh E_27_863
+    400286: AcDbPolyFaceMesh E_27_864
+    400288: AcDbPolyFaceMesh E_27_865
+    400290: AcDbPolyFaceMesh E_27_866
+    400292: AcDbPolyFaceMesh E_27_867
+    400294: AcDbPolyFaceMesh E_27_868
+    400296: AcDbPolyFaceMesh E_27_869
+    400298: AcDbPolyFaceMesh E_27_870
+    400300: AcDbPolyFaceMesh E_27_871
+    400302: AcDbPolyFaceMesh E_27_872
+    400304: AcDbPolyFaceMesh E_27_873
+    400306: AcDbPolyFaceMesh E_27_874
+    400308: AcDbPolyFaceMesh E_27_875
+    400310: AcDbPolyFaceMesh E_27_876
+    400312: AcDbPolyFaceMesh E_27_877
+    400314: AcDbPolyFaceMesh E_27_878
+    400316: AcDbPolyFaceMesh E_27_879
+    400318: AcDbPolyFaceMesh E_27_880
+    400320: AcDbPolyFaceMesh E_27_881
+    400322: AcDbPolyFaceMesh E_27_882
+    400324: AcDbPolyFaceMesh E_27_883
+    400326: AcDbPolyFaceMesh E_27_884
+    400328: AcDbPolyFaceMesh E_27_885
+    400330: AcDbPolyFaceMesh E_27_886
+    400332: AcDbPolyFaceMesh E_27_887
+    400334: AcDbPolyFaceMesh E_27_888
+    400336: AcDbPolyFaceMesh E_27_889
+    400338: AcDbPolyFaceMesh E_27_890
+    400340: AcDbPolyFaceMesh E_27_891
+    400342: AcDbPolyFaceMesh E_27_892
+    400344: AcDbPolyFaceMesh E_27_893
+    400346: AcDbPolyFaceMesh E_27_894
+    400348: AcDbPolyFaceMesh E_27_895
+    400350: AcDbPolyFaceMesh E_27_896
+    400352: AcDbPolyFaceMesh E_27_897
+    400354: AcDbPolyFaceMesh E_27_898
+    400356: AcDbPolyFaceMesh E_27_899
+    400358: AcDbPolyFaceMesh E_27_900
+    400360: AcDbPolyFaceMesh E_27_901
+    400362: AcDbPolyFaceMesh E_27_902
+    400364: AcDbPolyFaceMesh E_27_903
+    400366: AcDbPolyFaceMesh E_27_904
+    400368: AcDbPolyFaceMesh E_27_905
+    400370: AcDbPolyFaceMesh E_27_906
+    400372: AcDbPolyFaceMesh E_27_907
+    400374: AcDbPolyFaceMesh E_27_908
+    400376: AcDbPolyFaceMesh E_27_909
+    400378: E_27 polySurface1_721
+    400380: E_27 polySurface1_722
+    400382: E_27 polySurface1_723
+    400384: E_27 polySurface1_724
+    400386: E_27 polySurface1_725
+    400388: E_27 polySurface1_726
+    400390: E_27 polySurface1_727
+    400392: E_27 polySurface1_728
+    400394: E_27 polySurface1_729
+    400396: E_27 polySurface1_730
+    400398: E_27 polySurface1_731
+    400400: E_27 polySurface1_732
+    400402: E_27 polySurface1_733
+    400404: E_27 polySurface1_734
+    400406: E_27 polySurface1_735
+    400408: E_27 polySurface1_736
+    400410: E_27 polySurface1_737
+    400412: E_27 polySurface1_738
+    400414: E_27 polySurface1_739
+    400416: E_27 polySurface1_740
+    400418: E_27 polySurface1_741
+    400420: E_27 polySurface1_742
+    400422: E_27 polySurface1_743
+    400424: E_27 polySurface1_744
+    400426: E_27 polySurface1_745
+    400428: E_27 polySurface1_746
+    400430: E_27 polySurface1_747
+    400432: E_27 polySurface1_748
+    400434: E_27 polySurface1_749
+    400436: E_27 polySurface1_750
+    400438: E_27 polySurface1_751
+    400440: E_27 polySurface1_752
+    400442: E_27 polySurface1_753
+    400444: E_27 polySurface1_754
+    400446: E_27 polySurface1_755
+    400448: E_27 polySurface1_756
+    400450: E_27 polySurface1_757
+    400452: E_27 polySurface1_758
+    400454: E_27 polySurface1_759
+    400456: E_27 polySurface1_760
+    400458: E_27 polySurface1_761
+    400460: E_27 polySurface1_762
+    400462: E_27 polySurface1_763
+    400464: E_27 polySurface1_764
+    400466: E_27 polySurface1_765
+    400468: E_27 polySurface1_766
+    400470: E_27 polySurface1_767
+    400472: E_27 polySurface1_768
+    400474: E_27 polySurface1_769
+    400476: E_27 polySurface1_770
+    400478: E_27 polySurface1_771
+    400480: E_27 polySurface1_772
+    400482: E_27 polySurface1_773
+    400484: E_27 polySurface1_774
+    400486: E_27 polySurface1_775
+    400488: E_27 polySurface1_776
+    400490: E_27 polySurface1_777
+    400492: E_27 polySurface1_778
+    400494: E_27 polySurface1_779
+    400496: E_27 polySurface1_780
+    400498: E_27 polySurface1_781
+    400500: E_27 polySurface1_782
+    400502: E_27 polySurface1_783
+    400504: E_27 polySurface1_784
+    400506: E_27 polySurface1_785
+    400508: E_27 polySurface1_786
+    400510: E_27 polySurface1_787
+    400512: E_27 polySurface1_788
+    400514: E_27 polySurface1_789
+    400516: E_27 polySurface1_790
+    400518: E_27 polySurface1_791
+    400520: E_27 polySurface1_792
+    400522: E_27 polySurface1_793
+    400524: E_27 polySurface1_794
+    400526: E_27 polySurface1_795
+    400528: E_27 polySurface1_796
+    400530: E_27 polySurface1_797
+    400532: E_27 polySurface1_798
+    400534: E_27 polySurface1_799
+    400536: E_27 polySurface1_800
+    400538: E_27 polySurface1_801
+    400540: E_27 polySurface1_802
+    400542: E_27 polySurface1_803
+    400544: E_27 polySurface1_804
+    400546: E_27 polySurface1_805
+    400548: E_27 polySurface1_806
+    400550: E_27 polySurface1_807
+    400552: E_27 polySurface1_808
+    400554: E_27 polySurface1_809
+    400556: E_27 polySurface1_810
+    400558: E_27 polySurface1_811
+    400560: E_27 polySurface1_812
+    400562: E_27 polySurface1_813
+    400564: E_27 polySurface1_814
+    400566: E_27 polySurface1_815
+    400568: E_27 polySurface1_816
+    400570: E_27 polySurface1_817
+    400572: E_27 polySurface1_818
+    400574: E_27 polySurface1_819
+    400576: E_27 polySurface1_820
+    400578: E_27 polySurface1_821
+    400580: E_27 polySurface1_822
+    400582: E_27 polySurface1_823
+    400584: E_27 polySurface1_824
+    400586: E_27 polySurface1_825
+    400588: E_27 polySurface1_826
+    400590: E_27 polySurface1_827
+    400592: E_27 polySurface1_828
+    400594: E_27 polySurface1_829
+    400596: E_27 polySurface1_830
+    400598: E_27 polySurface1_831
+    400600: E_27 polySurface1_832
+    400602: E_27 polySurface1_833
+    400604: E_27 polySurface1_834
+    400606: E_27 polySurface1_835
+    400608: E_27 polySurface1_836
+    400610: E_27 polySurface1_837
+    400612: E_27 polySurface1_838
+    400614: E_27 polySurface1_839
+    400616: E_27 polySurface1_840
+    400618: E_27 polySurface1_841
+    400620: E_27 polySurface1_842
+    400622: E_27 polySurface1_843
+    400624: E_27 polySurface1_844
+    400626: E_27 polySurface1_845
+    400628: E_27 polySurface1_846
+    400630: E_27 polySurface1_847
+    400632: E_27 polySurface1_848
+    400634: E_27 polySurface1_849
+    400636: E_27 polySurface1_850
+    400638: E_27 polySurface1_851
+    400640: E_27 polySurface1_852
+    400642: E_27 polySurface1_853
+    400644: E_27 polySurface1_854
+    400646: E_27 polySurface1_855
+    400648: E_27 polySurface1_856
+    400650: E_27 polySurface1_857
+    400652: E_27 polySurface1_858
+    400654: E_27 polySurface1_859
+    400656: E_27 polySurface1_860
+    400658: E_27 polySurface1_861
+    400660: E_27 polySurface1_862
+    400662: E_27 polySurface1_863
+    400664: E_27 polySurface1_864
+    400666: E_27 polySurface1_865
+    400668: E_27 polySurface1_866
+    400670: E_27 polySurface1_867
+    400672: E_27 polySurface1_868
+    400674: E_27 polySurface1_869
+    400676: E_27 polySurface1_870
+    400678: E_27 polySurface1_871
+    400680: E_27 polySurface1_872
+    400682: E_27 polySurface1_873
+    400684: E_27 polySurface1_874
+    400686: E_27 polySurface1_875
+    400688: E_27 polySurface1_876
+    400690: E_27 polySurface1_877
+    400692: E_27 polySurface1_878
+    400694: E_27 polySurface1_879
+    400696: E_27 polySurface1_880
+    400698: E_27 polySurface1_881
+    400700: E_27 polySurface1_882
+    400702: E_27 polySurface1_883
+    400704: E_27 polySurface1_884
+    400706: E_27 polySurface1_885
+    400708: E_27 polySurface1_886
+    400710: E_27 polySurface1_887
+    400712: E_27 polySurface1_888
+    400714: E_27 polySurface1_889
+    400716: E_27 polySurface1_890
+    400718: E_27 polySurface1_891
+    400720: E_27 polySurface1_892
+    400722: E_27 polySurface1_893
+    400724: E_27 polySurface1_894
+    400726: E_27 polySurface1_895
+    400728: E_27 polySurface1_896
+    400730: E_27 polySurface1_897
+    400732: E_27 polySurface1_898
+    400734: E_27 polySurface1_899
+    400736: E_27 polySurface1_900
+    400738: E_27 polySurface1_901
+    400740: E_27 polySurface1_902
+    400742: E_27 polySurface1_903
+    400744: E_27 polySurface1_904
+    400746: E_27 polySurface1_905
+    400748: E_27 polySurface1_906
+    400750: E_27 polySurface1_907
+    400752: E_27 polySurface1_908
+    400754: E_27 polySurface1_909
+    400756: Group2131
+    400758: Group2132
+    400760: Group2133
+    400762: Group2134
+    400764: Group2135
+    400766: Group2136
+    400768: Group2137
+    400770: Group2138
+    400772: Group2139
+    400774: Group2140
+    400776: Group2141
+    400778: Group2142
+    400780: Group2143
+    400782: Group2144
+    400784: Group2145
+    400786: Group2146
+    400788: Group2147
+    400790: Group2148
+    400792: Group2149
+    400794: Group2150
+    400796: Group2151
+    400798: Group2152
+    400800: Group2153
+    400802: Group2154
+    400804: Group2155
+    400806: Group2156
+    400808: Group2157
+    400810: Group2158
+    400812: Group2159
+    400814: Group2160
+    400816: Group2161
+    400818: Group2162
+    400820: Group2163
+    400822: Group2164
+    400824: Group2165
+    400826: Group2166
+    400828: Group2167
+    400830: Group2168
+    400832: Group2169
+    400834: Group2170
+    400836: Group2171
+    400838: Group2172
+    400840: Group2173
+    400842: Group2174
+    400844: Group2175
+    400846: Group2176
+    400848: Group2177
+    400850: Group2178
+    400852: Group2179
+    400854: Group2180
+    400856: Group2181
+    400858: Group2182
+    400860: Group2183
+    400862: Group2184
+    400864: Group2185
+    400866: Group2186
+    400868: Group2187
+    400870: Group2188
+    400872: Group2189
+    400874: Group2190
+    400876: Group2191
+    400878: Group2192
+    400880: Group2193
+    400882: Group2194
+    400884: Group2195
+    400886: Group2196
+    400888: Group2197
+    400890: Group2198
+    400892: Group2199
+    400894: Group2200
+    400896: Group2201
+    400898: Group2202
+    400900: Group2203
+    400902: Group2204
+    400904: Group2205
+    400906: Group2206
+    400908: Group2207
+    400910: Group2208
+    400912: Group2209
+    400914: Group2210
+    400916: Group2211
+    400918: Group2212
+    400920: Group2213
+    400922: Group2214
+    400924: Group2215
+    400926: Group2216
+    400928: Group2217
+    400930: Group2218
+    400932: Group2219
+    400934: Group2220
+    400936: Group2221
+    400938: Group2222
+    400940: Group2223
+    400942: Group2224
+    400944: Group2225
+    400946: Group2226
+    400948: Group2227
+    400950: Group2228
+    400952: Group2229
+    400954: Group2230
+    400956: Group2231
+    400958: Group2232
+    400960: Group2233
+    400962: Group2234
+    400964: Group2235
+    400966: Group2236
+    400968: Group2237
+    400970: Group2238
+    400972: Group2239
+    400974: Group2240
+    400976: Group2241
+    400978: Group2242
+    400980: Group2243
+    400982: Group2244
+    400984: Group2245
+    400986: Group2246
+    400988: Group2247
+    400990: Group2248
+    400992: Group2249
+    400994: Group2250
+    400996: Group2251
+    400998: Group2252
+    401000: Group2253
+    401002: Group2254
+    401004: Group2255
+    401006: Group2256
+    401008: Group2257
+    401010: Group2258
+    401012: Group2259
+    401014: Group2260
+    401016: Group2261
+    401018: Group2262
+    401020: Group2263
+    401022: Group2264
+    401024: Group2265
+    401026: Group2266
+    401028: Group2267
+    401030: Group2268
+    401032: Group2269
+    401034: Group2270
+    401036: Group2271
+    401038: Group2272
+    401040: Group2273
+    401042: Group2274
+    401044: Group2275
+    401046: Group2276
+    401048: Group2277
+    401050: Group2278
+    401052: Group2279
+    401054: Group2280
+    401056: Group2281
+    401058: Group2282
+    401060: Group2283
+    401062: Group2284
+    401064: Group2285
+    401066: Group2286
+    401068: Group2670
+    401070: Group2671
+    401072: Group2672
+    401074: Group2673
+    401076: Group2674
+    401078: Group2675
+    401080: Group2676
+    401082: Group2677
+    401084: Group2678
+    401086: Group2679
+    401088: Group2680
+    401090: Group2681
+    401092: Group2682
+    401094: Group2683
+    401096: Group2684
+    401098: Group2685
+    401100: Group2686
+    401102: Group2687
+    401104: Group2688
+    401106: Group2689
+    401108: Group2690
+    401110: Group2691
+    401112: Group2692
+    401114: Group2693
+    401116: Group2694
+    401118: Group2695
+    401120: Group2696
+    401122: Group2697
+    401124: Group2698
+    401126: Group2699
+    401128: Group2700
+    401130: Group2701
+    401132: Group2702
+    401134: Group2703
+    401136: Group2704
+    401138: Group2705
+    401140: Group2706
+    401142: Group2707
+    401144: Group2708
+    401146: Group2709
+    401148: Group2710
+    401150: Group2711
+    401152: Group2712
+    401154: Group2713
+    401156: Group2714
+    401158: Group2715
+    401160: Group2716
+    401162: Group2717
+    401164: Group2718
+    401166: Group2719
+    401168: Group2720
+    401170: Group2721
+    401172: Group2722
+    401174: Group2723
+    401176: Group2724
+    401178: Group2725
+    401180: Group2726
+    401182: Group2727
+    401184: Group2728
+    401186: Group2729
+    401188: Group2730
+    401190: Group2731
+    401192: Group2732
+    401194: Group2733
+    401196: Group2734
+    401198: Group2735
+    401200: Group2736
+    401202: Group2737
+    401204: Group2738
+    401206: Group2739
+    401208: Group2740
+    401210: Group2741
+    401212: Group2742
+    401214: Group2743
+    401216: Group2744
+    401218: Group2745
+    401220: Group2746
+    401222: Group2747
+    401224: //RootNode
+    401226: Line1080
+    401228: Line1081
+    401230: Line1082
+    401232: Line1083
+    401234: Line1084
+    401236: Line1085
+    401238: Line1086
+    401240: Line1087
+    401242: Line1088
+    401244: Line1089
+    401246: Line1090
+    401248: Line1091
+    401250: Line1092
+    401252: Line1093
+    401254: Line462
+    401256: Line463
+    401258: Line464
+    401260: Line465
+    401262: Line466
+    401264: Line467
+    401266: Line468
+    401268: Line469
+    401270: Line470
+    401272: Line471
+    401274: Line472
+    401276: Line473
+    401278: Line474
+    401280: Line475
+    401282: Line476
+    401284: Line477
+    401286: Line478
+    401288: Line479
+    401290: Line480
+    401292: Line481
+    401294: Line482
+    401296: Line483
+    401298: Line484
+    401300: Line485
+    401302: Line486
+    401304: Line487
+    401306: Line488
+    401308: Line489
+    2100000: 'Material #2wqdqwdw'
+    2100002: bulb
+    2300000: AcDbPolyFaceMesh E_27_721
+    2300002: AcDbPolyFaceMesh E_27_722
+    2300004: AcDbPolyFaceMesh E_27_723
+    2300006: AcDbPolyFaceMesh E_27_724
+    2300008: AcDbPolyFaceMesh E_27_725
+    2300010: AcDbPolyFaceMesh E_27_726
+    2300012: AcDbPolyFaceMesh E_27_727
+    2300014: AcDbPolyFaceMesh E_27_728
+    2300016: AcDbPolyFaceMesh E_27_729
+    2300018: AcDbPolyFaceMesh E_27_730
+    2300020: AcDbPolyFaceMesh E_27_731
+    2300022: AcDbPolyFaceMesh E_27_732
+    2300024: AcDbPolyFaceMesh E_27_733
+    2300026: AcDbPolyFaceMesh E_27_734
+    2300028: AcDbPolyFaceMesh E_27_735
+    2300030: AcDbPolyFaceMesh E_27_736
+    2300032: AcDbPolyFaceMesh E_27_737
+    2300034: AcDbPolyFaceMesh E_27_738
+    2300036: AcDbPolyFaceMesh E_27_739
+    2300038: AcDbPolyFaceMesh E_27_740
+    2300040: AcDbPolyFaceMesh E_27_741
+    2300042: AcDbPolyFaceMesh E_27_742
+    2300044: AcDbPolyFaceMesh E_27_743
+    2300046: AcDbPolyFaceMesh E_27_744
+    2300048: AcDbPolyFaceMesh E_27_745
+    2300050: AcDbPolyFaceMesh E_27_746
+    2300052: AcDbPolyFaceMesh E_27_747
+    2300054: AcDbPolyFaceMesh E_27_748
+    2300056: AcDbPolyFaceMesh E_27_749
+    2300058: AcDbPolyFaceMesh E_27_750
+    2300060: AcDbPolyFaceMesh E_27_751
+    2300062: AcDbPolyFaceMesh E_27_752
+    2300064: AcDbPolyFaceMesh E_27_753
+    2300066: AcDbPolyFaceMesh E_27_754
+    2300068: AcDbPolyFaceMesh E_27_755
+    2300070: AcDbPolyFaceMesh E_27_756
+    2300072: AcDbPolyFaceMesh E_27_757
+    2300074: AcDbPolyFaceMesh E_27_758
+    2300076: AcDbPolyFaceMesh E_27_759
+    2300078: AcDbPolyFaceMesh E_27_760
+    2300080: AcDbPolyFaceMesh E_27_761
+    2300082: AcDbPolyFaceMesh E_27_762
+    2300084: AcDbPolyFaceMesh E_27_763
+    2300086: AcDbPolyFaceMesh E_27_764
+    2300088: AcDbPolyFaceMesh E_27_765
+    2300090: AcDbPolyFaceMesh E_27_766
+    2300092: AcDbPolyFaceMesh E_27_767
+    2300094: AcDbPolyFaceMesh E_27_768
+    2300096: AcDbPolyFaceMesh E_27_769
+    2300098: AcDbPolyFaceMesh E_27_770
+    2300100: AcDbPolyFaceMesh E_27_771
+    2300102: AcDbPolyFaceMesh E_27_772
+    2300104: AcDbPolyFaceMesh E_27_773
+    2300106: AcDbPolyFaceMesh E_27_774
+    2300108: AcDbPolyFaceMesh E_27_775
+    2300110: AcDbPolyFaceMesh E_27_776
+    2300112: AcDbPolyFaceMesh E_27_777
+    2300114: AcDbPolyFaceMesh E_27_778
+    2300116: AcDbPolyFaceMesh E_27_779
+    2300118: AcDbPolyFaceMesh E_27_780
+    2300120: AcDbPolyFaceMesh E_27_781
+    2300122: AcDbPolyFaceMesh E_27_782
+    2300124: AcDbPolyFaceMesh E_27_783
+    2300126: AcDbPolyFaceMesh E_27_784
+    2300128: AcDbPolyFaceMesh E_27_785
+    2300130: AcDbPolyFaceMesh E_27_786
+    2300132: AcDbPolyFaceMesh E_27_787
+    2300134: AcDbPolyFaceMesh E_27_788
+    2300136: AcDbPolyFaceMesh E_27_789
+    2300138: AcDbPolyFaceMesh E_27_790
+    2300140: AcDbPolyFaceMesh E_27_791
+    2300142: AcDbPolyFaceMesh E_27_792
+    2300144: AcDbPolyFaceMesh E_27_793
+    2300146: AcDbPolyFaceMesh E_27_794
+    2300148: AcDbPolyFaceMesh E_27_795
+    2300150: AcDbPolyFaceMesh E_27_796
+    2300152: AcDbPolyFaceMesh E_27_797
+    2300154: AcDbPolyFaceMesh E_27_798
+    2300156: AcDbPolyFaceMesh E_27_799
+    2300158: AcDbPolyFaceMesh E_27_800
+    2300160: AcDbPolyFaceMesh E_27_801
+    2300162: AcDbPolyFaceMesh E_27_802
+    2300164: AcDbPolyFaceMesh E_27_803
+    2300166: AcDbPolyFaceMesh E_27_804
+    2300168: AcDbPolyFaceMesh E_27_805
+    2300170: AcDbPolyFaceMesh E_27_806
+    2300172: AcDbPolyFaceMesh E_27_807
+    2300174: AcDbPolyFaceMesh E_27_808
+    2300176: AcDbPolyFaceMesh E_27_809
+    2300178: AcDbPolyFaceMesh E_27_810
+    2300180: AcDbPolyFaceMesh E_27_811
+    2300182: AcDbPolyFaceMesh E_27_812
+    2300184: AcDbPolyFaceMesh E_27_813
+    2300186: AcDbPolyFaceMesh E_27_814
+    2300188: AcDbPolyFaceMesh E_27_815
+    2300190: AcDbPolyFaceMesh E_27_816
+    2300192: AcDbPolyFaceMesh E_27_817
+    2300194: AcDbPolyFaceMesh E_27_818
+    2300196: AcDbPolyFaceMesh E_27_819
+    2300198: AcDbPolyFaceMesh E_27_820
+    2300200: AcDbPolyFaceMesh E_27_821
+    2300202: AcDbPolyFaceMesh E_27_822
+    2300204: AcDbPolyFaceMesh E_27_823
+    2300206: AcDbPolyFaceMesh E_27_824
+    2300208: AcDbPolyFaceMesh E_27_825
+    2300210: AcDbPolyFaceMesh E_27_826
+    2300212: AcDbPolyFaceMesh E_27_827
+    2300214: AcDbPolyFaceMesh E_27_828
+    2300216: AcDbPolyFaceMesh E_27_829
+    2300218: AcDbPolyFaceMesh E_27_830
+    2300220: AcDbPolyFaceMesh E_27_831
+    2300222: AcDbPolyFaceMesh E_27_832
+    2300224: AcDbPolyFaceMesh E_27_833
+    2300226: AcDbPolyFaceMesh E_27_834
+    2300228: AcDbPolyFaceMesh E_27_835
+    2300230: AcDbPolyFaceMesh E_27_836
+    2300232: AcDbPolyFaceMesh E_27_837
+    2300234: AcDbPolyFaceMesh E_27_838
+    2300236: AcDbPolyFaceMesh E_27_839
+    2300238: AcDbPolyFaceMesh E_27_840
+    2300240: AcDbPolyFaceMesh E_27_841
+    2300242: AcDbPolyFaceMesh E_27_842
+    2300244: AcDbPolyFaceMesh E_27_843
+    2300246: AcDbPolyFaceMesh E_27_844
+    2300248: AcDbPolyFaceMesh E_27_845
+    2300250: AcDbPolyFaceMesh E_27_846
+    2300252: AcDbPolyFaceMesh E_27_847
+    2300254: AcDbPolyFaceMesh E_27_848
+    2300256: AcDbPolyFaceMesh E_27_849
+    2300258: AcDbPolyFaceMesh E_27_850
+    2300260: AcDbPolyFaceMesh E_27_851
+    2300262: AcDbPolyFaceMesh E_27_852
+    2300264: AcDbPolyFaceMesh E_27_853
+    2300266: AcDbPolyFaceMesh E_27_854
+    2300268: AcDbPolyFaceMesh E_27_855
+    2300270: AcDbPolyFaceMesh E_27_856
+    2300272: AcDbPolyFaceMesh E_27_857
+    2300274: AcDbPolyFaceMesh E_27_858
+    2300276: AcDbPolyFaceMesh E_27_859
+    2300278: AcDbPolyFaceMesh E_27_860
+    2300280: AcDbPolyFaceMesh E_27_861
+    2300282: AcDbPolyFaceMesh E_27_862
+    2300284: AcDbPolyFaceMesh E_27_863
+    2300286: AcDbPolyFaceMesh E_27_864
+    2300288: AcDbPolyFaceMesh E_27_865
+    2300290: AcDbPolyFaceMesh E_27_866
+    2300292: AcDbPolyFaceMesh E_27_867
+    2300294: AcDbPolyFaceMesh E_27_868
+    2300296: AcDbPolyFaceMesh E_27_869
+    2300298: AcDbPolyFaceMesh E_27_870
+    2300300: AcDbPolyFaceMesh E_27_871
+    2300302: AcDbPolyFaceMesh E_27_872
+    2300304: AcDbPolyFaceMesh E_27_873
+    2300306: AcDbPolyFaceMesh E_27_874
+    2300308: AcDbPolyFaceMesh E_27_875
+    2300310: AcDbPolyFaceMesh E_27_876
+    2300312: AcDbPolyFaceMesh E_27_877
+    2300314: AcDbPolyFaceMesh E_27_878
+    2300316: AcDbPolyFaceMesh E_27_879
+    2300318: AcDbPolyFaceMesh E_27_880
+    2300320: AcDbPolyFaceMesh E_27_881
+    2300322: AcDbPolyFaceMesh E_27_882
+    2300324: AcDbPolyFaceMesh E_27_883
+    2300326: AcDbPolyFaceMesh E_27_884
+    2300328: AcDbPolyFaceMesh E_27_885
+    2300330: AcDbPolyFaceMesh E_27_886
+    2300332: AcDbPolyFaceMesh E_27_887
+    2300334: AcDbPolyFaceMesh E_27_888
+    2300336: AcDbPolyFaceMesh E_27_889
+    2300338: AcDbPolyFaceMesh E_27_890
+    2300340: AcDbPolyFaceMesh E_27_891
+    2300342: AcDbPolyFaceMesh E_27_892
+    2300344: AcDbPolyFaceMesh E_27_893
+    2300346: AcDbPolyFaceMesh E_27_894
+    2300348: AcDbPolyFaceMesh E_27_895
+    2300350: AcDbPolyFaceMesh E_27_896
+    2300352: AcDbPolyFaceMesh E_27_897
+    2300354: AcDbPolyFaceMesh E_27_898
+    2300356: AcDbPolyFaceMesh E_27_899
+    2300358: AcDbPolyFaceMesh E_27_900
+    2300360: AcDbPolyFaceMesh E_27_901
+    2300362: AcDbPolyFaceMesh E_27_902
+    2300364: AcDbPolyFaceMesh E_27_903
+    2300366: AcDbPolyFaceMesh E_27_904
+    2300368: AcDbPolyFaceMesh E_27_905
+    2300370: AcDbPolyFaceMesh E_27_906
+    2300372: AcDbPolyFaceMesh E_27_907
+    2300374: AcDbPolyFaceMesh E_27_908
+    2300376: AcDbPolyFaceMesh E_27_909
+    2300378: E_27 polySurface1_721
+    2300380: E_27 polySurface1_722
+    2300382: E_27 polySurface1_723
+    2300384: E_27 polySurface1_724
+    2300386: E_27 polySurface1_725
+    2300388: E_27 polySurface1_726
+    2300390: E_27 polySurface1_727
+    2300392: E_27 polySurface1_728
+    2300394: E_27 polySurface1_729
+    2300396: E_27 polySurface1_730
+    2300398: E_27 polySurface1_731
+    2300400: E_27 polySurface1_732
+    2300402: E_27 polySurface1_733
+    2300404: E_27 polySurface1_734
+    2300406: E_27 polySurface1_735
+    2300408: E_27 polySurface1_736
+    2300410: E_27 polySurface1_737
+    2300412: E_27 polySurface1_738
+    2300414: E_27 polySurface1_739
+    2300416: E_27 polySurface1_740
+    2300418: E_27 polySurface1_741
+    2300420: E_27 polySurface1_742
+    2300422: E_27 polySurface1_743
+    2300424: E_27 polySurface1_744
+    2300426: E_27 polySurface1_745
+    2300428: E_27 polySurface1_746
+    2300430: E_27 polySurface1_747
+    2300432: E_27 polySurface1_748
+    2300434: E_27 polySurface1_749
+    2300436: E_27 polySurface1_750
+    2300438: E_27 polySurface1_751
+    2300440: E_27 polySurface1_752
+    2300442: E_27 polySurface1_753
+    2300444: E_27 polySurface1_754
+    2300446: E_27 polySurface1_755
+    2300448: E_27 polySurface1_756
+    2300450: E_27 polySurface1_757
+    2300452: E_27 polySurface1_758
+    2300454: E_27 polySurface1_759
+    2300456: E_27 polySurface1_760
+    2300458: E_27 polySurface1_761
+    2300460: E_27 polySurface1_762
+    2300462: E_27 polySurface1_763
+    2300464: E_27 polySurface1_764
+    2300466: E_27 polySurface1_765
+    2300468: E_27 polySurface1_766
+    2300470: E_27 polySurface1_767
+    2300472: E_27 polySurface1_768
+    2300474: E_27 polySurface1_769
+    2300476: E_27 polySurface1_770
+    2300478: E_27 polySurface1_771
+    2300480: E_27 polySurface1_772
+    2300482: E_27 polySurface1_773
+    2300484: E_27 polySurface1_774
+    2300486: E_27 polySurface1_775
+    2300488: E_27 polySurface1_776
+    2300490: E_27 polySurface1_777
+    2300492: E_27 polySurface1_778
+    2300494: E_27 polySurface1_779
+    2300496: E_27 polySurface1_780
+    2300498: E_27 polySurface1_781
+    2300500: E_27 polySurface1_782
+    2300502: E_27 polySurface1_783
+    2300504: E_27 polySurface1_784
+    2300506: E_27 polySurface1_785
+    2300508: E_27 polySurface1_786
+    2300510: E_27 polySurface1_787
+    2300512: E_27 polySurface1_788
+    2300514: E_27 polySurface1_789
+    2300516: E_27 polySurface1_790
+    2300518: E_27 polySurface1_791
+    2300520: E_27 polySurface1_792
+    2300522: E_27 polySurface1_793
+    2300524: E_27 polySurface1_794
+    2300526: E_27 polySurface1_795
+    2300528: E_27 polySurface1_796
+    2300530: E_27 polySurface1_797
+    2300532: E_27 polySurface1_798
+    2300534: E_27 polySurface1_799
+    2300536: E_27 polySurface1_800
+    2300538: E_27 polySurface1_801
+    2300540: E_27 polySurface1_802
+    2300542: E_27 polySurface1_803
+    2300544: E_27 polySurface1_804
+    2300546: E_27 polySurface1_805
+    2300548: E_27 polySurface1_806
+    2300550: E_27 polySurface1_807
+    2300552: E_27 polySurface1_808
+    2300554: E_27 polySurface1_809
+    2300556: E_27 polySurface1_810
+    2300558: E_27 polySurface1_811
+    2300560: E_27 polySurface1_812
+    2300562: E_27 polySurface1_813
+    2300564: E_27 polySurface1_814
+    2300566: E_27 polySurface1_815
+    2300568: E_27 polySurface1_816
+    2300570: E_27 polySurface1_817
+    2300572: E_27 polySurface1_818
+    2300574: E_27 polySurface1_819
+    2300576: E_27 polySurface1_820
+    2300578: E_27 polySurface1_821
+    2300580: E_27 polySurface1_822
+    2300582: E_27 polySurface1_823
+    2300584: E_27 polySurface1_824
+    2300586: E_27 polySurface1_825
+    2300588: E_27 polySurface1_826
+    2300590: E_27 polySurface1_827
+    2300592: E_27 polySurface1_828
+    2300594: E_27 polySurface1_829
+    2300596: E_27 polySurface1_830
+    2300598: E_27 polySurface1_831
+    2300600: E_27 polySurface1_832
+    2300602: E_27 polySurface1_833
+    2300604: E_27 polySurface1_834
+    2300606: E_27 polySurface1_835
+    2300608: E_27 polySurface1_836
+    2300610: E_27 polySurface1_837
+    2300612: E_27 polySurface1_838
+    2300614: E_27 polySurface1_839
+    2300616: E_27 polySurface1_840
+    2300618: E_27 polySurface1_841
+    2300620: E_27 polySurface1_842
+    2300622: E_27 polySurface1_843
+    2300624: E_27 polySurface1_844
+    2300626: E_27 polySurface1_845
+    2300628: E_27 polySurface1_846
+    2300630: E_27 polySurface1_847
+    2300632: E_27 polySurface1_848
+    2300634: E_27 polySurface1_849
+    2300636: E_27 polySurface1_850
+    2300638: E_27 polySurface1_851
+    2300640: E_27 polySurface1_852
+    2300642: E_27 polySurface1_853
+    2300644: E_27 polySurface1_854
+    2300646: E_27 polySurface1_855
+    2300648: E_27 polySurface1_856
+    2300650: E_27 polySurface1_857
+    2300652: E_27 polySurface1_858
+    2300654: E_27 polySurface1_859
+    2300656: E_27 polySurface1_860
+    2300658: E_27 polySurface1_861
+    2300660: E_27 polySurface1_862
+    2300662: E_27 polySurface1_863
+    2300664: E_27 polySurface1_864
+    2300666: E_27 polySurface1_865
+    2300668: E_27 polySurface1_866
+    2300670: E_27 polySurface1_867
+    2300672: E_27 polySurface1_868
+    2300674: E_27 polySurface1_869
+    2300676: E_27 polySurface1_870
+    2300678: E_27 polySurface1_871
+    2300680: E_27 polySurface1_872
+    2300682: E_27 polySurface1_873
+    2300684: E_27 polySurface1_874
+    2300686: E_27 polySurface1_875
+    2300688: E_27 polySurface1_876
+    2300690: E_27 polySurface1_877
+    2300692: E_27 polySurface1_878
+    2300694: E_27 polySurface1_879
+    2300696: E_27 polySurface1_880
+    2300698: E_27 polySurface1_881
+    2300700: E_27 polySurface1_882
+    2300702: E_27 polySurface1_883
+    2300704: E_27 polySurface1_884
+    2300706: E_27 polySurface1_885
+    2300708: E_27 polySurface1_886
+    2300710: E_27 polySurface1_887
+    2300712: E_27 polySurface1_888
+    2300714: E_27 polySurface1_889
+    2300716: E_27 polySurface1_890
+    2300718: E_27 polySurface1_891
+    2300720: E_27 polySurface1_892
+    2300722: E_27 polySurface1_893
+    2300724: E_27 polySurface1_894
+    2300726: E_27 polySurface1_895
+    2300728: E_27 polySurface1_896
+    2300730: E_27 polySurface1_897
+    2300732: E_27 polySurface1_898
+    2300734: E_27 polySurface1_899
+    2300736: E_27 polySurface1_900
+    2300738: E_27 polySurface1_901
+    2300740: E_27 polySurface1_902
+    2300742: E_27 polySurface1_903
+    2300744: E_27 polySurface1_904
+    2300746: E_27 polySurface1_905
+    2300748: E_27 polySurface1_906
+    2300750: E_27 polySurface1_907
+    2300752: E_27 polySurface1_908
+    2300754: E_27 polySurface1_909
+    2300756: Line1080
+    2300758: Line1081
+    2300760: Line1082
+    2300762: Line1083
+    2300764: Line1084
+    2300766: Line1085
+    2300768: Line1086
+    2300770: Line1087
+    2300772: Line1088
+    2300774: Line1089
+    2300776: Line1090
+    2300778: Line1091
+    2300780: Line1092
+    2300782: Line1093
+    2300784: Line462
+    2300786: Line463
+    2300788: Line464
+    2300790: Line465
+    2300792: Line466
+    2300794: Line467
+    2300796: Line468
+    2300798: Line469
+    2300800: Line470
+    2300802: Line471
+    2300804: Line472
+    2300806: Line473
+    2300808: Line474
+    2300810: Line475
+    2300812: Line476
+    2300814: Line477
+    2300816: Line478
+    2300818: Line479
+    2300820: Line480
+    2300822: Line481
+    2300824: Line482
+    2300826: Line483
+    2300828: Line484
+    2300830: Line485
+    2300832: Line486
+    2300834: Line487
+    2300836: Line488
+    2300838: Line489
+    3300000: AcDbPolyFaceMesh E_27_721
+    3300002: AcDbPolyFaceMesh E_27_722
+    3300004: AcDbPolyFaceMesh E_27_723
+    3300006: AcDbPolyFaceMesh E_27_724
+    3300008: AcDbPolyFaceMesh E_27_725
+    3300010: AcDbPolyFaceMesh E_27_726
+    3300012: AcDbPolyFaceMesh E_27_727
+    3300014: AcDbPolyFaceMesh E_27_728
+    3300016: AcDbPolyFaceMesh E_27_729
+    3300018: AcDbPolyFaceMesh E_27_730
+    3300020: AcDbPolyFaceMesh E_27_731
+    3300022: AcDbPolyFaceMesh E_27_732
+    3300024: AcDbPolyFaceMesh E_27_733
+    3300026: AcDbPolyFaceMesh E_27_734
+    3300028: AcDbPolyFaceMesh E_27_735
+    3300030: AcDbPolyFaceMesh E_27_736
+    3300032: AcDbPolyFaceMesh E_27_737
+    3300034: AcDbPolyFaceMesh E_27_738
+    3300036: AcDbPolyFaceMesh E_27_739
+    3300038: AcDbPolyFaceMesh E_27_740
+    3300040: AcDbPolyFaceMesh E_27_741
+    3300042: AcDbPolyFaceMesh E_27_742
+    3300044: AcDbPolyFaceMesh E_27_743
+    3300046: AcDbPolyFaceMesh E_27_744
+    3300048: AcDbPolyFaceMesh E_27_745
+    3300050: AcDbPolyFaceMesh E_27_746
+    3300052: AcDbPolyFaceMesh E_27_747
+    3300054: AcDbPolyFaceMesh E_27_748
+    3300056: AcDbPolyFaceMesh E_27_749
+    3300058: AcDbPolyFaceMesh E_27_750
+    3300060: AcDbPolyFaceMesh E_27_751
+    3300062: AcDbPolyFaceMesh E_27_752
+    3300064: AcDbPolyFaceMesh E_27_753
+    3300066: AcDbPolyFaceMesh E_27_754
+    3300068: AcDbPolyFaceMesh E_27_755
+    3300070: AcDbPolyFaceMesh E_27_756
+    3300072: AcDbPolyFaceMesh E_27_757
+    3300074: AcDbPolyFaceMesh E_27_758
+    3300076: AcDbPolyFaceMesh E_27_759
+    3300078: AcDbPolyFaceMesh E_27_760
+    3300080: AcDbPolyFaceMesh E_27_761
+    3300082: AcDbPolyFaceMesh E_27_762
+    3300084: AcDbPolyFaceMesh E_27_763
+    3300086: AcDbPolyFaceMesh E_27_764
+    3300088: AcDbPolyFaceMesh E_27_765
+    3300090: AcDbPolyFaceMesh E_27_766
+    3300092: AcDbPolyFaceMesh E_27_767
+    3300094: AcDbPolyFaceMesh E_27_768
+    3300096: AcDbPolyFaceMesh E_27_769
+    3300098: AcDbPolyFaceMesh E_27_770
+    3300100: AcDbPolyFaceMesh E_27_771
+    3300102: AcDbPolyFaceMesh E_27_772
+    3300104: AcDbPolyFaceMesh E_27_773
+    3300106: AcDbPolyFaceMesh E_27_774
+    3300108: AcDbPolyFaceMesh E_27_775
+    3300110: AcDbPolyFaceMesh E_27_776
+    3300112: AcDbPolyFaceMesh E_27_777
+    3300114: AcDbPolyFaceMesh E_27_778
+    3300116: AcDbPolyFaceMesh E_27_779
+    3300118: AcDbPolyFaceMesh E_27_780
+    3300120: AcDbPolyFaceMesh E_27_781
+    3300122: AcDbPolyFaceMesh E_27_782
+    3300124: AcDbPolyFaceMesh E_27_783
+    3300126: AcDbPolyFaceMesh E_27_784
+    3300128: AcDbPolyFaceMesh E_27_785
+    3300130: AcDbPolyFaceMesh E_27_786
+    3300132: AcDbPolyFaceMesh E_27_787
+    3300134: AcDbPolyFaceMesh E_27_788
+    3300136: AcDbPolyFaceMesh E_27_789
+    3300138: AcDbPolyFaceMesh E_27_790
+    3300140: AcDbPolyFaceMesh E_27_791
+    3300142: AcDbPolyFaceMesh E_27_792
+    3300144: AcDbPolyFaceMesh E_27_793
+    3300146: AcDbPolyFaceMesh E_27_794
+    3300148: AcDbPolyFaceMesh E_27_795
+    3300150: AcDbPolyFaceMesh E_27_796
+    3300152: AcDbPolyFaceMesh E_27_797
+    3300154: AcDbPolyFaceMesh E_27_798
+    3300156: AcDbPolyFaceMesh E_27_799
+    3300158: AcDbPolyFaceMesh E_27_800
+    3300160: AcDbPolyFaceMesh E_27_801
+    3300162: AcDbPolyFaceMesh E_27_802
+    3300164: AcDbPolyFaceMesh E_27_803
+    3300166: AcDbPolyFaceMesh E_27_804
+    3300168: AcDbPolyFaceMesh E_27_805
+    3300170: AcDbPolyFaceMesh E_27_806
+    3300172: AcDbPolyFaceMesh E_27_807
+    3300174: AcDbPolyFaceMesh E_27_808
+    3300176: AcDbPolyFaceMesh E_27_809
+    3300178: AcDbPolyFaceMesh E_27_810
+    3300180: AcDbPolyFaceMesh E_27_811
+    3300182: AcDbPolyFaceMesh E_27_812
+    3300184: AcDbPolyFaceMesh E_27_813
+    3300186: AcDbPolyFaceMesh E_27_814
+    3300188: AcDbPolyFaceMesh E_27_815
+    3300190: AcDbPolyFaceMesh E_27_816
+    3300192: AcDbPolyFaceMesh E_27_817
+    3300194: AcDbPolyFaceMesh E_27_818
+    3300196: AcDbPolyFaceMesh E_27_819
+    3300198: AcDbPolyFaceMesh E_27_820
+    3300200: AcDbPolyFaceMesh E_27_821
+    3300202: AcDbPolyFaceMesh E_27_822
+    3300204: AcDbPolyFaceMesh E_27_823
+    3300206: AcDbPolyFaceMesh E_27_824
+    3300208: AcDbPolyFaceMesh E_27_825
+    3300210: AcDbPolyFaceMesh E_27_826
+    3300212: AcDbPolyFaceMesh E_27_827
+    3300214: AcDbPolyFaceMesh E_27_828
+    3300216: AcDbPolyFaceMesh E_27_829
+    3300218: AcDbPolyFaceMesh E_27_830
+    3300220: AcDbPolyFaceMesh E_27_831
+    3300222: AcDbPolyFaceMesh E_27_832
+    3300224: AcDbPolyFaceMesh E_27_833
+    3300226: AcDbPolyFaceMesh E_27_834
+    3300228: AcDbPolyFaceMesh E_27_835
+    3300230: AcDbPolyFaceMesh E_27_836
+    3300232: AcDbPolyFaceMesh E_27_837
+    3300234: AcDbPolyFaceMesh E_27_838
+    3300236: AcDbPolyFaceMesh E_27_839
+    3300238: AcDbPolyFaceMesh E_27_840
+    3300240: AcDbPolyFaceMesh E_27_841
+    3300242: AcDbPolyFaceMesh E_27_842
+    3300244: AcDbPolyFaceMesh E_27_843
+    3300246: AcDbPolyFaceMesh E_27_844
+    3300248: AcDbPolyFaceMesh E_27_845
+    3300250: AcDbPolyFaceMesh E_27_846
+    3300252: AcDbPolyFaceMesh E_27_847
+    3300254: AcDbPolyFaceMesh E_27_848
+    3300256: AcDbPolyFaceMesh E_27_849
+    3300258: AcDbPolyFaceMesh E_27_850
+    3300260: AcDbPolyFaceMesh E_27_851
+    3300262: AcDbPolyFaceMesh E_27_852
+    3300264: AcDbPolyFaceMesh E_27_853
+    3300266: AcDbPolyFaceMesh E_27_854
+    3300268: AcDbPolyFaceMesh E_27_855
+    3300270: AcDbPolyFaceMesh E_27_856
+    3300272: AcDbPolyFaceMesh E_27_857
+    3300274: AcDbPolyFaceMesh E_27_858
+    3300276: AcDbPolyFaceMesh E_27_859
+    3300278: AcDbPolyFaceMesh E_27_860
+    3300280: AcDbPolyFaceMesh E_27_861
+    3300282: AcDbPolyFaceMesh E_27_862
+    3300284: AcDbPolyFaceMesh E_27_863
+    3300286: AcDbPolyFaceMesh E_27_864
+    3300288: AcDbPolyFaceMesh E_27_865
+    3300290: AcDbPolyFaceMesh E_27_866
+    3300292: AcDbPolyFaceMesh E_27_867
+    3300294: AcDbPolyFaceMesh E_27_868
+    3300296: AcDbPolyFaceMesh E_27_869
+    3300298: AcDbPolyFaceMesh E_27_870
+    3300300: AcDbPolyFaceMesh E_27_871
+    3300302: AcDbPolyFaceMesh E_27_872
+    3300304: AcDbPolyFaceMesh E_27_873
+    3300306: AcDbPolyFaceMesh E_27_874
+    3300308: AcDbPolyFaceMesh E_27_875
+    3300310: AcDbPolyFaceMesh E_27_876
+    3300312: AcDbPolyFaceMesh E_27_877
+    3300314: AcDbPolyFaceMesh E_27_878
+    3300316: AcDbPolyFaceMesh E_27_879
+    3300318: AcDbPolyFaceMesh E_27_880
+    3300320: AcDbPolyFaceMesh E_27_881
+    3300322: AcDbPolyFaceMesh E_27_882
+    3300324: AcDbPolyFaceMesh E_27_883
+    3300326: AcDbPolyFaceMesh E_27_884
+    3300328: AcDbPolyFaceMesh E_27_885
+    3300330: AcDbPolyFaceMesh E_27_886
+    3300332: AcDbPolyFaceMesh E_27_887
+    3300334: AcDbPolyFaceMesh E_27_888
+    3300336: AcDbPolyFaceMesh E_27_889
+    3300338: AcDbPolyFaceMesh E_27_890
+    3300340: AcDbPolyFaceMesh E_27_891
+    3300342: AcDbPolyFaceMesh E_27_892
+    3300344: AcDbPolyFaceMesh E_27_893
+    3300346: AcDbPolyFaceMesh E_27_894
+    3300348: AcDbPolyFaceMesh E_27_895
+    3300350: AcDbPolyFaceMesh E_27_896
+    3300352: AcDbPolyFaceMesh E_27_897
+    3300354: AcDbPolyFaceMesh E_27_898
+    3300356: AcDbPolyFaceMesh E_27_899
+    3300358: AcDbPolyFaceMesh E_27_900
+    3300360: AcDbPolyFaceMesh E_27_901
+    3300362: AcDbPolyFaceMesh E_27_902
+    3300364: AcDbPolyFaceMesh E_27_903
+    3300366: AcDbPolyFaceMesh E_27_904
+    3300368: AcDbPolyFaceMesh E_27_905
+    3300370: AcDbPolyFaceMesh E_27_906
+    3300372: AcDbPolyFaceMesh E_27_907
+    3300374: AcDbPolyFaceMesh E_27_908
+    3300376: AcDbPolyFaceMesh E_27_909
+    3300378: E_27 polySurface1_721
+    3300380: E_27 polySurface1_722
+    3300382: E_27 polySurface1_723
+    3300384: E_27 polySurface1_724
+    3300386: E_27 polySurface1_725
+    3300388: E_27 polySurface1_726
+    3300390: E_27 polySurface1_727
+    3300392: E_27 polySurface1_728
+    3300394: E_27 polySurface1_729
+    3300396: E_27 polySurface1_730
+    3300398: E_27 polySurface1_731
+    3300400: E_27 polySurface1_732
+    3300402: E_27 polySurface1_733
+    3300404: E_27 polySurface1_734
+    3300406: E_27 polySurface1_735
+    3300408: E_27 polySurface1_736
+    3300410: E_27 polySurface1_737
+    3300412: E_27 polySurface1_738
+    3300414: E_27 polySurface1_739
+    3300416: E_27 polySurface1_740
+    3300418: E_27 polySurface1_741
+    3300420: E_27 polySurface1_742
+    3300422: E_27 polySurface1_743
+    3300424: E_27 polySurface1_744
+    3300426: E_27 polySurface1_745
+    3300428: E_27 polySurface1_746
+    3300430: E_27 polySurface1_747
+    3300432: E_27 polySurface1_748
+    3300434: E_27 polySurface1_749
+    3300436: E_27 polySurface1_750
+    3300438: E_27 polySurface1_751
+    3300440: E_27 polySurface1_752
+    3300442: E_27 polySurface1_753
+    3300444: E_27 polySurface1_754
+    3300446: E_27 polySurface1_755
+    3300448: E_27 polySurface1_756
+    3300450: E_27 polySurface1_757
+    3300452: E_27 polySurface1_758
+    3300454: E_27 polySurface1_759
+    3300456: E_27 polySurface1_760
+    3300458: E_27 polySurface1_761
+    3300460: E_27 polySurface1_762
+    3300462: E_27 polySurface1_763
+    3300464: E_27 polySurface1_764
+    3300466: E_27 polySurface1_765
+    3300468: E_27 polySurface1_766
+    3300470: E_27 polySurface1_767
+    3300472: E_27 polySurface1_768
+    3300474: E_27 polySurface1_769
+    3300476: E_27 polySurface1_770
+    3300478: E_27 polySurface1_771
+    3300480: E_27 polySurface1_772
+    3300482: E_27 polySurface1_773
+    3300484: E_27 polySurface1_774
+    3300486: E_27 polySurface1_775
+    3300488: E_27 polySurface1_776
+    3300490: E_27 polySurface1_777
+    3300492: E_27 polySurface1_778
+    3300494: E_27 polySurface1_779
+    3300496: E_27 polySurface1_780
+    3300498: E_27 polySurface1_781
+    3300500: E_27 polySurface1_782
+    3300502: E_27 polySurface1_783
+    3300504: E_27 polySurface1_784
+    3300506: E_27 polySurface1_785
+    3300508: E_27 polySurface1_786
+    3300510: E_27 polySurface1_787
+    3300512: E_27 polySurface1_788
+    3300514: E_27 polySurface1_789
+    3300516: E_27 polySurface1_790
+    3300518: E_27 polySurface1_791
+    3300520: E_27 polySurface1_792
+    3300522: E_27 polySurface1_793
+    3300524: E_27 polySurface1_794
+    3300526: E_27 polySurface1_795
+    3300528: E_27 polySurface1_796
+    3300530: E_27 polySurface1_797
+    3300532: E_27 polySurface1_798
+    3300534: E_27 polySurface1_799
+    3300536: E_27 polySurface1_800
+    3300538: E_27 polySurface1_801
+    3300540: E_27 polySurface1_802
+    3300542: E_27 polySurface1_803
+    3300544: E_27 polySurface1_804
+    3300546: E_27 polySurface1_805
+    3300548: E_27 polySurface1_806
+    3300550: E_27 polySurface1_807
+    3300552: E_27 polySurface1_808
+    3300554: E_27 polySurface1_809
+    3300556: E_27 polySurface1_810
+    3300558: E_27 polySurface1_811
+    3300560: E_27 polySurface1_812
+    3300562: E_27 polySurface1_813
+    3300564: E_27 polySurface1_814
+    3300566: E_27 polySurface1_815
+    3300568: E_27 polySurface1_816
+    3300570: E_27 polySurface1_817
+    3300572: E_27 polySurface1_818
+    3300574: E_27 polySurface1_819
+    3300576: E_27 polySurface1_820
+    3300578: E_27 polySurface1_821
+    3300580: E_27 polySurface1_822
+    3300582: E_27 polySurface1_823
+    3300584: E_27 polySurface1_824
+    3300586: E_27 polySurface1_825
+    3300588: E_27 polySurface1_826
+    3300590: E_27 polySurface1_827
+    3300592: E_27 polySurface1_828
+    3300594: E_27 polySurface1_829
+    3300596: E_27 polySurface1_830
+    3300598: E_27 polySurface1_831
+    3300600: E_27 polySurface1_832
+    3300602: E_27 polySurface1_833
+    3300604: E_27 polySurface1_834
+    3300606: E_27 polySurface1_835
+    3300608: E_27 polySurface1_836
+    3300610: E_27 polySurface1_837
+    3300612: E_27 polySurface1_838
+    3300614: E_27 polySurface1_839
+    3300616: E_27 polySurface1_840
+    3300618: E_27 polySurface1_841
+    3300620: E_27 polySurface1_842
+    3300622: E_27 polySurface1_843
+    3300624: E_27 polySurface1_844
+    3300626: E_27 polySurface1_845
+    3300628: E_27 polySurface1_846
+    3300630: E_27 polySurface1_847
+    3300632: E_27 polySurface1_848
+    3300634: E_27 polySurface1_849
+    3300636: E_27 polySurface1_850
+    3300638: E_27 polySurface1_851
+    3300640: E_27 polySurface1_852
+    3300642: E_27 polySurface1_853
+    3300644: E_27 polySurface1_854
+    3300646: E_27 polySurface1_855
+    3300648: E_27 polySurface1_856
+    3300650: E_27 polySurface1_857
+    3300652: E_27 polySurface1_858
+    3300654: E_27 polySurface1_859
+    3300656: E_27 polySurface1_860
+    3300658: E_27 polySurface1_861
+    3300660: E_27 polySurface1_862
+    3300662: E_27 polySurface1_863
+    3300664: E_27 polySurface1_864
+    3300666: E_27 polySurface1_865
+    3300668: E_27 polySurface1_866
+    3300670: E_27 polySurface1_867
+    3300672: E_27 polySurface1_868
+    3300674: E_27 polySurface1_869
+    3300676: E_27 polySurface1_870
+    3300678: E_27 polySurface1_871
+    3300680: E_27 polySurface1_872
+    3300682: E_27 polySurface1_873
+    3300684: E_27 polySurface1_874
+    3300686: E_27 polySurface1_875
+    3300688: E_27 polySurface1_876
+    3300690: E_27 polySurface1_877
+    3300692: E_27 polySurface1_878
+    3300694: E_27 polySurface1_879
+    3300696: E_27 polySurface1_880
+    3300698: E_27 polySurface1_881
+    3300700: E_27 polySurface1_882
+    3300702: E_27 polySurface1_883
+    3300704: E_27 polySurface1_884
+    3300706: E_27 polySurface1_885
+    3300708: E_27 polySurface1_886
+    3300710: E_27 polySurface1_887
+    3300712: E_27 polySurface1_888
+    3300714: E_27 polySurface1_889
+    3300716: E_27 polySurface1_890
+    3300718: E_27 polySurface1_891
+    3300720: E_27 polySurface1_892
+    3300722: E_27 polySurface1_893
+    3300724: E_27 polySurface1_894
+    3300726: E_27 polySurface1_895
+    3300728: E_27 polySurface1_896
+    3300730: E_27 polySurface1_897
+    3300732: E_27 polySurface1_898
+    3300734: E_27 polySurface1_899
+    3300736: E_27 polySurface1_900
+    3300738: E_27 polySurface1_901
+    3300740: E_27 polySurface1_902
+    3300742: E_27 polySurface1_903
+    3300744: E_27 polySurface1_904
+    3300746: E_27 polySurface1_905
+    3300748: E_27 polySurface1_906
+    3300750: E_27 polySurface1_907
+    3300752: E_27 polySurface1_908
+    3300754: E_27 polySurface1_909
+    3300756: Line1080
+    3300758: Line1081
+    3300760: Line1082
+    3300762: Line1083
+    3300764: Line1084
+    3300766: Line1085
+    3300768: Line1086
+    3300770: Line1087
+    3300772: Line1088
+    3300774: Line1089
+    3300776: Line1090
+    3300778: Line1091
+    3300780: Line1092
+    3300782: Line1093
+    3300784: Line462
+    3300786: Line463
+    3300788: Line464
+    3300790: Line465
+    3300792: Line466
+    3300794: Line467
+    3300796: Line468
+    3300798: Line469
+    3300800: Line470
+    3300802: Line471
+    3300804: Line472
+    3300806: Line473
+    3300808: Line474
+    3300810: Line475
+    3300812: Line476
+    3300814: Line477
+    3300816: Line478
+    3300818: Line479
+    3300820: Line480
+    3300822: Line481
+    3300824: Line482
+    3300826: Line483
+    3300828: Line484
+    3300830: Line485
+    3300832: Line486
+    3300834: Line487
+    3300836: Line488
+    3300838: Line489
+    4300000: Line476
+    4300002: E_27 polySurface1_784
+    4300004: AcDbPolyFaceMesh E_27_784
+    4300006: AcDbPolyFaceMesh E_27_785
+    4300008: E_27 polySurface1_785
+    4300010: AcDbPolyFaceMesh E_27_786
+    4300012: E_27 polySurface1_786
+    4300014: AcDbPolyFaceMesh E_27_787
+    4300016: E_27 polySurface1_787
+    4300018: AcDbPolyFaceMesh E_27_788
+    4300020: E_27 polySurface1_788
+    4300022: E_27 polySurface1_789
+    4300024: AcDbPolyFaceMesh E_27_789
+    4300026: E_27 polySurface1_790
+    4300028: AcDbPolyFaceMesh E_27_790
+    4300030: AcDbPolyFaceMesh E_27_791
+    4300032: E_27 polySurface1_791
+    4300034: AcDbPolyFaceMesh E_27_792
+    4300036: E_27 polySurface1_792
+    4300038: E_27 polySurface1_793
+    4300040: AcDbPolyFaceMesh E_27_793
+    4300042: Line477
+    4300044: AcDbPolyFaceMesh E_27_794
+    4300046: E_27 polySurface1_794
+    4300048: E_27 polySurface1_795
+    4300050: AcDbPolyFaceMesh E_27_795
+    4300052: AcDbPolyFaceMesh E_27_796
+    4300054: E_27 polySurface1_796
+    4300056: E_27 polySurface1_797
+    4300058: AcDbPolyFaceMesh E_27_797
+    4300060: Line478
+    4300062: AcDbPolyFaceMesh E_27_798
+    4300064: E_27 polySurface1_798
+    4300066: AcDbPolyFaceMesh E_27_799
+    4300068: E_27 polySurface1_799
+    4300070: AcDbPolyFaceMesh E_27_800
+    4300072: E_27 polySurface1_800
+    4300074: E_27 polySurface1_801
+    4300076: AcDbPolyFaceMesh E_27_801
+    4300078: AcDbPolyFaceMesh E_27_802
+    4300080: E_27 polySurface1_802
+    4300082: Line479
+    4300084: E_27 polySurface1_803
+    4300086: AcDbPolyFaceMesh E_27_803
+    4300088: AcDbPolyFaceMesh E_27_804
+    4300090: E_27 polySurface1_804
+    4300092: AcDbPolyFaceMesh E_27_805
+    4300094: E_27 polySurface1_805
+    4300096: AcDbPolyFaceMesh E_27_806
+    4300098: E_27 polySurface1_806
+    4300100: E_27 polySurface1_807
+    4300102: AcDbPolyFaceMesh E_27_807
+    4300104: Line480
+    4300106: AcDbPolyFaceMesh E_27_808
+    4300108: E_27 polySurface1_808
+    4300110: E_27 polySurface1_809
+    4300112: AcDbPolyFaceMesh E_27_809
+    4300114: E_27 polySurface1_810
+    4300116: AcDbPolyFaceMesh E_27_810
+    4300118: AcDbPolyFaceMesh E_27_811
+    4300120: E_27 polySurface1_811
+    4300122: Line481
+    4300124: E_27 polySurface1_812
+    4300126: AcDbPolyFaceMesh E_27_812
+    4300128: E_27 polySurface1_813
+    4300130: AcDbPolyFaceMesh E_27_813
+    4300132: E_27 polySurface1_814
+    4300134: AcDbPolyFaceMesh E_27_814
+    4300136: AcDbPolyFaceMesh E_27_815
+    4300138: E_27 polySurface1_815
+    4300140: Line482
+    4300142: E_27 polySurface1_816
+    4300144: AcDbPolyFaceMesh E_27_816
+    4300146: E_27 polySurface1_817
+    4300148: AcDbPolyFaceMesh E_27_817
+    4300150: AcDbPolyFaceMesh E_27_818
+    4300152: E_27 polySurface1_818
+    4300154: AcDbPolyFaceMesh E_27_819
+    4300156: E_27 polySurface1_819
+    4300158: Line483
+    4300160: E_27 polySurface1_820
+    4300162: AcDbPolyFaceMesh E_27_820
+    4300164: E_27 polySurface1_821
+    4300166: AcDbPolyFaceMesh E_27_821
+    4300168: E_27 polySurface1_822
+    4300170: AcDbPolyFaceMesh E_27_822
+    4300172: AcDbPolyFaceMesh E_27_823
+    4300174: E_27 polySurface1_823
+    4300176: Line484
+    4300178: AcDbPolyFaceMesh E_27_824
+    4300180: E_27 polySurface1_824
+    4300182: AcDbPolyFaceMesh E_27_825
+    4300184: E_27 polySurface1_825
+    4300186: AcDbPolyFaceMesh E_27_826
+    4300188: E_27 polySurface1_826
+    4300190: AcDbPolyFaceMesh E_27_827
+    4300192: E_27 polySurface1_827
+    4300194: AcDbPolyFaceMesh E_27_828
+    4300196: E_27 polySurface1_828
+    4300198: Line485
+    4300200: AcDbPolyFaceMesh E_27_829
+    4300202: E_27 polySurface1_829
+    4300204: AcDbPolyFaceMesh E_27_830
+    4300206: E_27 polySurface1_830
+    4300208: E_27 polySurface1_831
+    4300210: AcDbPolyFaceMesh E_27_831
+    4300212: AcDbPolyFaceMesh E_27_832
+    4300214: E_27 polySurface1_832
+    4300216: AcDbPolyFaceMesh E_27_833
+    4300218: E_27 polySurface1_833
+    4300220: Line486
+    4300222: AcDbPolyFaceMesh E_27_834
+    4300224: E_27 polySurface1_834
+    4300226: E_27 polySurface1_835
+    4300228: AcDbPolyFaceMesh E_27_835
+    4300230: AcDbPolyFaceMesh E_27_836
+    4300232: E_27 polySurface1_836
+    4300234: AcDbPolyFaceMesh E_27_837
+    4300236: E_27 polySurface1_837
+    4300238: E_27 polySurface1_838
+    4300240: AcDbPolyFaceMesh E_27_838
+    4300242: Line487
+    4300244: E_27 polySurface1_839
+    4300246: AcDbPolyFaceMesh E_27_839
+    4300248: AcDbPolyFaceMesh E_27_840
+    4300250: E_27 polySurface1_840
+    4300252: E_27 polySurface1_841
+    4300254: AcDbPolyFaceMesh E_27_841
+    4300256: AcDbPolyFaceMesh E_27_842
+    4300258: E_27 polySurface1_842
+    4300260: Line488
+    4300262: AcDbPolyFaceMesh E_27_843
+    4300264: E_27 polySurface1_843
+    4300266: E_27 polySurface1_844
+    4300268: AcDbPolyFaceMesh E_27_844
+    4300270: E_27 polySurface1_845
+    4300272: AcDbPolyFaceMesh E_27_845
+    4300274: E_27 polySurface1_846
+    4300276: AcDbPolyFaceMesh E_27_846
+    4300278: Line489
+    4300280: Line462
+    4300282: AcDbPolyFaceMesh E_27_721
+    4300284: E_27 polySurface1_721
+    4300286: E_27 polySurface1_722
+    4300288: AcDbPolyFaceMesh E_27_722
+    4300290: E_27 polySurface1_723
+    4300292: AcDbPolyFaceMesh E_27_723
+    4300294: E_27 polySurface1_724
+    4300296: AcDbPolyFaceMesh E_27_724
+    4300298: Line463
+    4300300: AcDbPolyFaceMesh E_27_725
+    4300302: E_27 polySurface1_725
+    4300304: E_27 polySurface1_726
+    4300306: AcDbPolyFaceMesh E_27_726
+    4300308: AcDbPolyFaceMesh E_27_727
+    4300310: E_27 polySurface1_727
+    4300312: AcDbPolyFaceMesh E_27_728
+    4300314: E_27 polySurface1_728
+    4300316: AcDbPolyFaceMesh E_27_729
+    4300318: E_27 polySurface1_729
+    4300320: Line464
+    4300322: E_27 polySurface1_730
+    4300324: AcDbPolyFaceMesh E_27_730
+    4300326: E_27 polySurface1_731
+    4300328: AcDbPolyFaceMesh E_27_731
+    4300330: E_27 polySurface1_732
+    4300332: AcDbPolyFaceMesh E_27_732
+    4300334: AcDbPolyFaceMesh E_27_733
+    4300336: E_27 polySurface1_733
+    4300338: Line465
+    4300340: AcDbPolyFaceMesh E_27_734
+    4300342: E_27 polySurface1_734
+    4300344: AcDbPolyFaceMesh E_27_735
+    4300346: E_27 polySurface1_735
+    4300348: AcDbPolyFaceMesh E_27_736
+    4300350: E_27 polySurface1_736
+    4300352: E_27 polySurface1_737
+    4300354: AcDbPolyFaceMesh E_27_737
+    4300356: AcDbPolyFaceMesh E_27_738
+    4300358: E_27 polySurface1_738
+    4300360: Line466
+    4300362: E_27 polySurface1_739
+    4300364: AcDbPolyFaceMesh E_27_739
+    4300366: AcDbPolyFaceMesh E_27_740
+    4300368: E_27 polySurface1_740
+    4300370: AcDbPolyFaceMesh E_27_741
+    4300372: E_27 polySurface1_741
+    4300374: AcDbPolyFaceMesh E_27_742
+    4300376: E_27 polySurface1_742
+    4300378: AcDbPolyFaceMesh E_27_743
+    4300380: E_27 polySurface1_743
+    4300382: Line467
+    4300384: AcDbPolyFaceMesh E_27_744
+    4300386: E_27 polySurface1_744
+    4300388: E_27 polySurface1_745
+    4300390: AcDbPolyFaceMesh E_27_745
+    4300392: AcDbPolyFaceMesh E_27_746
+    4300394: E_27 polySurface1_746
+    4300396: E_27 polySurface1_747
+    4300398: AcDbPolyFaceMesh E_27_747
+    4300400: AcDbPolyFaceMesh E_27_748
+    4300402: E_27 polySurface1_748
+    4300404: Line468
+    4300406: E_27 polySurface1_749
+    4300408: AcDbPolyFaceMesh E_27_749
+    4300410: AcDbPolyFaceMesh E_27_750
+    4300412: E_27 polySurface1_750
+    4300414: AcDbPolyFaceMesh E_27_751
+    4300416: E_27 polySurface1_751
+    4300418: AcDbPolyFaceMesh E_27_752
+    4300420: E_27 polySurface1_752
+    4300422: Line469
+    4300424: E_27 polySurface1_753
+    4300426: AcDbPolyFaceMesh E_27_753
+    4300428: E_27 polySurface1_754
+    4300430: AcDbPolyFaceMesh E_27_754
+    4300432: E_27 polySurface1_755
+    4300434: AcDbPolyFaceMesh E_27_755
+    4300436: E_27 polySurface1_756
+    4300438: AcDbPolyFaceMesh E_27_756
+    4300440: Line470
+    4300442: E_27 polySurface1_757
+    4300444: AcDbPolyFaceMesh E_27_757
+    4300446: AcDbPolyFaceMesh E_27_758
+    4300448: E_27 polySurface1_758
+    4300450: AcDbPolyFaceMesh E_27_759
+    4300452: E_27 polySurface1_759
+    4300454: AcDbPolyFaceMesh E_27_760
+    4300456: E_27 polySurface1_760
+    4300458: Line471
+    4300460: AcDbPolyFaceMesh E_27_761
+    4300462: E_27 polySurface1_761
+    4300464: E_27 polySurface1_762
+    4300466: AcDbPolyFaceMesh E_27_762
+    4300468: AcDbPolyFaceMesh E_27_763
+    4300470: E_27 polySurface1_763
+    4300472: AcDbPolyFaceMesh E_27_764
+    4300474: E_27 polySurface1_764
+    4300476: AcDbPolyFaceMesh E_27_765
+    4300478: E_27 polySurface1_765
+    4300480: Line472
+    4300482: E_27 polySurface1_766
+    4300484: AcDbPolyFaceMesh E_27_766
+    4300486: AcDbPolyFaceMesh E_27_767
+    4300488: E_27 polySurface1_767
+    4300490: AcDbPolyFaceMesh E_27_768
+    4300492: E_27 polySurface1_768
+    4300494: E_27 polySurface1_769
+    4300496: AcDbPolyFaceMesh E_27_769
+    4300498: AcDbPolyFaceMesh E_27_770
+    4300500: E_27 polySurface1_770
+    4300502: Line473
+    4300504: AcDbPolyFaceMesh E_27_771
+    4300506: E_27 polySurface1_771
+    4300508: AcDbPolyFaceMesh E_27_772
+    4300510: E_27 polySurface1_772
+    4300512: AcDbPolyFaceMesh E_27_773
+    4300514: E_27 polySurface1_773
+    4300516: AcDbPolyFaceMesh E_27_774
+    4300518: E_27 polySurface1_774
+    4300520: E_27 polySurface1_775
+    4300522: AcDbPolyFaceMesh E_27_775
+    4300524: Line474
+    4300526: E_27 polySurface1_776
+    4300528: AcDbPolyFaceMesh E_27_776
+    4300530: E_27 polySurface1_777
+    4300532: AcDbPolyFaceMesh E_27_777
+    4300534: AcDbPolyFaceMesh E_27_778
+    4300536: E_27 polySurface1_778
+    4300538: E_27 polySurface1_779
+    4300540: AcDbPolyFaceMesh E_27_779
+    4300542: Line475
+    4300544: AcDbPolyFaceMesh E_27_780
+    4300546: E_27 polySurface1_780
+    4300548: AcDbPolyFaceMesh E_27_781
+    4300550: E_27 polySurface1_781
+    4300552: AcDbPolyFaceMesh E_27_782
+    4300554: E_27 polySurface1_782
+    4300556: E_27 polySurface1_783
+    4300558: AcDbPolyFaceMesh E_27_783
+    4300560: Line1080
+    4300562: AcDbPolyFaceMesh E_27_847
+    4300564: E_27 polySurface1_847
+    4300566: AcDbPolyFaceMesh E_27_848
+    4300568: E_27 polySurface1_848
+    4300570: AcDbPolyFaceMesh E_27_849
+    4300572: E_27 polySurface1_849
+    4300574: AcDbPolyFaceMesh E_27_850
+    4300576: E_27 polySurface1_850
+    4300578: AcDbPolyFaceMesh E_27_851
+    4300580: E_27 polySurface1_851
+    4300582: Line1081
+    4300584: AcDbPolyFaceMesh E_27_852
+    4300586: E_27 polySurface1_852
+    4300588: E_27 polySurface1_853
+    4300590: AcDbPolyFaceMesh E_27_853
+    4300592: E_27 polySurface1_854
+    4300594: AcDbPolyFaceMesh E_27_854
+    4300596: E_27 polySurface1_855
+    4300598: AcDbPolyFaceMesh E_27_855
+    4300600: Line1082
+    4300602: AcDbPolyFaceMesh E_27_856
+    4300604: E_27 polySurface1_856
+    4300606: E_27 polySurface1_857
+    4300608: AcDbPolyFaceMesh E_27_857
+    4300610: AcDbPolyFaceMesh E_27_858
+    4300612: E_27 polySurface1_858
+    4300614: AcDbPolyFaceMesh E_27_859
+    4300616: E_27 polySurface1_859
+    4300618: AcDbPolyFaceMesh E_27_860
+    4300620: E_27 polySurface1_860
+    4300622: Line1083
+    4300624: E_27 polySurface1_861
+    4300626: AcDbPolyFaceMesh E_27_861
+    4300628: E_27 polySurface1_862
+    4300630: AcDbPolyFaceMesh E_27_862
+    4300632: E_27 polySurface1_863
+    4300634: AcDbPolyFaceMesh E_27_863
+    4300636: AcDbPolyFaceMesh E_27_864
+    4300638: E_27 polySurface1_864
+    4300640: Line1084
+    4300642: AcDbPolyFaceMesh E_27_865
+    4300644: E_27 polySurface1_865
+    4300646: AcDbPolyFaceMesh E_27_866
+    4300648: E_27 polySurface1_866
+    4300650: AcDbPolyFaceMesh E_27_867
+    4300652: E_27 polySurface1_867
+    4300654: E_27 polySurface1_868
+    4300656: AcDbPolyFaceMesh E_27_868
+    4300658: AcDbPolyFaceMesh E_27_869
+    4300660: E_27 polySurface1_869
+    4300662: Line1085
+    4300664: E_27 polySurface1_870
+    4300666: AcDbPolyFaceMesh E_27_870
+    4300668: AcDbPolyFaceMesh E_27_871
+    4300670: E_27 polySurface1_871
+    4300672: AcDbPolyFaceMesh E_27_872
+    4300674: E_27 polySurface1_872
+    4300676: AcDbPolyFaceMesh E_27_873
+    4300678: E_27 polySurface1_873
+    4300680: AcDbPolyFaceMesh E_27_874
+    4300682: E_27 polySurface1_874
+    4300684: Line1086
+    4300686: AcDbPolyFaceMesh E_27_875
+    4300688: E_27 polySurface1_875
+    4300690: E_27 polySurface1_876
+    4300692: AcDbPolyFaceMesh E_27_876
+    4300694: AcDbPolyFaceMesh E_27_877
+    4300696: E_27 polySurface1_877
+    4300698: E_27 polySurface1_878
+    4300700: AcDbPolyFaceMesh E_27_878
+    4300702: AcDbPolyFaceMesh E_27_879
+    4300704: E_27 polySurface1_879
+    4300706: Line1087
+    4300708: E_27 polySurface1_880
+    4300710: AcDbPolyFaceMesh E_27_880
+    4300712: AcDbPolyFaceMesh E_27_881
+    4300714: E_27 polySurface1_881
+    4300716: AcDbPolyFaceMesh E_27_882
+    4300718: E_27 polySurface1_882
+    4300720: AcDbPolyFaceMesh E_27_883
+    4300722: E_27 polySurface1_883
+    4300724: Line1088
+    4300726: E_27 polySurface1_884
+    4300728: AcDbPolyFaceMesh E_27_884
+    4300730: E_27 polySurface1_885
+    4300732: AcDbPolyFaceMesh E_27_885
+    4300734: E_27 polySurface1_886
+    4300736: AcDbPolyFaceMesh E_27_886
+    4300738: E_27 polySurface1_887
+    4300740: AcDbPolyFaceMesh E_27_887
+    4300742: Line1089
+    4300744: E_27 polySurface1_888
+    4300746: AcDbPolyFaceMesh E_27_888
+    4300748: AcDbPolyFaceMesh E_27_889
+    4300750: E_27 polySurface1_889
+    4300752: AcDbPolyFaceMesh E_27_890
+    4300754: E_27 polySurface1_890
+    4300756: AcDbPolyFaceMesh E_27_891
+    4300758: E_27 polySurface1_891
+    4300760: Line1090
+    4300762: AcDbPolyFaceMesh E_27_892
+    4300764: E_27 polySurface1_892
+    4300766: E_27 polySurface1_893
+    4300768: AcDbPolyFaceMesh E_27_893
+    4300770: AcDbPolyFaceMesh E_27_894
+    4300772: E_27 polySurface1_894
+    4300774: AcDbPolyFaceMesh E_27_895
+    4300776: E_27 polySurface1_895
+    4300778: AcDbPolyFaceMesh E_27_896
+    4300780: E_27 polySurface1_896
+    4300782: Line1091
+    4300784: E_27 polySurface1_897
+    4300786: AcDbPolyFaceMesh E_27_897
+    4300788: AcDbPolyFaceMesh E_27_898
+    4300790: E_27 polySurface1_898
+    4300792: AcDbPolyFaceMesh E_27_899
+    4300794: E_27 polySurface1_899
+    4300796: E_27 polySurface1_900
+    4300798: AcDbPolyFaceMesh E_27_900
+    4300800: AcDbPolyFaceMesh E_27_901
+    4300802: E_27 polySurface1_901
+    4300804: Line1092
+    4300806: E_27 polySurface1_902
+    4300808: AcDbPolyFaceMesh E_27_902
+    4300810: E_27 polySurface1_903
+    4300812: AcDbPolyFaceMesh E_27_903
+    4300814: AcDbPolyFaceMesh E_27_904
+    4300816: E_27 polySurface1_904
+    4300818: E_27 polySurface1_905
+    4300820: AcDbPolyFaceMesh E_27_905
+    4300822: Line1093
+    4300824: AcDbPolyFaceMesh E_27_906
+    4300826: E_27 polySurface1_906
+    4300828: AcDbPolyFaceMesh E_27_907
+    4300830: E_27 polySurface1_907
+    4300832: AcDbPolyFaceMesh E_27_908
+    4300834: E_27 polySurface1_908
+    4300836: E_27 polySurface1_909
+    4300838: AcDbPolyFaceMesh E_27_909
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
