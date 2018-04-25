@@ -27,7 +27,27 @@ ModelImporter:
     4300002: Mesh2257
     4300004: Standard01
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #31'
+    second: {fileID: 2100000, guid: 6f1338ae255b36c4d87985f4684cd26c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #38'
+    second: {fileID: 2100000, guid: e068985afb062a44d99d862e017ff612, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #40'
+    second: {fileID: 2100000, guid: e4f7960a03ee2a14c868fd3ce580d6aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #41'
+    second: {fileID: 2100000, guid: 0b5b4b7af9fdb614ba068fcfb88c07bd, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

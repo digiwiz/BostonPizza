@@ -106,10 +106,25 @@ ModelImporter:
     4300034: Group106
     4300036: Group110
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #57070'
+    second: {fileID: 2100000, guid: bea22b9d9959e764b8b3f078389a73d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray 0103_Blu
+    second: {fileID: 2100000, guid: 8d827cbc7a8aced4f8b8080200c688e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Color_07eee
+    second: {fileID: 2100000, guid: aaf683282d62b7e40a636b241161063d, type: 2}
   materials:
     importMaterials: 1
-    materialName: 0
+    materialName: 1
     materialSearch: 1
     materialLocation: 1
   animations:
@@ -136,7 +151,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 0.0254
     meshCompression: 0
     addColliders: 0
     importVisibility: 1

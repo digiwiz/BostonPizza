@@ -2578,10 +2578,20 @@ ModelImporter:
     4300836: E_27 polySurface1_909
     4300838: AcDbPolyFaceMesh E_27_909
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2wqdqwdw'
+    second: {fileID: 2100000, guid: b699fb4db1c23b742b9cb865cb84cb4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bulb
+    second: {fileID: 2100000, guid: 2498a7d00bd425349ab47cf37e9e6fb8, type: 2}
   materials:
     importMaterials: 1
-    materialName: 0
+    materialName: 1
     materialSearch: 1
     materialLocation: 1
   animations:

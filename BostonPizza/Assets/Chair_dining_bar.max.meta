@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: fb8e901110db9fd448abb8b2267dcb52
+timeCreated: 1524583326
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: fabric130
+    100004: Line2340
+    100006: Line2341
+    100008: Line2342
+    100010: Line2343
+    100012: Rectangle746
+    100014: Rectangle747
+    100016: Rectangle748
+    100018: Rectangle749
+    400000: //RootNode
+    400002: fabric130
+    400004: Line2340
+    400006: Line2341
+    400008: Line2342
+    400010: Line2343
+    400012: Rectangle746
+    400014: Rectangle747
+    400016: Rectangle748
+    400018: Rectangle749
+    2100000: vray DK GRY fabric
+    2100002: 'Material #1'
+    2300000: fabric130
+    2300002: Line2340
+    2300004: Line2341
+    2300006: Line2342
+    2300008: Line2343
+    2300010: Rectangle746
+    2300012: Rectangle747
+    2300014: Rectangle748
+    2300016: Rectangle749
+    3300000: fabric130
+    3300002: Line2340
+    3300004: Line2341
+    3300006: Line2342
+    3300008: Line2343
+    3300010: Rectangle746
+    3300012: Rectangle747
+    3300014: Rectangle748
+    3300016: Rectangle749
+    4300000: fabric130
+    4300002: Line2340
+    4300004: Rectangle746
+    4300006: Rectangle747
+    4300008: Rectangle748
+    4300010: Rectangle749
+    4300012: Line2341
+    4300014: Line2342
+    4300016: Line2343
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1'
+    second: {fileID: 2100000, guid: de4eeb21166c95b419f7d5d735ff37ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray DK GRY fabric
+    second: {fileID: 2100000, guid: d7cb9a5f595a0fa4e8ef07c2c3255f4e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

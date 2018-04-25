@@ -596,10 +596,25 @@ ModelImporter:
     4300230: Mesh4125
     4300232: Mesh4126
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Aluminum
+    second: {fileID: 2100000, guid: cf65112d558a45447b7dc38f47eb80f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray DRK wood
+    second: {fileID: 2100000, guid: e846ebc3c8a7ba1419704d18176cdf50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood 3
+    second: {fileID: 2100000, guid: 314aa2bdce387c24980be3ad812c3d03, type: 2}
   materials:
     importMaterials: 1
-    materialName: 0
+    materialName: 1
     materialSearch: 1
     materialLocation: 1
   animations:
