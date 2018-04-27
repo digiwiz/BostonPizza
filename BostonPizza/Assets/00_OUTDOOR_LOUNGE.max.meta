@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: 0dbd8e9cf6ebc5a46ac4113f2ed48719
+timeCreated: 1524797502
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Group951
+    100004: Group952
+    100006: Group954
+    100008: Group955
+    100010: Group_1414
+    100012: Group_1415
+    100014: Group_1416
+    100016: Group_1417
+    100018: Gruppe_1_1
+    100020: Gruppe_1_2
+    100022: Komponen01
+    100024: Komponen02
+    100026: Komponen03
+    100028: Komponen04
+    100030: Komponen05
+    100032: Komponente
+    100034: Pillow1
+    100036: Pillow10
+    100038: Pillow11
+    100040: Pillow12
+    100042: Pillow13
+    100044: Pillow14
+    100046: Pillow15
+    100048: Pillow16
+    100050: Pillow17
+    100052: Pillow2
+    100054: Pillow3
+    100056: Pillow4
+    100058: Pillow5
+    100060: Pillow6
+    100062: Pillow7
+    100064: Pillow8
+    100066: Pillow9
+    100068: ske12_1
+    100070: ske12_2
+    100072: ske12_3
+    100074: ske12_4
+    100076: ske12_5
+    100078: ske12_6
+    100080: Box001
+    100082: Box002
+    100084: Box003
+    100086: Box006
+    100088: Box007
+    100090: Box008
+    100092: Box009
+    100094: Box010
+    100096: Box011
+    400000: //RootNode
+    400002: Group951
+    400004: Group952
+    400006: Group954
+    400008: Group955
+    400010: Group_1414
+    400012: Group_1415
+    400014: Group_1416
+    400016: Group_1417
+    400018: Gruppe_1_1
+    400020: Gruppe_1_2
+    400022: Komponen01
+    400024: Komponen02
+    400026: Komponen03
+    400028: Komponen04
+    400030: Komponen05
+    400032: Komponente
+    400034: Pillow1
+    400036: Pillow10
+    400038: Pillow11
+    400040: Pillow12
+    400042: Pillow13
+    400044: Pillow14
+    400046: Pillow15
+    400048: Pillow16
+    400050: Pillow17
+    400052: Pillow2
+    400054: Pillow3
+    400056: Pillow4
+    400058: Pillow5
+    400060: Pillow6
+    400062: Pillow7
+    400064: Pillow8
+    400066: Pillow9
+    400068: ske12_1
+    400070: ske12_2
+    400072: ske12_3
+    400074: ske12_4
+    400076: ske12_5
+    400078: ske12_6
+    400080: Box001
+    400082: Box002
+    400084: Box003
+    400086: Box006
+    400088: Box007
+    400090: Box008
+    400092: Box009
+    400094: Box010
+    400096: Box011
+    2100000: vray 0009_Lin
+    2100002: vray Wood_Wic
+    2100004: vray Metal_02
+    2100006: 'Material #57070'
+    2100008: vray Color_08
+    2100010: 'Material #57081'
+    2100012: tveehhh
+    2100014: PL4
+    2100016: VNL-2
+    2300000: Group951
+    2300002: Group952
+    2300004: Group954
+    2300006: Group955
+    2300008: Group_1414
+    2300010: Group_1415
+    2300012: Group_1416
+    2300014: Group_1417
+    2300016: Gruppe_1_1
+    2300018: Gruppe_1_2
+    2300020: Komponen01
+    2300022: Komponen02
+    2300024: Komponen03
+    2300026: Komponen04
+    2300028: Komponen05
+    2300030: Komponente
+    2300032: Pillow1
+    2300034: Pillow10
+    2300036: Pillow11
+    2300038: Pillow12
+    2300040: Pillow13
+    2300042: Pillow14
+    2300044: Pillow15
+    2300046: Pillow16
+    2300048: Pillow17
+    2300050: Pillow2
+    2300052: Pillow3
+    2300054: Pillow4
+    2300056: Pillow5
+    2300058: Pillow6
+    2300060: Pillow7
+    2300062: Pillow8
+    2300064: Pillow9
+    2300066: ske12_1
+    2300068: ske12_2
+    2300070: ske12_3
+    2300072: ske12_4
+    2300074: ske12_5
+    2300076: ske12_6
+    2300078: Box001
+    2300080: Box002
+    2300082: Box003
+    2300084: Box006
+    2300086: Box007
+    2300088: Box008
+    2300090: Box009
+    2300092: Box010
+    2300094: Box011
+    3300000: Group951
+    3300002: Group952
+    3300004: Group954
+    3300006: Group955
+    3300008: Group_1414
+    3300010: Group_1415
+    3300012: Group_1416
+    3300014: Group_1417
+    3300016: Gruppe_1_1
+    3300018: Gruppe_1_2
+    3300020: Komponen01
+    3300022: Komponen02
+    3300024: Komponen03
+    3300026: Komponen04
+    3300028: Komponen05
+    3300030: Komponente
+    3300032: Pillow1
+    3300034: Pillow10
+    3300036: Pillow11
+    3300038: Pillow12
+    3300040: Pillow13
+    3300042: Pillow14
+    3300044: Pillow15
+    3300046: Pillow16
+    3300048: Pillow17
+    3300050: Pillow2
+    3300052: Pillow3
+    3300054: Pillow4
+    3300056: Pillow5
+    3300058: Pillow6
+    3300060: Pillow7
+    3300062: Pillow8
+    3300064: Pillow9
+    3300066: ske12_1
+    3300068: ske12_2
+    3300070: ske12_3
+    3300072: ske12_4
+    3300074: ske12_5
+    3300076: ske12_6
+    3300078: Box001
+    3300080: Box002
+    3300082: Box003
+    3300084: Box006
+    3300086: Box007
+    3300088: Box008
+    3300090: Box009
+    3300092: Box010
+    3300094: Box011
+    4300000: ske12_2
+    4300002: ske12_3
+    4300004: ske12_5
+    4300006: ske12_6
+    4300008: ske12_4
+    4300010: ske12_1
+    4300012: Komponente
+    4300014: Pillow8
+    4300016: Komponen03
+    4300018: Pillow7
+    4300020: Gruppe_1_2
+    4300022: Pillow2
+    4300024: Gruppe_1_1
+    4300026: Pillow12
+    4300028: Pillow3
+    4300030: Pillow15
+    4300032: Pillow10
+    4300034: Komponen02
+    4300036: Pillow4
+    4300038: Komponen05
+    4300040: Pillow11
+    4300042: Komponen04
+    4300044: Pillow13
+    4300046: Pillow9
+    4300048: Pillow1
+    4300050: Pillow17
+    4300052: Pillow14
+    4300054: Pillow6
+    4300056: Pillow5
+    4300058: Komponen01
+    4300060: Pillow16
+    4300062: Group_1415
+    4300064: Group_1416
+    4300066: Group_1414
+    4300068: Group_1417
+    4300070: Group955
+    4300072: Group951
+    4300074: Group952
+    4300076: Group954
+    4300078: Box001
+    4300080: Box002
+    4300082: Box003
+    4300084: Box006
+    4300086: Box007
+    4300088: Box008
+    4300090: Box009
+    4300092: Box010
+    4300094: Box011
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #57070'
+    second: {fileID: 2100000, guid: bea22b9d9959e764b8b3f078389a73d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #57081'
+    second: {fileID: 2100000, guid: 0693495094e86be43898bdee1e7ac6fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PL4
+    second: {fileID: 2100000, guid: 9e9128eed614a7e4baf8f1fa0b81c56f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VNL-2
+    second: {fileID: 2100000, guid: 123128064af4ad844b22073ecd155fd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tveehhh
+    second: {fileID: 2100000, guid: 90d5f07dfaedd5b4fa36fc52af6b046d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray 0009_Lin
+    second: {fileID: 2100000, guid: e30e2352531ba7641bdc254a07f714a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Color_08
+    second: {fileID: 2100000, guid: c1cb3c679a82eb24aa348d00ac46ba71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Metal_02
+    second: {fileID: 2100000, guid: 0a845ddb1b1dc9b4eb4012ae0c9653bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Wood_Wic
+    second: {fileID: 2100000, guid: 38a48453d0109514684e327d36971b82, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

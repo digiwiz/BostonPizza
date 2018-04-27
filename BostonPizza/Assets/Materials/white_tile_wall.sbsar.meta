@@ -203,7 +203,7 @@ SubstanceImporter:
       texEnvs:
       - _BumpMap:
           texture: {instanceID: 0}
-          scale: {x: 0.05, y: 0}
+          scale: {x: 0.05, y: 0.05}
           offset: {x: 0, y: 0}
       - _DetailAlbedoMap:
           texture: {instanceID: 0}
@@ -227,15 +227,15 @@ SubstanceImporter:
           offset: {x: 0, y: 0}
       - _MetallicGlossMap:
           texture: {instanceID: 0}
-          scale: {x: 0.05, y: 0}
+          scale: {x: 0.05, y: 0.05}
           offset: {x: 0, y: 0}
       - _OcclusionMap:
           texture: {instanceID: 0}
-          scale: {x: 0.05, y: 0}
+          scale: {x: 0.05, y: 0.05}
           offset: {x: 0, y: 0}
       - _ParallaxMap:
           texture: {instanceID: 0}
-          scale: {x: 0.05, y: 0}
+          scale: {x: 0.05, y: 0.05}
           offset: {x: 0, y: 0}
       floats:
       - _BumpScale: 1
