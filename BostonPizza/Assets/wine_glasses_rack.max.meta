@@ -1,0 +1,642 @@
+fileFormatVersion: 2
+guid: 72ac72110b20cac4eb5fac6599bb23d5
+timeCreated: 1524966758
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 12 Glass 14 for wine
+    100002: 12 Glass 14 for wine001
+    100004: 12 Glass 14 for wine002
+    100006: 12 Glass 14 for wine003
+    100008: 12 Glass 14 for wine004
+    100010: 12 Glass 14 for wine005
+    100012: 12 Glass 14 for wine006
+    100014: 12 Glass 14 for wine007
+    100016: 12 Glass 14 for wine008
+    100018: 12 Glass 14 for wine009
+    100020: 12 Glass 14 for wine010
+    100022: 12 Glass 14 for wine011
+    100024: 12 Glass 14 for wine012
+    100026: 12 Glass 14 for wine013
+    100028: 12 Glass 14 for wine014
+    100030: 12 Glass 14 for wine015
+    100032: 12 Glass 14 for wine016
+    100034: 12 Glass 14 for wine017
+    100036: 12 Glass 14 for wine018
+    100038: 12 Glass 14 for wine019
+    100040: 12 Glass 14 for wine020
+    100042: 12 Glass 14 for wine021
+    100044: 12 Glass 14 for wine022
+    100046: 12 Glass 14 for wine023
+    100048: 12 Glass 14 for wine024
+    100050: 12 Glass 14 for wine025
+    100052: 12 Glass 14 for wine026
+    100054: 12 Glass 14 for wine027
+    100056: 12 Glass 15 for wine
+    100058: 12 Glass 15 for wine001
+    100060: 12 Glass 15 for wine002
+    100062: 12 Glass 15 for wine003
+    100064: 12 Glass 15 for wine004
+    100066: 12 Glass 15 for wine005
+    100068: 12 Glass 15 for wine006
+    100070: 12 Glass 15 for wine007
+    100072: 12 Glass 15 for wine008
+    100074: 12 Glass 15 for wine009
+    100076: 12 Glass 15 for wine010
+    100078: 12 Glass 15 for wine011
+    100080: 12 Glass 15 for wine012
+    100082: 12 Glass 15 for wine013
+    100084: 12 Glass 15 for wine014
+    100086: 12 Glass 15 for wine015
+    100088: 12 Glass 15 for wine016
+    100090: 12 Glass 15 for wine017
+    100092: 12 Glass 15 for wine018
+    100094: 12 Glass 15 for wine019
+    100096: 12 Glass 15 for wine020
+    100098: 12 Glass 15 for wine021
+    100100: 12 Glass 15 for wine022
+    100102: 12 Glass 15 for wine023
+    100104: 12 Glass 15 for wine024
+    100106: 12 Glass 15 for wine025
+    100108: 12 Glass 15 for wine026
+    100110: 12 Glass 15 for wine027
+    100112: 12 Glass 15 for wine028
+    100114: 12 Glass 15 for wine029
+    100116: 12 Glass 15 for wine030
+    100118: 12 Glass 15 for wine031
+    100120: BAR BACK001
+    100122: Beer_Gla048
+    100124: Beer_Gla049
+    100126: Beer_Gla050
+    100128: Beer_Gla051
+    100130: Beer_Gla052
+    100132: Beer_Gla053
+    100134: Beer_Gla054
+    100136: Beer_Gla055
+    100138: Beer_Gla056
+    100140: Beer_Gla057
+    100142: Beer_Gla058
+    100144: Beer_Gla059
+    100146: Beer_Gla060
+    100148: Beer_Gla061
+    100150: Beer_Gla062
+    100152: Beer_Gla063
+    100154: Beer_Gla064
+    100156: Beer_Gla065
+    100158: Beer_Gla066
+    100160: Beer_Gla067
+    100162: Beer_Gla068
+    100164: Beer_Gla069
+    100166: Beer_Gla070
+    100168: Beer_Gla071
+    100170: Box176037
+    100172: Box176038
+    100174: Box176039
+    100176: Box176040
+    100178: Box176041
+    100180: Box176042
+    100182: Box176043
+    100184: glasses001
+    100186: Mesh11557
+    100188: Rectangle839
+    100190: Rectangle840
+    100192: Rectangle841
+    100194: Rectangle842
+    100196: Rectangle843
+    100198: Rectangle844
+    100200: Rectangle845
+    100202: Rectangle846
+    100204: Rectangle854
+    100206: Rectangle855
+    100208: Rectangle856
+    100210: Rectangle857
+    100212: Rectangle858
+    100214: Rectangle859
+    100216: Rectangle860
+    100218: //RootNode
+    400000: 12 Glass 14 for wine
+    400002: 12 Glass 14 for wine001
+    400004: 12 Glass 14 for wine002
+    400006: 12 Glass 14 for wine003
+    400008: 12 Glass 14 for wine004
+    400010: 12 Glass 14 for wine005
+    400012: 12 Glass 14 for wine006
+    400014: 12 Glass 14 for wine007
+    400016: 12 Glass 14 for wine008
+    400018: 12 Glass 14 for wine009
+    400020: 12 Glass 14 for wine010
+    400022: 12 Glass 14 for wine011
+    400024: 12 Glass 14 for wine012
+    400026: 12 Glass 14 for wine013
+    400028: 12 Glass 14 for wine014
+    400030: 12 Glass 14 for wine015
+    400032: 12 Glass 14 for wine016
+    400034: 12 Glass 14 for wine017
+    400036: 12 Glass 14 for wine018
+    400038: 12 Glass 14 for wine019
+    400040: 12 Glass 14 for wine020
+    400042: 12 Glass 14 for wine021
+    400044: 12 Glass 14 for wine022
+    400046: 12 Glass 14 for wine023
+    400048: 12 Glass 14 for wine024
+    400050: 12 Glass 14 for wine025
+    400052: 12 Glass 14 for wine026
+    400054: 12 Glass 14 for wine027
+    400056: 12 Glass 15 for wine
+    400058: 12 Glass 15 for wine001
+    400060: 12 Glass 15 for wine002
+    400062: 12 Glass 15 for wine003
+    400064: 12 Glass 15 for wine004
+    400066: 12 Glass 15 for wine005
+    400068: 12 Glass 15 for wine006
+    400070: 12 Glass 15 for wine007
+    400072: 12 Glass 15 for wine008
+    400074: 12 Glass 15 for wine009
+    400076: 12 Glass 15 for wine010
+    400078: 12 Glass 15 for wine011
+    400080: 12 Glass 15 for wine012
+    400082: 12 Glass 15 for wine013
+    400084: 12 Glass 15 for wine014
+    400086: 12 Glass 15 for wine015
+    400088: 12 Glass 15 for wine016
+    400090: 12 Glass 15 for wine017
+    400092: 12 Glass 15 for wine018
+    400094: 12 Glass 15 for wine019
+    400096: 12 Glass 15 for wine020
+    400098: 12 Glass 15 for wine021
+    400100: 12 Glass 15 for wine022
+    400102: 12 Glass 15 for wine023
+    400104: 12 Glass 15 for wine024
+    400106: 12 Glass 15 for wine025
+    400108: 12 Glass 15 for wine026
+    400110: 12 Glass 15 for wine027
+    400112: 12 Glass 15 for wine028
+    400114: 12 Glass 15 for wine029
+    400116: 12 Glass 15 for wine030
+    400118: 12 Glass 15 for wine031
+    400120: BAR BACK001
+    400122: Beer_Gla048
+    400124: Beer_Gla049
+    400126: Beer_Gla050
+    400128: Beer_Gla051
+    400130: Beer_Gla052
+    400132: Beer_Gla053
+    400134: Beer_Gla054
+    400136: Beer_Gla055
+    400138: Beer_Gla056
+    400140: Beer_Gla057
+    400142: Beer_Gla058
+    400144: Beer_Gla059
+    400146: Beer_Gla060
+    400148: Beer_Gla061
+    400150: Beer_Gla062
+    400152: Beer_Gla063
+    400154: Beer_Gla064
+    400156: Beer_Gla065
+    400158: Beer_Gla066
+    400160: Beer_Gla067
+    400162: Beer_Gla068
+    400164: Beer_Gla069
+    400166: Beer_Gla070
+    400168: Beer_Gla071
+    400170: Box176037
+    400172: Box176038
+    400174: Box176039
+    400176: Box176040
+    400178: Box176041
+    400180: Box176042
+    400182: Box176043
+    400184: glasses001
+    400186: Mesh11557
+    400188: Rectangle839
+    400190: Rectangle840
+    400192: Rectangle841
+    400194: Rectangle842
+    400196: Rectangle843
+    400198: Rectangle844
+    400200: Rectangle845
+    400202: Rectangle846
+    400204: Rectangle854
+    400206: Rectangle855
+    400208: Rectangle856
+    400210: Rectangle857
+    400212: Rectangle858
+    400214: Rectangle859
+    400216: Rectangle860
+    400218: //RootNode
+    2100000: chrome
+    2100002: stainless steel new
+    2100004: glass
+    2300000: 12 Glass 14 for wine
+    2300002: 12 Glass 14 for wine001
+    2300004: 12 Glass 14 for wine002
+    2300006: 12 Glass 14 for wine003
+    2300008: 12 Glass 14 for wine004
+    2300010: 12 Glass 14 for wine005
+    2300012: 12 Glass 14 for wine006
+    2300014: 12 Glass 14 for wine007
+    2300016: 12 Glass 14 for wine008
+    2300018: 12 Glass 14 for wine009
+    2300020: 12 Glass 14 for wine010
+    2300022: 12 Glass 14 for wine011
+    2300024: 12 Glass 14 for wine012
+    2300026: 12 Glass 14 for wine013
+    2300028: 12 Glass 14 for wine014
+    2300030: 12 Glass 14 for wine015
+    2300032: 12 Glass 14 for wine016
+    2300034: 12 Glass 14 for wine017
+    2300036: 12 Glass 14 for wine018
+    2300038: 12 Glass 14 for wine019
+    2300040: 12 Glass 14 for wine020
+    2300042: 12 Glass 14 for wine021
+    2300044: 12 Glass 14 for wine022
+    2300046: 12 Glass 14 for wine023
+    2300048: 12 Glass 14 for wine024
+    2300050: 12 Glass 14 for wine025
+    2300052: 12 Glass 14 for wine026
+    2300054: 12 Glass 14 for wine027
+    2300056: 12 Glass 15 for wine
+    2300058: 12 Glass 15 for wine001
+    2300060: 12 Glass 15 for wine002
+    2300062: 12 Glass 15 for wine003
+    2300064: 12 Glass 15 for wine004
+    2300066: 12 Glass 15 for wine005
+    2300068: 12 Glass 15 for wine006
+    2300070: 12 Glass 15 for wine007
+    2300072: 12 Glass 15 for wine008
+    2300074: 12 Glass 15 for wine009
+    2300076: 12 Glass 15 for wine010
+    2300078: 12 Glass 15 for wine011
+    2300080: 12 Glass 15 for wine012
+    2300082: 12 Glass 15 for wine013
+    2300084: 12 Glass 15 for wine014
+    2300086: 12 Glass 15 for wine015
+    2300088: 12 Glass 15 for wine016
+    2300090: 12 Glass 15 for wine017
+    2300092: 12 Glass 15 for wine018
+    2300094: 12 Glass 15 for wine019
+    2300096: 12 Glass 15 for wine020
+    2300098: 12 Glass 15 for wine021
+    2300100: 12 Glass 15 for wine022
+    2300102: 12 Glass 15 for wine023
+    2300104: 12 Glass 15 for wine024
+    2300106: 12 Glass 15 for wine025
+    2300108: 12 Glass 15 for wine026
+    2300110: 12 Glass 15 for wine027
+    2300112: 12 Glass 15 for wine028
+    2300114: 12 Glass 15 for wine029
+    2300116: 12 Glass 15 for wine030
+    2300118: 12 Glass 15 for wine031
+    2300120: Beer_Gla048
+    2300122: Beer_Gla049
+    2300124: Beer_Gla050
+    2300126: Beer_Gla051
+    2300128: Beer_Gla052
+    2300130: Beer_Gla053
+    2300132: Beer_Gla054
+    2300134: Beer_Gla055
+    2300136: Beer_Gla056
+    2300138: Beer_Gla057
+    2300140: Beer_Gla058
+    2300142: Beer_Gla059
+    2300144: Beer_Gla060
+    2300146: Beer_Gla061
+    2300148: Beer_Gla062
+    2300150: Beer_Gla063
+    2300152: Beer_Gla064
+    2300154: Beer_Gla065
+    2300156: Beer_Gla066
+    2300158: Beer_Gla067
+    2300160: Beer_Gla068
+    2300162: Beer_Gla069
+    2300164: Beer_Gla070
+    2300166: Beer_Gla071
+    2300168: Box176037
+    2300170: Box176038
+    2300172: Box176039
+    2300174: Box176040
+    2300176: Box176041
+    2300178: Box176042
+    2300180: Box176043
+    2300182: Mesh11557
+    2300184: Rectangle839
+    2300186: Rectangle840
+    2300188: Rectangle841
+    2300190: Rectangle842
+    2300192: Rectangle843
+    2300194: Rectangle844
+    2300196: Rectangle845
+    2300198: Rectangle846
+    2300200: Rectangle854
+    2300202: Rectangle855
+    2300204: Rectangle856
+    2300206: Rectangle857
+    2300208: Rectangle858
+    2300210: Rectangle859
+    2300212: Rectangle860
+    3300000: 12 Glass 14 for wine
+    3300002: 12 Glass 14 for wine001
+    3300004: 12 Glass 14 for wine002
+    3300006: 12 Glass 14 for wine003
+    3300008: 12 Glass 14 for wine004
+    3300010: 12 Glass 14 for wine005
+    3300012: 12 Glass 14 for wine006
+    3300014: 12 Glass 14 for wine007
+    3300016: 12 Glass 14 for wine008
+    3300018: 12 Glass 14 for wine009
+    3300020: 12 Glass 14 for wine010
+    3300022: 12 Glass 14 for wine011
+    3300024: 12 Glass 14 for wine012
+    3300026: 12 Glass 14 for wine013
+    3300028: 12 Glass 14 for wine014
+    3300030: 12 Glass 14 for wine015
+    3300032: 12 Glass 14 for wine016
+    3300034: 12 Glass 14 for wine017
+    3300036: 12 Glass 14 for wine018
+    3300038: 12 Glass 14 for wine019
+    3300040: 12 Glass 14 for wine020
+    3300042: 12 Glass 14 for wine021
+    3300044: 12 Glass 14 for wine022
+    3300046: 12 Glass 14 for wine023
+    3300048: 12 Glass 14 for wine024
+    3300050: 12 Glass 14 for wine025
+    3300052: 12 Glass 14 for wine026
+    3300054: 12 Glass 14 for wine027
+    3300056: 12 Glass 15 for wine
+    3300058: 12 Glass 15 for wine001
+    3300060: 12 Glass 15 for wine002
+    3300062: 12 Glass 15 for wine003
+    3300064: 12 Glass 15 for wine004
+    3300066: 12 Glass 15 for wine005
+    3300068: 12 Glass 15 for wine006
+    3300070: 12 Glass 15 for wine007
+    3300072: 12 Glass 15 for wine008
+    3300074: 12 Glass 15 for wine009
+    3300076: 12 Glass 15 for wine010
+    3300078: 12 Glass 15 for wine011
+    3300080: 12 Glass 15 for wine012
+    3300082: 12 Glass 15 for wine013
+    3300084: 12 Glass 15 for wine014
+    3300086: 12 Glass 15 for wine015
+    3300088: 12 Glass 15 for wine016
+    3300090: 12 Glass 15 for wine017
+    3300092: 12 Glass 15 for wine018
+    3300094: 12 Glass 15 for wine019
+    3300096: 12 Glass 15 for wine020
+    3300098: 12 Glass 15 for wine021
+    3300100: 12 Glass 15 for wine022
+    3300102: 12 Glass 15 for wine023
+    3300104: 12 Glass 15 for wine024
+    3300106: 12 Glass 15 for wine025
+    3300108: 12 Glass 15 for wine026
+    3300110: 12 Glass 15 for wine027
+    3300112: 12 Glass 15 for wine028
+    3300114: 12 Glass 15 for wine029
+    3300116: 12 Glass 15 for wine030
+    3300118: 12 Glass 15 for wine031
+    3300120: Beer_Gla048
+    3300122: Beer_Gla049
+    3300124: Beer_Gla050
+    3300126: Beer_Gla051
+    3300128: Beer_Gla052
+    3300130: Beer_Gla053
+    3300132: Beer_Gla054
+    3300134: Beer_Gla055
+    3300136: Beer_Gla056
+    3300138: Beer_Gla057
+    3300140: Beer_Gla058
+    3300142: Beer_Gla059
+    3300144: Beer_Gla060
+    3300146: Beer_Gla061
+    3300148: Beer_Gla062
+    3300150: Beer_Gla063
+    3300152: Beer_Gla064
+    3300154: Beer_Gla065
+    3300156: Beer_Gla066
+    3300158: Beer_Gla067
+    3300160: Beer_Gla068
+    3300162: Beer_Gla069
+    3300164: Beer_Gla070
+    3300166: Beer_Gla071
+    3300168: Box176037
+    3300170: Box176038
+    3300172: Box176039
+    3300174: Box176040
+    3300176: Box176041
+    3300178: Box176042
+    3300180: Box176043
+    3300182: Mesh11557
+    3300184: Rectangle839
+    3300186: Rectangle840
+    3300188: Rectangle841
+    3300190: Rectangle842
+    3300192: Rectangle843
+    3300194: Rectangle844
+    3300196: Rectangle845
+    3300198: Rectangle846
+    3300200: Rectangle854
+    3300202: Rectangle855
+    3300204: Rectangle856
+    3300206: Rectangle857
+    3300208: Rectangle858
+    3300210: Rectangle859
+    3300212: Rectangle860
+    4300000: Box176042
+    4300002: Box176043
+    4300004: Box176037
+    4300006: Box176040
+    4300008: Box176041
+    4300010: Box176039
+    4300012: Box176038
+    4300014: Rectangle839
+    4300016: 12 Glass 15 for wine
+    4300018: 12 Glass 15 for wine018
+    4300020: 12 Glass 14 for wine
+    4300022: 12 Glass 15 for wine017
+    4300024: 12 Glass 15 for wine016
+    4300026: Rectangle845
+    4300028: 12 Glass 15 for wine004
+    4300030: Rectangle843
+    4300032: Rectangle846
+    4300034: Rectangle841
+    4300036: 12 Glass 15 for wine001
+    4300038: 12 Glass 14 for wine002
+    4300040: Rectangle844
+    4300042: 12 Glass 14 for wine003
+    4300044: 12 Glass 15 for wine003
+    4300046: 12 Glass 15 for wine002
+    4300048: 12 Glass 14 for wine018
+    4300050: 12 Glass 14 for wine019
+    4300052: Rectangle857
+    4300054: 12 Glass 14 for wine023
+    4300056: Rectangle855
+    4300058: 12 Glass 14 for wine012
+    4300060: 12 Glass 14 for wine015
+    4300062: 12 Glass 14 for wine024
+    4300064: Rectangle856
+    4300066: 12 Glass 14 for wine004
+    4300068: 12 Glass 14 for wine005
+    4300070: Rectangle860
+    4300072: 12 Glass 14 for wine001
+    4300074: Rectangle842
+    4300076: 12 Glass 15 for wine021
+    4300078: 12 Glass 15 for wine027
+    4300080: 12 Glass 15 for wine005
+    4300082: 12 Glass 15 for wine031
+    4300084: 12 Glass 15 for wine030
+    4300086: 12 Glass 15 for wine008
+    4300088: Rectangle854
+    4300090: 12 Glass 15 for wine025
+    4300092: 12 Glass 15 for wine026
+    4300094: 12 Glass 15 for wine013
+    4300096: 12 Glass 15 for wine010
+    4300098: 12 Glass 15 for wine023
+    4300100: 12 Glass 15 for wine022
+    4300102: Rectangle840
+    4300104: 12 Glass 15 for wine006
+    4300106: 12 Glass 15 for wine020
+    4300108: 12 Glass 15 for wine024
+    4300110: 12 Glass 15 for wine014
+    4300112: 12 Glass 15 for wine028
+    4300114: 12 Glass 15 for wine029
+    4300116: 12 Glass 15 for wine007
+    4300118: 12 Glass 15 for wine009
+    4300120: 12 Glass 15 for wine015
+    4300122: 12 Glass 15 for wine019
+    4300124: 12 Glass 15 for wine012
+    4300126: 12 Glass 15 for wine011
+    4300128: 12 Glass 14 for wine010
+    4300130: 12 Glass 14 for wine006
+    4300132: 12 Glass 14 for wine008
+    4300134: 12 Glass 14 for wine007
+    4300136: 12 Glass 14 for wine009
+    4300138: 12 Glass 14 for wine011
+    4300140: 12 Glass 14 for wine016
+    4300142: 12 Glass 14 for wine025
+    4300144: 12 Glass 14 for wine022
+    4300146: 12 Glass 14 for wine020
+    4300148: 12 Glass 14 for wine021
+    4300150: 12 Glass 14 for wine014
+    4300152: Rectangle858
+    4300154: 12 Glass 14 for wine013
+    4300156: 12 Glass 14 for wine027
+    4300158: 12 Glass 14 for wine026
+    4300160: Rectangle859
+    4300162: 12 Glass 14 for wine017
+    4300164: Beer_Gla048
+    4300166: Mesh11557
+    4300168: Beer_Gla049
+    4300170: Beer_Gla050
+    4300172: Beer_Gla051
+    4300174: Beer_Gla052
+    4300176: Beer_Gla053
+    4300178: Beer_Gla054
+    4300180: Beer_Gla055
+    4300182: Beer_Gla056
+    4300184: Beer_Gla057
+    4300186: Beer_Gla058
+    4300188: Beer_Gla059
+    4300190: Beer_Gla060
+    4300192: Beer_Gla061
+    4300194: Beer_Gla062
+    4300196: Beer_Gla063
+    4300198: Beer_Gla064
+    4300200: Beer_Gla065
+    4300202: Beer_Gla066
+    4300204: Beer_Gla067
+    4300206: Beer_Gla068
+    4300208: Beer_Gla069
+    4300210: Beer_Gla070
+    4300212: Beer_Gla071
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome
+    second: {fileID: 2100000, guid: 2d2f680811b633b40ab7f7ae393f104f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stainless steel new
+    second: {fileID: 2100000, guid: 2f24b379b255d4e418593814ae753b2f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

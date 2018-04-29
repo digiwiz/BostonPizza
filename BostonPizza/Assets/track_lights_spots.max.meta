@@ -1,0 +1,669 @@
+fileFormatVersion: 2
+guid: 149b5413ac1cc1c42bff8567eaf10502
+timeCreated: 1524966693
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box176051
+    100002: Box176052
+    100004: Box176053
+    100006: Box176054
+    100008: Box176055
+    100010: Box176056
+    100012: Box176057
+    100014: Box176058
+    100016: Box176059
+    100018: Box176060
+    100020: Box176061
+    100022: Box176062
+    100024: Box176064
+    100026: Box176065
+    100028: Box176066
+    100030: Box176067
+    100032: Box176068
+    100034: Box176069
+    100036: Cylinder34994
+    100038: Cylinder34995
+    100040: Cylinder34996
+    100042: Cylinder34997
+    100044: Cylinder34998
+    100046: Cylinder34999
+    100048: Cylinder35000
+    100050: Cylinder35001
+    100052: Cylinder35002
+    100054: Cylinder35003
+    100056: Cylinder35004
+    100058: Cylinder35005
+    100060: Cylinder35006
+    100062: Cylinder35007
+    100064: Cylinder35008
+    100066: Cylinder35009
+    100068: Cylinder35010
+    100070: Cylinder35011
+    100072: Cylinder35012
+    100074: Cylinder35013
+    100076: Cylinder35014
+    100078: Cylinder35015
+    100080: Cylinder35016
+    100082: Cylinder35017
+    100084: Cylinder35018
+    100086: Cylinder35019
+    100088: Cylinder35020
+    100090: Group1871020929
+    100092: Group1871020930
+    100094: Group1871020931
+    100096: Group1871020932
+    100098: Group1871020933
+    100100: Group1871020934
+    100102: Group1871020935
+    100104: Group1871020936
+    100106: Group1871020937
+    100108: Line2462
+    100110: Line2463
+    100112: Line2464
+    100114: Line2465
+    100116: Line2466
+    100118: Line2467
+    100120: Line2468
+    100122: Line2469
+    100124: Line2470
+    100126: Line2471
+    100128: Line2472
+    100130: Line2473
+    100132: Line2474
+    100134: Line2475
+    100136: Line2476
+    100138: Line2477
+    100140: Line2478
+    100142: Line2479
+    100144: Line2480
+    100146: Line2481
+    100148: Line2482
+    100150: Line2483
+    100152: Line2484
+    100154: Line2485
+    100156: Line2486
+    100158: Line2487
+    100160: Line2488
+    100162: Object900
+    100164: Object901
+    100166: Object902
+    100168: Object903
+    100170: Object904
+    100172: Object905
+    100174: Object906
+    100176: Object907
+    100178: Object908
+    100180: Object909
+    100182: Object910
+    100184: Object911
+    100186: Object912
+    100188: Object913
+    100190: Object914
+    100192: Object915
+    100194: Object916
+    100196: Object917
+    100198: Object918
+    100200: Object919
+    100202: Object920
+    100204: Object921
+    100206: Object922
+    100208: Object923
+    100210: Object924
+    100212: Object925
+    100214: Object926
+    100216: pot 169
+    100218: pot 170
+    100220: pot 171
+    100222: pot 172
+    100224: pot 173
+    100226: pot 174
+    100228: pot 175
+    100230: pot 176
+    100232: pot 177
+    100234: pot 178
+    100236: pot 179
+    100238: pot 180
+    100240: pot 181
+    100242: pot 182
+    100244: pot 183
+    100246: pot 184
+    100248: pot 185
+    100250: pot 186
+    100252: pot 187
+    100254: pot 188
+    100256: pot 189
+    100258: pot 190
+    100260: pot 191
+    100262: pot 192
+    100264: pot 193
+    100266: pot 194
+    100268: pot 195
+    100270: //RootNode
+    400000: Box176051
+    400002: Box176052
+    400004: Box176053
+    400006: Box176054
+    400008: Box176055
+    400010: Box176056
+    400012: Box176057
+    400014: Box176058
+    400016: Box176059
+    400018: Box176060
+    400020: Box176061
+    400022: Box176062
+    400024: Box176064
+    400026: Box176065
+    400028: Box176066
+    400030: Box176067
+    400032: Box176068
+    400034: Box176069
+    400036: Cylinder34994
+    400038: Cylinder34995
+    400040: Cylinder34996
+    400042: Cylinder34997
+    400044: Cylinder34998
+    400046: Cylinder34999
+    400048: Cylinder35000
+    400050: Cylinder35001
+    400052: Cylinder35002
+    400054: Cylinder35003
+    400056: Cylinder35004
+    400058: Cylinder35005
+    400060: Cylinder35006
+    400062: Cylinder35007
+    400064: Cylinder35008
+    400066: Cylinder35009
+    400068: Cylinder35010
+    400070: Cylinder35011
+    400072: Cylinder35012
+    400074: Cylinder35013
+    400076: Cylinder35014
+    400078: Cylinder35015
+    400080: Cylinder35016
+    400082: Cylinder35017
+    400084: Cylinder35018
+    400086: Cylinder35019
+    400088: Cylinder35020
+    400090: Group1871020929
+    400092: Group1871020930
+    400094: Group1871020931
+    400096: Group1871020932
+    400098: Group1871020933
+    400100: Group1871020934
+    400102: Group1871020935
+    400104: Group1871020936
+    400106: Group1871020937
+    400108: Line2462
+    400110: Line2463
+    400112: Line2464
+    400114: Line2465
+    400116: Line2466
+    400118: Line2467
+    400120: Line2468
+    400122: Line2469
+    400124: Line2470
+    400126: Line2471
+    400128: Line2472
+    400130: Line2473
+    400132: Line2474
+    400134: Line2475
+    400136: Line2476
+    400138: Line2477
+    400140: Line2478
+    400142: Line2479
+    400144: Line2480
+    400146: Line2481
+    400148: Line2482
+    400150: Line2483
+    400152: Line2484
+    400154: Line2485
+    400156: Line2486
+    400158: Line2487
+    400160: Line2488
+    400162: Object900
+    400164: Object901
+    400166: Object902
+    400168: Object903
+    400170: Object904
+    400172: Object905
+    400174: Object906
+    400176: Object907
+    400178: Object908
+    400180: Object909
+    400182: Object910
+    400184: Object911
+    400186: Object912
+    400188: Object913
+    400190: Object914
+    400192: Object915
+    400194: Object916
+    400196: Object917
+    400198: Object918
+    400200: Object919
+    400202: Object920
+    400204: Object921
+    400206: Object922
+    400208: Object923
+    400210: Object924
+    400212: Object925
+    400214: Object926
+    400216: pot 169
+    400218: pot 170
+    400220: pot 171
+    400222: pot 172
+    400224: pot 173
+    400226: pot 174
+    400228: pot 175
+    400230: pot 176
+    400232: pot 177
+    400234: pot 178
+    400236: pot 179
+    400238: pot 180
+    400240: pot 181
+    400242: pot 182
+    400244: pot 183
+    400246: pot 184
+    400248: pot 185
+    400250: pot 186
+    400252: pot 187
+    400254: pot 188
+    400256: pot 189
+    400258: pot 190
+    400260: pot 191
+    400262: pot 192
+    400264: pot 193
+    400266: pot 194
+    400268: pot 195
+    400270: //RootNode
+    2100000: vray FrontCol glossy
+    2100002: 'Masdasdaterial #18'
+    2300000: Box176051
+    2300002: Box176052
+    2300004: Box176053
+    2300006: Box176054
+    2300008: Box176055
+    2300010: Box176056
+    2300012: Box176057
+    2300014: Box176058
+    2300016: Box176059
+    2300018: Box176060
+    2300020: Box176061
+    2300022: Box176062
+    2300024: Box176064
+    2300026: Box176065
+    2300028: Box176066
+    2300030: Box176067
+    2300032: Box176068
+    2300034: Box176069
+    2300036: Cylinder34994
+    2300038: Cylinder34995
+    2300040: Cylinder34996
+    2300042: Cylinder34997
+    2300044: Cylinder34998
+    2300046: Cylinder34999
+    2300048: Cylinder35000
+    2300050: Cylinder35001
+    2300052: Cylinder35002
+    2300054: Cylinder35003
+    2300056: Cylinder35004
+    2300058: Cylinder35005
+    2300060: Cylinder35006
+    2300062: Cylinder35007
+    2300064: Cylinder35008
+    2300066: Cylinder35009
+    2300068: Cylinder35010
+    2300070: Cylinder35011
+    2300072: Cylinder35012
+    2300074: Cylinder35013
+    2300076: Cylinder35014
+    2300078: Cylinder35015
+    2300080: Cylinder35016
+    2300082: Cylinder35017
+    2300084: Cylinder35018
+    2300086: Cylinder35019
+    2300088: Cylinder35020
+    2300090: Line2462
+    2300092: Line2463
+    2300094: Line2464
+    2300096: Line2465
+    2300098: Line2466
+    2300100: Line2467
+    2300102: Line2468
+    2300104: Line2469
+    2300106: Line2470
+    2300108: Line2471
+    2300110: Line2472
+    2300112: Line2473
+    2300114: Line2474
+    2300116: Line2475
+    2300118: Line2476
+    2300120: Line2477
+    2300122: Line2478
+    2300124: Line2479
+    2300126: Line2480
+    2300128: Line2481
+    2300130: Line2482
+    2300132: Line2483
+    2300134: Line2484
+    2300136: Line2485
+    2300138: Line2486
+    2300140: Line2487
+    2300142: Line2488
+    2300144: Object900
+    2300146: Object901
+    2300148: Object902
+    2300150: Object903
+    2300152: Object904
+    2300154: Object905
+    2300156: Object906
+    2300158: Object907
+    2300160: Object908
+    2300162: Object909
+    2300164: Object910
+    2300166: Object911
+    2300168: Object912
+    2300170: Object913
+    2300172: Object914
+    2300174: Object915
+    2300176: Object916
+    2300178: Object917
+    2300180: Object918
+    2300182: Object919
+    2300184: Object920
+    2300186: Object921
+    2300188: Object922
+    2300190: Object923
+    2300192: Object924
+    2300194: Object925
+    2300196: Object926
+    3300000: Box176051
+    3300002: Box176052
+    3300004: Box176053
+    3300006: Box176054
+    3300008: Box176055
+    3300010: Box176056
+    3300012: Box176057
+    3300014: Box176058
+    3300016: Box176059
+    3300018: Box176060
+    3300020: Box176061
+    3300022: Box176062
+    3300024: Box176064
+    3300026: Box176065
+    3300028: Box176066
+    3300030: Box176067
+    3300032: Box176068
+    3300034: Box176069
+    3300036: Cylinder34994
+    3300038: Cylinder34995
+    3300040: Cylinder34996
+    3300042: Cylinder34997
+    3300044: Cylinder34998
+    3300046: Cylinder34999
+    3300048: Cylinder35000
+    3300050: Cylinder35001
+    3300052: Cylinder35002
+    3300054: Cylinder35003
+    3300056: Cylinder35004
+    3300058: Cylinder35005
+    3300060: Cylinder35006
+    3300062: Cylinder35007
+    3300064: Cylinder35008
+    3300066: Cylinder35009
+    3300068: Cylinder35010
+    3300070: Cylinder35011
+    3300072: Cylinder35012
+    3300074: Cylinder35013
+    3300076: Cylinder35014
+    3300078: Cylinder35015
+    3300080: Cylinder35016
+    3300082: Cylinder35017
+    3300084: Cylinder35018
+    3300086: Cylinder35019
+    3300088: Cylinder35020
+    3300090: Line2462
+    3300092: Line2463
+    3300094: Line2464
+    3300096: Line2465
+    3300098: Line2466
+    3300100: Line2467
+    3300102: Line2468
+    3300104: Line2469
+    3300106: Line2470
+    3300108: Line2471
+    3300110: Line2472
+    3300112: Line2473
+    3300114: Line2474
+    3300116: Line2475
+    3300118: Line2476
+    3300120: Line2477
+    3300122: Line2478
+    3300124: Line2479
+    3300126: Line2480
+    3300128: Line2481
+    3300130: Line2482
+    3300132: Line2483
+    3300134: Line2484
+    3300136: Line2485
+    3300138: Line2486
+    3300140: Line2487
+    3300142: Line2488
+    3300144: Object900
+    3300146: Object901
+    3300148: Object902
+    3300150: Object903
+    3300152: Object904
+    3300154: Object905
+    3300156: Object906
+    3300158: Object907
+    3300160: Object908
+    3300162: Object909
+    3300164: Object910
+    3300166: Object911
+    3300168: Object912
+    3300170: Object913
+    3300172: Object914
+    3300174: Object915
+    3300176: Object916
+    3300178: Object917
+    3300180: Object918
+    3300182: Object919
+    3300184: Object920
+    3300186: Object921
+    3300188: Object922
+    3300190: Object923
+    3300192: Object924
+    3300194: Object925
+    3300196: Object926
+    4300000: Box176054
+    4300002: Box176051
+    4300004: Box176052
+    4300006: Box176053
+    4300008: Cylinder34994
+    4300010: Line2462
+    4300012: Object900
+    4300014: Cylinder34995
+    4300016: Line2463
+    4300018: Object901
+    4300020: Cylinder34996
+    4300022: Line2464
+    4300024: Object902
+    4300026: Box176055
+    4300028: Box176056
+    4300030: Box176057
+    4300032: Box176058
+    4300034: Cylinder34997
+    4300036: Line2465
+    4300038: Object904
+    4300040: Line2466
+    4300042: Object903
+    4300044: Cylinder34999
+    4300046: Cylinder34998
+    4300048: Line2467
+    4300050: Object905
+    4300052: Box176059
+    4300054: Box176060
+    4300056: Box176061
+    4300058: Box176062
+    4300060: Cylinder35000
+    4300062: Line2468
+    4300064: Object907
+    4300066: Line2469
+    4300068: Object906
+    4300070: Cylinder35002
+    4300072: Cylinder35001
+    4300074: Line2470
+    4300076: Object908
+    4300078: Box176064
+    4300080: Cylinder35003
+    4300082: Line2471
+    4300084: Object910
+    4300086: Line2472
+    4300088: Object909
+    4300090: Cylinder35005
+    4300092: Cylinder35004
+    4300094: Line2473
+    4300096: Object911
+    4300098: Cylinder35006
+    4300100: Line2474
+    4300102: Object912
+    4300104: Box176065
+    4300106: Cylinder35007
+    4300108: Line2475
+    4300110: Object913
+    4300112: Line2476
+    4300114: Object914
+    4300116: Cylinder35008
+    4300118: Cylinder35009
+    4300120: Line2477
+    4300122: Object915
+    4300124: Box176066
+    4300126: Cylinder35010
+    4300128: Line2478
+    4300130: Object916
+    4300132: Line2479
+    4300134: Object917
+    4300136: Cylinder35011
+    4300138: Cylinder35012
+    4300140: Line2480
+    4300142: Object918
+    4300144: Box176067
+    4300146: Cylinder35013
+    4300148: Line2481
+    4300150: Object919
+    4300152: Line2482
+    4300154: Object920
+    4300156: Cylinder35014
+    4300158: Cylinder35015
+    4300160: Line2483
+    4300162: Object921
+    4300164: Box176068
+    4300166: Cylinder35016
+    4300168: Line2484
+    4300170: Object922
+    4300172: Line2485
+    4300174: Object923
+    4300176: Cylinder35017
+    4300178: Cylinder35018
+    4300180: Line2486
+    4300182: Object924
+    4300184: Box176069
+    4300186: Cylinder35019
+    4300188: Line2487
+    4300190: Object925
+    4300192: Line2488
+    4300194: Object926
+    4300196: Cylinder35020
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Masdasdaterial #18'
+    second: {fileID: 2100000, guid: 79f5f212dc91bba47979e142050f64db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray FrontCol glossy
+    second: {fileID: 2100000, guid: 02d15f1a0db2f224ab6c4078b84bee6f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

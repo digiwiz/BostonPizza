@@ -1217,6 +1217,13 @@ ModelImporter:
     102418: Box001
     102420: Plane006
     102422: Plane007
+    102424: box
+    102426: grey
+    102428: grid
+    102430: inside
+    102432: red
+    102434: shelves
+    102436: trim
     400000: //RootNode
     400002: Etiket_R01
     400004: Etiket_R02
@@ -2429,6 +2436,13 @@ ModelImporter:
     402418: Box001
     402420: Plane006
     402422: Plane007
+    402424: box
+    402426: grey
+    402428: grid
+    402430: inside
+    402432: red
+    402434: shelves
+    402436: trim
     2100000: vray _45
     2100002: PL5
     2100004: vray _DarkGra
@@ -3653,6 +3667,13 @@ ModelImporter:
     2302414: Box001
     2302416: Plane006
     2302418: Plane007
+    2302420: box
+    2302422: grey
+    2302424: grid
+    2302426: inside
+    2302428: red
+    2302430: shelves
+    2302432: trim
     3300000: Etiket_R01
     3300002: Etiket_R02
     3300004: Etiket_R03
@@ -4863,6 +4884,13 @@ ModelImporter:
     3302414: Box001
     3302416: Plane006
     3302418: Plane007
+    3302420: box
+    3302422: grey
+    3302424: grid
+    3302426: inside
+    3302428: red
+    3302430: shelves
+    3302432: trim
     4300000: Group459
     4300002: Group458
     4300004: Group334
@@ -6073,8 +6101,20 @@ ModelImporter:
     4302414: Plane007
     4302416: Plane006
     4302418: Box001
+    4302420: shelves
+    4302422: grid
+    4302424: inside
+    4302426: trim
+    4302428: red
+    4302430: grey
+    4302432: box
     9500000: //RootNode
   externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold
+    second: {fileID: 2100000, guid: 70702c81a8639f04584075348e7ec331, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

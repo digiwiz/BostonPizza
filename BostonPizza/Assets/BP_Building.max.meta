@@ -905,6 +905,7 @@ ModelImporter:
     101794: Web_3_7
     101796: Web_3_8
     101798: Web_3_9
+    101800: Plates
     400000: 00 CEILING SLATS
     400002: 00 EXTERIOR SHELL
     400004: 00 EXTRA EXT FRAMES AND DOORS
@@ -1805,6 +1806,7 @@ ModelImporter:
     401794: Web_3_7
     401796: Web_3_8
     401798: Web_3_9
+    401800: Plates
     2100000: tv
     2100002: tv frames
     2100004: tv2

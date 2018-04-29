@@ -1,0 +1,576 @@
+fileFormatVersion: 2
+guid: 3940b5eb1d999b2468928f0be5f27134
+timeCreated: 1524966719
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 4 tvs near bar001
+    100004: 4 tvs near bar002
+    100006: 4 tvs near bar003
+    100008: Box176027
+    100010: Group#174_029
+    100012: Group#174_031
+    100014: Group#174_032
+    100016: Group#174_047
+    100018: Group#174_048
+    100020: Group#174_049
+    100022: Group#174_061
+    100024: Group#174_062
+    100026: Group#174_063
+    100028: Group#174_065
+    100030: Group#174_066
+    100032: Group#174_067
+    100034: Group#174_068
+    100036: Group#174_069
+    100038: Group#174_070
+    100040: Group#174_071
+    100042: Group#174_072
+    100044: Group#174_073
+    100046: Group1297
+    100048: Group1299
+    100050: Group1300
+    100052: Group1528
+    100054: Group1529
+    100056: Group169
+    100058: Group1871020396
+    100060: Group1871020397
+    100062: Group1871020398
+    100064: Group1871020399
+    100066: Group1871020416
+    100068: Group1871020417
+    100070: Group1871020418
+    100072: Group1871020419
+    100074: Group1871020777
+    100076: Group1871020902
+    100078: Group225
+    100080: Group2287
+    100082: Group2289
+    100084: Group2290
+    100086: Group2755
+    100088: Group2756
+    100090: Group2757
+    100092: Group2802
+    100094: Group_1401
+    100096: Group_1402
+    100098: Group_1403
+    100100: Group_1404
+    100102: Group_1405
+    100104: Group_1406
+    100106: Group_1407
+    100108: Group_1414
+    100110: Group_1415
+    100112: Group_1416
+    100114: Group_1417
+    100116: Group_1418
+    100118: Group_1419
+    100120: Group_1420
+    100122: Group_1421
+    100124: Group_1422
+    100126: Group_1423
+    100128: Group_1424
+    100130: Group_1425
+    100132: Group_1426
+    100134: Group_144_
+    100136: Group_1460
+    100138: import bits
+    100140: Object299
+    100142: Object301
+    100144: Object302
+    100146: Object343
+    100148: Object345
+    100150: Object346
+    100152: Object438
+    100154: Object439
+    100156: Object440
+    100158: Object542
+    100160: Object543
+    100162: Object544
+    100164: Object545
+    100166: Object559
+    100168: Object560
+    100170: Object561
+    100172: Object562
+    100174: Object851
+    100176: Object852
+    100178: Object854
+    100180: Object887
+    100182: Object889
+    100184: Object891
+    100186: Object893
+    100188: Object895
+    100190: Object897
+    100192: Object899
+    400000: //RootNode
+    400002: 4 tvs near bar001
+    400004: 4 tvs near bar002
+    400006: 4 tvs near bar003
+    400008: Box176027
+    400010: Group#174_029
+    400012: Group#174_031
+    400014: Group#174_032
+    400016: Group#174_047
+    400018: Group#174_048
+    400020: Group#174_049
+    400022: Group#174_061
+    400024: Group#174_062
+    400026: Group#174_063
+    400028: Group#174_065
+    400030: Group#174_066
+    400032: Group#174_067
+    400034: Group#174_068
+    400036: Group#174_069
+    400038: Group#174_070
+    400040: Group#174_071
+    400042: Group#174_072
+    400044: Group#174_073
+    400046: Group1297
+    400048: Group1299
+    400050: Group1300
+    400052: Group1528
+    400054: Group1529
+    400056: Group169
+    400058: Group1871020396
+    400060: Group1871020397
+    400062: Group1871020398
+    400064: Group1871020399
+    400066: Group1871020416
+    400068: Group1871020417
+    400070: Group1871020418
+    400072: Group1871020419
+    400074: Group1871020777
+    400076: Group1871020902
+    400078: Group225
+    400080: Group2287
+    400082: Group2289
+    400084: Group2290
+    400086: Group2755
+    400088: Group2756
+    400090: Group2757
+    400092: Group2802
+    400094: Group_1401
+    400096: Group_1402
+    400098: Group_1403
+    400100: Group_1404
+    400102: Group_1405
+    400104: Group_1406
+    400106: Group_1407
+    400108: Group_1414
+    400110: Group_1415
+    400112: Group_1416
+    400114: Group_1417
+    400116: Group_1418
+    400118: Group_1419
+    400120: Group_1420
+    400122: Group_1421
+    400124: Group_1422
+    400126: Group_1423
+    400128: Group_1424
+    400130: Group_1425
+    400132: Group_1426
+    400134: Group_144_
+    400136: Group_1460
+    400138: import bits
+    400140: Object299
+    400142: Object301
+    400144: Object302
+    400146: Object343
+    400148: Object345
+    400150: Object346
+    400152: Object438
+    400154: Object439
+    400156: Object440
+    400158: Object542
+    400160: Object543
+    400162: Object544
+    400164: Object545
+    400166: Object559
+    400168: Object560
+    400170: Object561
+    400172: Object562
+    400174: Object851
+    400176: Object852
+    400178: Object854
+    400180: Object887
+    400182: Object889
+    400184: Object891
+    400186: Object893
+    400188: Object895
+    400190: Object897
+    400192: Object899
+    2100000: tv frames
+    2100002: tveehhh
+    2100004: tv2a
+    2100006: tv2
+    2100008: 'Matefffrial #13'
+    2100010: vray Color_M0
+    2100012: 'Material #57081'
+    2100014: lobby screen
+    2100016: lobby screen 2
+    2100018: bar screen
+    2100020: tv
+    2100022: _Color_M
+    2100024: 'Material #57093'
+    2300000: Box176027
+    2300002: Group#174_029
+    2300004: Group#174_031
+    2300006: Group#174_032
+    2300008: Group#174_047
+    2300010: Group#174_048
+    2300012: Group#174_049
+    2300014: Group#174_061
+    2300016: Group#174_062
+    2300018: Group#174_063
+    2300020: Group#174_065
+    2300022: Group#174_066
+    2300024: Group#174_067
+    2300026: Group#174_068
+    2300028: Group#174_069
+    2300030: Group#174_070
+    2300032: Group#174_071
+    2300034: Group#174_072
+    2300036: Group#174_073
+    2300038: Group1528
+    2300040: Group1529
+    2300042: Group169
+    2300044: Group225
+    2300046: Group_1401
+    2300048: Group_1402
+    2300050: Group_1403
+    2300052: Group_1404
+    2300054: Group_1405
+    2300056: Group_1406
+    2300058: Group_1407
+    2300060: Group_1414
+    2300062: Group_1415
+    2300064: Group_1416
+    2300066: Group_1417
+    2300068: Group_1418
+    2300070: Group_1419
+    2300072: Group_1420
+    2300074: Group_1421
+    2300076: Group_1422
+    2300078: Group_1423
+    2300080: Group_1424
+    2300082: Group_1425
+    2300084: Group_1426
+    2300086: Group_144_
+    2300088: Group_1460
+    2300090: Object299
+    2300092: Object301
+    2300094: Object302
+    2300096: Object343
+    2300098: Object345
+    2300100: Object346
+    2300102: Object438
+    2300104: Object439
+    2300106: Object440
+    2300108: Object542
+    2300110: Object543
+    2300112: Object544
+    2300114: Object545
+    2300116: Object559
+    2300118: Object560
+    2300120: Object561
+    2300122: Object562
+    2300124: Object851
+    2300126: Object852
+    2300128: Object854
+    2300130: Object887
+    2300132: Object889
+    2300134: Object891
+    2300136: Object893
+    2300138: Object895
+    2300140: Object897
+    2300142: Object899
+    3300000: Box176027
+    3300002: Group#174_029
+    3300004: Group#174_031
+    3300006: Group#174_032
+    3300008: Group#174_047
+    3300010: Group#174_048
+    3300012: Group#174_049
+    3300014: Group#174_061
+    3300016: Group#174_062
+    3300018: Group#174_063
+    3300020: Group#174_065
+    3300022: Group#174_066
+    3300024: Group#174_067
+    3300026: Group#174_068
+    3300028: Group#174_069
+    3300030: Group#174_070
+    3300032: Group#174_071
+    3300034: Group#174_072
+    3300036: Group#174_073
+    3300038: Group1528
+    3300040: Group1529
+    3300042: Group169
+    3300044: Group225
+    3300046: Group_1401
+    3300048: Group_1402
+    3300050: Group_1403
+    3300052: Group_1404
+    3300054: Group_1405
+    3300056: Group_1406
+    3300058: Group_1407
+    3300060: Group_1414
+    3300062: Group_1415
+    3300064: Group_1416
+    3300066: Group_1417
+    3300068: Group_1418
+    3300070: Group_1419
+    3300072: Group_1420
+    3300074: Group_1421
+    3300076: Group_1422
+    3300078: Group_1423
+    3300080: Group_1424
+    3300082: Group_1425
+    3300084: Group_1426
+    3300086: Group_144_
+    3300088: Group_1460
+    3300090: Object299
+    3300092: Object301
+    3300094: Object302
+    3300096: Object343
+    3300098: Object345
+    3300100: Object346
+    3300102: Object438
+    3300104: Object439
+    3300106: Object440
+    3300108: Object542
+    3300110: Object543
+    3300112: Object544
+    3300114: Object545
+    3300116: Object559
+    3300118: Object560
+    3300120: Object561
+    3300122: Object562
+    3300124: Object851
+    3300126: Object852
+    3300128: Object854
+    3300130: Object887
+    3300132: Object889
+    3300134: Object891
+    3300136: Object893
+    3300138: Object895
+    3300140: Object897
+    3300142: Object899
+    4300000: Group#174_029
+    4300002: Object299
+    4300004: Group#174_031
+    4300006: Object301
+    4300008: Group#174_032
+    4300010: Object302
+    4300012: Group#174_069
+    4300014: Object559
+    4300016: Group#174_070
+    4300018: Object560
+    4300020: Group#174_071
+    4300022: Object561
+    4300024: Object562
+    4300026: Group#174_072
+    4300028: Box176027
+    4300030: Object851
+    4300032: Object852
+    4300034: Group#174_073
+    4300036: Group1529
+    4300038: Group1528
+    4300040: Object854
+    4300042: Object887
+    4300044: Object889
+    4300046: Object891
+    4300048: Object893
+    4300050: Object895
+    4300052: Object897
+    4300054: Object899
+    4300056: Group#174_065
+    4300058: Object543
+    4300060: Object544
+    4300062: Group#174_066
+    4300064: Object542
+    4300066: Group#174_067
+    4300068: Object545
+    4300070: Group#174_068
+    4300072: Group#174_047
+    4300074: Object343
+    4300076: Group#174_048
+    4300078: Object346
+    4300080: Group#174_049
+    4300082: Object345
+    4300084: Object438
+    4300086: Group#174_062
+    4300088: Group#174_061
+    4300090: Object440
+    4300092: Group#174_063
+    4300094: Object439
+    4300096: Group_1417
+    4300098: Group_1414
+    4300100: Group_1416
+    4300102: Group_1415
+    4300104: Group_1422
+    4300106: Group_1423
+    4300108: Group_1425
+    4300110: Group_1418
+    4300112: Group_1421
+    4300114: Group_1420
+    4300116: Group_1419
+    4300118: Group_1424
+    4300120: Group_1426
+    4300122: Group_1460
+    4300124: Group_1404
+    4300126: Group_1406
+    4300128: Group_1405
+    4300130: Group_1407
+    4300132: Group169
+    4300134: Group_144_
+    4300136: Group_1403
+    4300138: Group_1401
+    4300140: Group_1402
+    4300142: Group225
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Matefffrial #13'
+    second: {fileID: 2100000, guid: c1def0cebca17ea4291832038496d4cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #57081'
+    second: {fileID: 2100000, guid: 0693495094e86be43898bdee1e7ac6fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #57093'
+    second: {fileID: 2100000, guid: 6229b2c67235a9a40bc2d943482973e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Color_M
+    second: {fileID: 2100000, guid: 4068a27ce3347a04eb33bca8891bc99f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bar screen
+    second: {fileID: 2100000, guid: cd998fc0c4219724db7d3ae3db9d2b84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lobby screen
+    second: {fileID: 2100000, guid: 09f8e19c12fc212498aed0fa64077693, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lobby screen 2
+    second: {fileID: 2100000, guid: af7f8f8d8e5c422469b1a9f35124f1eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tv
+    second: {fileID: 2100000, guid: 1ac11ff7c3d4ede4088a59433a341895, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tv frames
+    second: {fileID: 2100000, guid: 719694ce312a86f45bd5c63ecc7f4b89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tv2
+    second: {fileID: 2100000, guid: 82771bd3bdfc48f46b3418f6291f0bf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tv2a
+    second: {fileID: 2100000, guid: 5f5dfc459d5a1d9458bd9eace0144f04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tveehhh
+    second: {fileID: 2100000, guid: 90d5f07dfaedd5b4fa36fc52af6b046d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Color_M0
+    second: {fileID: 2100000, guid: 8771ac9f1d184df4eb8dd701e36f7712, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

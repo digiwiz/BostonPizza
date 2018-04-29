@@ -1,0 +1,666 @@
+fileFormatVersion: 2
+guid: bb1ba848db48dec4198d1f9ba77aee34
+timeCreated: 1524955760
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box175838
+    100002: Box176027
+    100004: Box176028
+    100006: Box176029
+    100008: Box176030
+    100010: Box176032
+    100012: Box176033
+    100014: Box176044
+    100016: Box176045
+    100018: Box176046
+    100020: Box176047
+    100022: Box176048
+    100024: Box176049
+    100026: Box176050
+    100028: ChamferBox042
+    100030: ChamferBox043
+    100032: ChamferBox044
+    100034: Cylinder34992
+    100036: Cylinder34993
+    100038: //RootNode
+    100040: Group1471
+    100042: Group1907
+    100044: Group1908
+    100046: Group1909
+    100048: Group1910
+    100050: Group1911
+    100052: Group1912
+    100054: Group1913
+    100056: Group1914
+    100058: Group1915
+    100060: Group1916
+    100062: Group1917
+    100064: Group1918
+    100066: Group2803
+    100068: Group_1427
+    100070: Group_1429
+    100072: Group_1432
+    100074: Group_1436
+    100076: Group_1438
+    100078: Group_1441
+    100080: Group_1444
+    100082: Group_1446
+    100084: Group_1449
+    100086: Group_1453
+    100088: Group_1455
+    100090: Group_1458
+    100092: Line2388
+    100094: Object451
+    100096: Object453
+    100098: Object506
+    100100: Object508
+    100102: Object779
+    100104: Object787
+    100106: Object797
+    100108: Object799
+    100110: Object801
+    100112: Object803
+    100114: Object805
+    100116: Object807
+    100118: Object809
+    100120: Object811
+    100122: Object825
+    100124: Object851
+    100126: Object854
+    100128: Object859
+    100130: Object861
+    100132: Object863
+    100134: Object865
+    100136: Object887
+    100138: Object889
+    100140: Object891
+    100142: Object893
+    100144: Object895
+    100146: Object897
+    100148: Object899
+    400000: Box175838
+    400002: Box176027
+    400004: Box176028
+    400006: Box176029
+    400008: Box176030
+    400010: Box176032
+    400012: Box176033
+    400014: Box176044
+    400016: Box176045
+    400018: Box176046
+    400020: Box176047
+    400022: Box176048
+    400024: Box176049
+    400026: Box176050
+    400028: ChamferBox042
+    400030: ChamferBox043
+    400032: ChamferBox044
+    400034: Cylinder34992
+    400036: Cylinder34993
+    400038: //RootNode
+    400040: Group1471
+    400042: Group1907
+    400044: Group1908
+    400046: Group1909
+    400048: Group1910
+    400050: Group1911
+    400052: Group1912
+    400054: Group1913
+    400056: Group1914
+    400058: Group1915
+    400060: Group1916
+    400062: Group1917
+    400064: Group1918
+    400066: Group2803
+    400068: Group_1427
+    400070: Group_1429
+    400072: Group_1432
+    400074: Group_1436
+    400076: Group_1438
+    400078: Group_1441
+    400080: Group_1444
+    400082: Group_1446
+    400084: Group_1449
+    400086: Group_1453
+    400088: Group_1455
+    400090: Group_1458
+    400092: Line2388
+    400094: Object451
+    400096: Object453
+    400098: Object506
+    400100: Object508
+    400102: Object779
+    400104: Object787
+    400106: Object797
+    400108: Object799
+    400110: Object801
+    400112: Object803
+    400114: Object805
+    400116: Object807
+    400118: Object809
+    400120: Object811
+    400122: Object825
+    400124: Object851
+    400126: Object854
+    400128: Object859
+    400130: Object861
+    400132: Object863
+    400134: Object865
+    400136: Object887
+    400138: Object889
+    400140: Object891
+    400142: Object893
+    400144: Object895
+    400146: Object897
+    400148: Object899
+    2100000: vray Aluminum
+    2100002: PT3
+    2100004: PT1
+    2100006: TL 7
+    2100008: 'Material #23'
+    2100010: PL4
+    2100012: TO Photo_03
+    2100014: Color_13
+    2100016: TO Photo_02
+    2100018: TO Photo_04
+    2100020: TO Photo_01
+    2100022: TO Photo_06
+    2100024: TO Photo_05
+    2100026: 'Matefffrial #13'
+    2100028: vray Color_M0
+    2100030: stainless steel new
+    2100032: vray Color_L0
+    2100034: VNL 1
+    2100036: vray DRK wood
+    2100038: PL2
+    2100040: G11
+    2100042: Glass Windoxxxbbxw Perfect
+    2100044: Glass Windoxxxxw Perfect
+    2100046: tv2
+    2100048: 'Material #57127'
+    2100050: PT5
+    2100052: WC 1
+    2100054: BR2
+    2100056: G22
+    2100058: PT2
+    2100060: PT2 w graph B
+    2100062: 'Material #63095'
+    2100064: lobby screen
+    2100066: lobby screen 2
+    2100068: bar screen
+    2300000: Box175838
+    2300002: Box176027
+    2300004: Box176028
+    2300006: Box176029
+    2300008: Box176030
+    2300010: Box176032
+    2300012: Box176033
+    2300014: Box176044
+    2300016: Box176045
+    2300018: Box176046
+    2300020: Box176047
+    2300022: Box176048
+    2300024: Box176049
+    2300026: Box176050
+    2300028: ChamferBox042
+    2300030: ChamferBox043
+    2300032: ChamferBox044
+    2300034: Cylinder34992
+    2300036: Cylinder34993
+    2300038: Group1471
+    2300040: Group1907
+    2300042: Group1908
+    2300044: Group1909
+    2300046: Group1910
+    2300048: Group1911
+    2300050: Group1912
+    2300052: Group1913
+    2300054: Group1914
+    2300056: Group1915
+    2300058: Group1916
+    2300060: Group1917
+    2300062: Group1918
+    2300064: Group2803
+    2300066: Group_1427
+    2300068: Group_1429
+    2300070: Group_1432
+    2300072: Group_1436
+    2300074: Group_1438
+    2300076: Group_1441
+    2300078: Group_1444
+    2300080: Group_1446
+    2300082: Group_1449
+    2300084: Group_1453
+    2300086: Group_1455
+    2300088: Group_1458
+    2300090: Line2388
+    2300092: Object451
+    2300094: Object453
+    2300096: Object506
+    2300098: Object508
+    2300100: Object779
+    2300102: Object787
+    2300104: Object797
+    2300106: Object799
+    2300108: Object801
+    2300110: Object803
+    2300112: Object805
+    2300114: Object807
+    2300116: Object809
+    2300118: Object811
+    2300120: Object825
+    2300122: Object851
+    2300124: Object854
+    2300126: Object859
+    2300128: Object861
+    2300130: Object863
+    2300132: Object865
+    2300134: Object887
+    2300136: Object889
+    2300138: Object891
+    2300140: Object893
+    2300142: Object895
+    2300144: Object897
+    2300146: Object899
+    3300000: Box175838
+    3300002: Box176027
+    3300004: Box176028
+    3300006: Box176029
+    3300008: Box176030
+    3300010: Box176032
+    3300012: Box176033
+    3300014: Box176044
+    3300016: Box176045
+    3300018: Box176046
+    3300020: Box176047
+    3300022: Box176048
+    3300024: Box176049
+    3300026: Box176050
+    3300028: ChamferBox042
+    3300030: ChamferBox043
+    3300032: ChamferBox044
+    3300034: Cylinder34992
+    3300036: Cylinder34993
+    3300038: Group1471
+    3300040: Group1907
+    3300042: Group1908
+    3300044: Group1909
+    3300046: Group1910
+    3300048: Group1911
+    3300050: Group1912
+    3300052: Group1913
+    3300054: Group1914
+    3300056: Group1915
+    3300058: Group1916
+    3300060: Group1917
+    3300062: Group1918
+    3300064: Group2803
+    3300066: Group_1427
+    3300068: Group_1429
+    3300070: Group_1432
+    3300072: Group_1436
+    3300074: Group_1438
+    3300076: Group_1441
+    3300078: Group_1444
+    3300080: Group_1446
+    3300082: Group_1449
+    3300084: Group_1453
+    3300086: Group_1455
+    3300088: Group_1458
+    3300090: Line2388
+    3300092: Object451
+    3300094: Object453
+    3300096: Object506
+    3300098: Object508
+    3300100: Object779
+    3300102: Object787
+    3300104: Object797
+    3300106: Object799
+    3300108: Object801
+    3300110: Object803
+    3300112: Object805
+    3300114: Object807
+    3300116: Object809
+    3300118: Object811
+    3300120: Object825
+    3300122: Object851
+    3300124: Object854
+    3300126: Object859
+    3300128: Object861
+    3300130: Object863
+    3300132: Object865
+    3300134: Object887
+    3300136: Object889
+    3300138: Object891
+    3300140: Object893
+    3300142: Object895
+    3300144: Object897
+    3300146: Object899
+    4300000: ChamferBox042
+    4300002: ChamferBox043
+    4300004: ChamferBox044
+    4300006: Object779
+    4300008: Object787
+    4300010: Object797
+    4300012: Object799
+    4300014: Object801
+    4300016: Object803
+    4300018: Object805
+    4300020: Object807
+    4300022: Object809
+    4300024: Object811
+    4300026: Object825
+    4300028: Group_1446
+    4300030: Group_1436
+    4300032: Group_1441
+    4300034: Group_1438
+    4300036: Group_1458
+    4300038: Group_1455
+    4300040: Group_1429
+    4300042: Group_1432
+    4300044: Group_1449
+    4300046: Group_1453
+    4300048: Group_1444
+    4300050: Group_1427
+    4300052: Group1913
+    4300054: Group1918
+    4300056: Group1915
+    4300058: Group1911
+    4300060: Group1917
+    4300062: Group1909
+    4300064: Group1907
+    4300066: Group1912
+    4300068: Group1914
+    4300070: Group1916
+    4300072: Group1908
+    4300074: Group1910
+    4300076: Box176027
+    4300078: Object851
+    4300080: Box176028
+    4300082: Line2388
+    4300084: Object451
+    4300086: Object453
+    4300088: Group2803
+    4300090: Group1471
+    4300092: Object506
+    4300094: Object508
+    4300096: Box175838
+    4300098: Box176029
+    4300100: Box176030
+    4300102: Object854
+    4300104: Box176032
+    4300106: Box176033
+    4300108: Object859
+    4300110: Object861
+    4300112: Object863
+    4300114: Object865
+    4300116: Box176044
+    4300118: Cylinder34992
+    4300120: Box176045
+    4300122: Box176046
+    4300124: Cylinder34993
+    4300126: Box176047
+    4300128: Box176048
+    4300130: Box176049
+    4300132: Box176050
+    4300134: Object887
+    4300136: Object889
+    4300138: Object891
+    4300140: Object893
+    4300142: Object895
+    4300144: Object897
+    4300146: Object899
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BR2
+    second: {fileID: 2100000, guid: 1ff0a129b48b3a240a0547008766034d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_13
+    second: {fileID: 2100000, guid: ef2412908f08a9a4fbd8a446ee3dc893, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: G11
+    second: {fileID: 2100000, guid: 054de2e9890025747b0a4f5d7f748b49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: G22
+    second: {fileID: 2100000, guid: 33dc1462be90e0c49a5cd459015e542b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Windoxxxbbxw Perfect
+    second: {fileID: 2100000, guid: e7127b2d30b35aa4cbc02ec44880e6be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Windoxxxxw Perfect
+    second: {fileID: 2100000, guid: edc5e80de5fc4db40b4da6968f3de13e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Matefffrial #13'
+    second: {fileID: 2100000, guid: c1def0cebca17ea4291832038496d4cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #23'
+    second: {fileID: 2100000, guid: 92555aaab1a75504bb3b7010c811f4d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #57127'
+    second: {fileID: 2100000, guid: 84442494347e2994ca62394555951c5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #63095'
+    second: {fileID: 2100000, guid: c0b7dfaff98d299499784ff5906210b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PL2
+    second: {fileID: 2100000, guid: 9c20318cb0a2a6648b691683161b59bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PL4
+    second: {fileID: 2100000, guid: 9e9128eed614a7e4baf8f1fa0b81c56f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PT1
+    second: {fileID: 2100000, guid: 5747f2ff0be4dc648a5d2452bbcb0ece, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PT2
+    second: {fileID: 2100000, guid: 4b9da5831c2e8af4abe44effcd2ad153, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PT2 w graph B
+    second: {fileID: 2100000, guid: 3326214a1fb5ed6418b24d4b87271515, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PT3
+    second: {fileID: 2100000, guid: 0fe714f806454a2468f4ca4c7d102ef9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PT5
+    second: {fileID: 2100000, guid: 7e3073a35ebd8d34c955b87d084402f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TO Photo_01
+    second: {fileID: 2100000, guid: 50fb648a4280fc1499a929b98ff0c392, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TO Photo_02
+    second: {fileID: 2100000, guid: 835e13cb9fe1758419a19c671074a6b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TO Photo_03
+    second: {fileID: 2100000, guid: 5e068e8a148a8d04d8a0ff3bd2f1c63c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TO Photo_04
+    second: {fileID: 2100000, guid: 9036a5f74a1797f45ba309194d3c3914, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TO Photo_05
+    second: {fileID: 2100000, guid: deb3d17b3d454244890c65f2e9eaa280, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TO Photo_06
+    second: {fileID: 2100000, guid: ce52e1e45a216714b9a07e5bef078cf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VNL 1
+    second: {fileID: 2100000, guid: 6363b22d3b60e1c4a9ff7d68971da82f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WC 1
+    second: {fileID: 2100000, guid: 8c6b43868468f274fabf4ffee08a74c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bar screen
+    second: {fileID: 2100000, guid: cd998fc0c4219724db7d3ae3db9d2b84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lobby screen
+    second: {fileID: 2100000, guid: 09f8e19c12fc212498aed0fa64077693, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lobby screen 2
+    second: {fileID: 2100000, guid: af7f8f8d8e5c422469b1a9f35124f1eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stainless steel new
+    second: {fileID: 2100000, guid: 2f24b379b255d4e418593814ae753b2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tv2
+    second: {fileID: 2100000, guid: 82771bd3bdfc48f46b3418f6291f0bf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Aluminum
+    second: {fileID: 2100000, guid: cf65112d558a45447b7dc38f47eb80f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Color_L0
+    second: {fileID: 2100000, guid: 334166ae69a2f744f830c948a8f35ac4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Color_M0
+    second: {fileID: 2100000, guid: 8771ac9f1d184df4eb8dd701e36f7712, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray DRK wood
+    second: {fileID: 2100000, guid: e846ebc3c8a7ba1419704d18176cdf50, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

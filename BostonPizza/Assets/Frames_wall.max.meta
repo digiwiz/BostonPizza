@@ -18,6 +18,8 @@ ModelImporter:
     100020: Group1871020951
     100022: Group1871020952
     100024: Group1871020953
+    100026: Frames
+    100028: Mats001
     400000: //RootNode
     400002: Group1871020942
     400004: Group1871020943
@@ -31,6 +33,8 @@ ModelImporter:
     400020: Group1871020951
     400022: Group1871020952
     400024: Group1871020953
+    400026: Frames
+    400028: Mats001
     2100000: Color_13
     2100002: TO Plh;eofhooto_05
     2100004: TO Plh;ohooto_05
@@ -50,6 +54,8 @@ ModelImporter:
     2300018: Group1871020951
     2300020: Group1871020952
     2300022: Group1871020953
+    2300024: Frames
+    2300026: Mats001
     3300000: Group1871020942
     3300002: Group1871020943
     3300004: Group1871020944
@@ -62,6 +68,8 @@ ModelImporter:
     3300018: Group1871020951
     3300020: Group1871020952
     3300022: Group1871020953
+    3300024: Frames
+    3300026: Mats001
     4300000: Group1871020950
     4300002: Group1871020952
     4300004: Group1871020953
@@ -74,6 +82,8 @@ ModelImporter:
     4300018: Group1871020947
     4300020: Group1871020945
     4300022: Group1871020944
+    4300024: Frames
+    4300026: Mats001
     9500000: //RootNode
   externalObjects:
   - first:
@@ -148,7 +158,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

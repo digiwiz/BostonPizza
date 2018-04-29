@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 8357dbcdb33a706409b7d4abbf17f68f
+timeCreated: 1524945758
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Group1907
+    100004: Group1908
+    100006: Group1909
+    100008: Group1910
+    100010: Group1911
+    100012: Group1912
+    100014: Group1913
+    100016: Group1914
+    100018: Group1915
+    100020: Group1916
+    100022: Group1917
+    100024: Group1918
+    100026: Frames
+    100028: Mats
+    100030: Pictures1
+    100032: Pictures2
+    100034: Pictures3
+    100036: Pictures4
+    100038: Pictures5
+    100040: Pictures6
+    400000: //RootNode
+    400002: Group1907
+    400004: Group1908
+    400006: Group1909
+    400008: Group1910
+    400010: Group1911
+    400012: Group1912
+    400014: Group1913
+    400016: Group1914
+    400018: Group1915
+    400020: Group1916
+    400022: Group1917
+    400024: Group1918
+    400026: Frames
+    400028: Mats
+    400030: Pictures1
+    400032: Pictures2
+    400034: Pictures3
+    400036: Pictures4
+    400038: Pictures5
+    400040: Pictures6
+    2100000: TO Photo_03
+    2100002: Color_13
+    2100004: TO Photo_02
+    2100006: TO Photo_04
+    2100008: TO Photo_01
+    2100010: TO Photo_06
+    2100012: TO Photo_05
+    2300000: Group1907
+    2300002: Group1908
+    2300004: Group1909
+    2300006: Group1910
+    2300008: Group1911
+    2300010: Group1912
+    2300012: Group1913
+    2300014: Group1914
+    2300016: Group1915
+    2300018: Group1916
+    2300020: Group1917
+    2300022: Group1918
+    2300024: Frames
+    2300026: Mats
+    2300028: Pictures1
+    2300030: Pictures2
+    2300032: Pictures3
+    2300034: Pictures4
+    2300036: Pictures5
+    2300038: Pictures6
+    3300000: Group1907
+    3300002: Group1908
+    3300004: Group1909
+    3300006: Group1910
+    3300008: Group1911
+    3300010: Group1912
+    3300012: Group1913
+    3300014: Group1914
+    3300016: Group1915
+    3300018: Group1916
+    3300020: Group1917
+    3300022: Group1918
+    3300024: Frames
+    3300026: Mats
+    3300028: Pictures1
+    3300030: Pictures2
+    3300032: Pictures3
+    3300034: Pictures4
+    3300036: Pictures5
+    3300038: Pictures6
+    4300000: Group1913
+    4300002: Group1918
+    4300004: Group1915
+    4300006: Group1911
+    4300008: Group1917
+    4300010: Group1909
+    4300012: Group1907
+    4300014: Group1912
+    4300016: Group1914
+    4300018: Group1916
+    4300020: Group1908
+    4300022: Group1910
+    4300024: Frames
+    4300026: Mats
+    4300028: Pictures1
+    4300030: Pictures2
+    4300032: Pictures3
+    4300034: Pictures4
+    4300036: Pictures5
+    4300038: Pictures6
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_13
+    second: {fileID: 2100000, guid: ef2412908f08a9a4fbd8a446ee3dc893, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TO Photo_01
+    second: {fileID: 2100000, guid: 50fb648a4280fc1499a929b98ff0c392, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TO Photo_02
+    second: {fileID: 2100000, guid: 835e13cb9fe1758419a19c671074a6b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TO Photo_03
+    second: {fileID: 2100000, guid: 5e068e8a148a8d04d8a0ff3bd2f1c63c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TO Photo_04
+    second: {fileID: 2100000, guid: 9036a5f74a1797f45ba309194d3c3914, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TO Photo_05
+    second: {fileID: 2100000, guid: deb3d17b3d454244890c65f2e9eaa280, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TO Photo_06
+    second: {fileID: 2100000, guid: ce52e1e45a216714b9a07e5bef078cf2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
