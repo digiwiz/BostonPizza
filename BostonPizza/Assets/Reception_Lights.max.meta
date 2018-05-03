@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: ee1eefad1e081e745998db130879e0c9
+timeCreated: 1525050969
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Group1871020849
+    100002: Group1871020850
+    100004: Group1871020852
+    100006: Group1871020853
+    100008: Group1871020854
+    100010: Group1871020855
+    100012: Group1871020856
+    100014: Group1871020857
+    100016: Group1871020858
+    100018: //RootNode
+    100020: Tube177
+    100022: Tube178
+    100024: Tube179
+    100026: Tube180
+    100028: Tube181
+    100030: Tube182
+    100032: Tube183
+    100034: Tube184
+    100036: Tube185
+    100038: Tube189
+    100040: Tube190
+    100042: Tube191
+    100044: Tube192
+    100046: Tube193
+    100048: Tube194
+    100050: Tube195
+    100052: Tube196
+    100054: Tube197
+    400000: Group1871020849
+    400002: Group1871020850
+    400004: Group1871020852
+    400006: Group1871020853
+    400008: Group1871020854
+    400010: Group1871020855
+    400012: Group1871020856
+    400014: Group1871020857
+    400016: Group1871020858
+    400018: //RootNode
+    400020: Tube177
+    400022: Tube178
+    400024: Tube179
+    400026: Tube180
+    400028: Tube181
+    400030: Tube182
+    400032: Tube183
+    400034: Tube184
+    400036: Tube185
+    400038: Tube189
+    400040: Tube190
+    400042: Tube191
+    400044: Tube192
+    400046: Tube193
+    400048: Tube194
+    400050: Tube195
+    400052: Tube196
+    400054: Tube197
+    2100000: 'Material #1ddddsdf'
+    2100002: 'Maknojnterial #22'
+    2100004: 'Material #1dsdf'
+    2300000: Tube177
+    2300002: Tube178
+    2300004: Tube179
+    2300006: Tube180
+    2300008: Tube181
+    2300010: Tube182
+    2300012: Tube183
+    2300014: Tube184
+    2300016: Tube185
+    2300018: Tube189
+    2300020: Tube190
+    2300022: Tube191
+    2300024: Tube192
+    2300026: Tube193
+    2300028: Tube194
+    2300030: Tube195
+    2300032: Tube196
+    2300034: Tube197
+    3300000: Tube177
+    3300002: Tube178
+    3300004: Tube179
+    3300006: Tube180
+    3300008: Tube181
+    3300010: Tube182
+    3300012: Tube183
+    3300014: Tube184
+    3300016: Tube185
+    3300018: Tube189
+    3300020: Tube190
+    3300022: Tube191
+    3300024: Tube192
+    3300026: Tube193
+    3300028: Tube194
+    3300030: Tube195
+    3300032: Tube196
+    3300034: Tube197
+    4300000: Tube177
+    4300002: Tube178
+    4300004: Tube179
+    4300006: Tube180
+    4300008: Tube181
+    4300010: Tube182
+    4300012: Tube183
+    4300014: Tube184
+    4300016: Tube185
+    4300018: Tube189
+    4300020: Tube190
+    4300022: Tube191
+    4300024: Tube192
+    4300026: Tube193
+    4300028: Tube194
+    4300030: Tube195
+    4300032: Tube196
+    4300034: Tube197
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Maknojnterial #22'
+    second: {fileID: 2100000, guid: 83f3fb0924d0a684dbd306b6da8dcbf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1ddddsdf'
+    second: {fileID: 2100000, guid: b1b739c225067b84b98e5a3afbd5930a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1dsdf'
+    second: {fileID: 2100000, guid: acb44bf99c66be74b9c0b5cb1bce3804, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

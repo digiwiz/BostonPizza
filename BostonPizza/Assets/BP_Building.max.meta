@@ -906,6 +906,135 @@ ModelImporter:
     101796: Web_3_8
     101798: Web_3_9
     101800: Plates
+    101802: 00 BACK ROOMS
+    101804: Group1213
+    101806: Group1214
+    101808: Group1216
+    101810: Group1217
+    101812: Group1230
+    101814: Group1231
+    101816: Group1233
+    101818: Group1235
+    101820: Group1238
+    101822: Group1239
+    101824: Group1240
+    101826: Group1241
+    101828: Group1242
+    101830: Group1243
+    101832: Group1245
+    101834: Group1249
+    101836: Group1459
+    101838: Group1460
+    101840: Group1461
+    101842: Group1462
+    101844: Group1463
+    101846: Group1464
+    101848: Group1465
+    101850: Group1466
+    101852: Group1672
+    101854: Group1673
+    101856: Group1674
+    101858: Group1675
+    101860: Group1676
+    101862: Group1677
+    101864: Group1678
+    101866: Group1679
+    101868: Group1681
+    101870: Group1682
+    101872: Group1683
+    101874: Group1684
+    101876: Group1685
+    101878: Group1686
+    101880: Group1687
+    101882: Group1688
+    101884: Group1689
+    101886: Group1690
+    101888: Group1691
+    101890: Group1715
+    101892: Group1717
+    101894: Group1725
+    101896: Group1726
+    101898: Group1727
+    101900: Group1728
+    101902: Group1730
+    101904: Group1731
+    101906: Group1732
+    101908: Group1733
+    101910: Group1734
+    101912: Group1871020927
+    101914: Group1871020928
+    101916: Group194
+    101918: Group196
+    101920: Group197
+    101922: Group198
+    101924: Group199
+    101926: Group200
+    101928: Group201
+    101930: Group204
+    101932: Group205
+    101934: Group2057
+    101936: Group2058
+    101938: Group206
+    101940: Group2060
+    101942: Group207
+    101944: Group208
+    101946: Group209
+    101948: Group909
+    101950: Group910
+    101952: Group911
+    101954: Group912
+    101956: Group913
+    101958: Group914
+    101960: Group916
+    101962: Group920
+    101964: Group921
+    101966: Group922
+    101968: Group923
+    101970: Group924
+    101972: Group925
+    101974: Group926
+    101976: Group964
+    101978: Group965
+    101980: Group972
+    101982: Group975
+    101984: Group977
+    101986: Group978
+    101988: Group980
+    101990: Group992
+    101992: Mesh04
+    101994: Mesh1044
+    101996: Mesh1046
+    101998: Mesh1047
+    102000: Mesh1052
+    102002: Mesh1053
+    102004: Mesh11559
+    102006: Mesh11560
+    102008: Mesh1536
+    102010: Mesh1539
+    102012: Mesh30
+    102014: Mesh33
+    102016: Mesh34
+    102018: Fixes
+    102020: Mesh_test
+    102022: baseboard_grey
+    102024: baseboard_stone
+    102026: Brick
+    102028: Brick_wall
+    102030: chair_rail_dark
+    102032: chair_rail_wood
+    102034: Dark_grey
+    102036: graphic_takeout
+    102038: Graphics1
+    102040: Graphics2
+    102042: Graphics3
+    102044: Grey
+    102046: light_grey
+    102048: Object864
+    102050: Red
+    102052: Wall
+    102054: Wall_details
+    102056: wall_pattern
+    102058: wood
     400000: 00 CEILING SLATS
     400002: 00 EXTERIOR SHELL
     400004: 00 EXTRA EXT FRAMES AND DOORS
@@ -1807,6 +1936,135 @@ ModelImporter:
     401796: Web_3_8
     401798: Web_3_9
     401800: Plates
+    401802: 00 BACK ROOMS
+    401804: Group1213
+    401806: Group1214
+    401808: Group1216
+    401810: Group1217
+    401812: Group1230
+    401814: Group1231
+    401816: Group1233
+    401818: Group1235
+    401820: Group1238
+    401822: Group1239
+    401824: Group1240
+    401826: Group1241
+    401828: Group1242
+    401830: Group1243
+    401832: Group1245
+    401834: Group1249
+    401836: Group1459
+    401838: Group1460
+    401840: Group1461
+    401842: Group1462
+    401844: Group1463
+    401846: Group1464
+    401848: Group1465
+    401850: Group1466
+    401852: Group1672
+    401854: Group1673
+    401856: Group1674
+    401858: Group1675
+    401860: Group1676
+    401862: Group1677
+    401864: Group1678
+    401866: Group1679
+    401868: Group1681
+    401870: Group1682
+    401872: Group1683
+    401874: Group1684
+    401876: Group1685
+    401878: Group1686
+    401880: Group1687
+    401882: Group1688
+    401884: Group1689
+    401886: Group1690
+    401888: Group1691
+    401890: Group1715
+    401892: Group1717
+    401894: Group1725
+    401896: Group1726
+    401898: Group1727
+    401900: Group1728
+    401902: Group1730
+    401904: Group1731
+    401906: Group1732
+    401908: Group1733
+    401910: Group1734
+    401912: Group1871020927
+    401914: Group1871020928
+    401916: Group194
+    401918: Group196
+    401920: Group197
+    401922: Group198
+    401924: Group199
+    401926: Group200
+    401928: Group201
+    401930: Group204
+    401932: Group205
+    401934: Group2057
+    401936: Group2058
+    401938: Group206
+    401940: Group2060
+    401942: Group207
+    401944: Group208
+    401946: Group209
+    401948: Group909
+    401950: Group910
+    401952: Group911
+    401954: Group912
+    401956: Group913
+    401958: Group914
+    401960: Group916
+    401962: Group920
+    401964: Group921
+    401966: Group922
+    401968: Group923
+    401970: Group924
+    401972: Group925
+    401974: Group926
+    401976: Group964
+    401978: Group965
+    401980: Group972
+    401982: Group975
+    401984: Group977
+    401986: Group978
+    401988: Group980
+    401990: Group992
+    401992: Mesh04
+    401994: Mesh1044
+    401996: Mesh1046
+    401998: Mesh1047
+    402000: Mesh1052
+    402002: Mesh1053
+    402004: Mesh11559
+    402006: Mesh11560
+    402008: Mesh1536
+    402010: Mesh1539
+    402012: Mesh30
+    402014: Mesh33
+    402016: Mesh34
+    402018: Fixes
+    402020: Mesh_test
+    402022: baseboard_grey
+    402024: baseboard_stone
+    402026: Brick
+    402028: Brick_wall
+    402030: chair_rail_dark
+    402032: chair_rail_wood
+    402034: Dark_grey
+    402036: graphic_takeout
+    402038: Graphics1
+    402040: Graphics2
+    402042: Graphics3
+    402044: Grey
+    402046: light_grey
+    402048: Object864
+    402050: Red
+    402052: Wall
+    402054: Wall_details
+    402056: wall_pattern
+    402058: wood
     2100000: tv
     2100002: tv frames
     2100004: tv2
@@ -1906,6 +2164,18 @@ ModelImporter:
     2100192: lobby screen
     2100194: lobby screen 2
     2100196: bar screen
+    2100198: chrome
+    2100200: vray White_Sq
+    2100202: vray _Translu
+    2100204: 'Material #57070'
+    2100206: vray Metal_03
+    2100208: vray 0131_Sil
+    2100210: vray Metal_01
+    2100212: vray _30
+    2100214: vray Field_Sq
+    2100216: vray _33
+    2100218: vray _DimGray
+    2100220: vray _Color01
     2300000: Box175838
     2300002: Box176027
     2300004: Box176028
@@ -2753,6 +3023,133 @@ ModelImporter:
     2301688: Web_3_7
     2301690: Web_3_8
     2301692: Web_3_9
+    2301694: Group1213
+    2301696: Group1214
+    2301698: Group1216
+    2301700: Group1217
+    2301702: Group1230
+    2301704: Group1231
+    2301706: Group1233
+    2301708: Group1235
+    2301710: Group1238
+    2301712: Group1239
+    2301714: Group1240
+    2301716: Group1241
+    2301718: Group1242
+    2301720: Group1243
+    2301722: Group1245
+    2301724: Group1249
+    2301726: Group1459
+    2301728: Group1460
+    2301730: Group1461
+    2301732: Group1462
+    2301734: Group1463
+    2301736: Group1464
+    2301738: Group1465
+    2301740: Group1466
+    2301742: Group1672
+    2301744: Group1673
+    2301746: Group1674
+    2301748: Group1675
+    2301750: Group1676
+    2301752: Group1677
+    2301754: Group1678
+    2301756: Group1679
+    2301758: Group1681
+    2301760: Group1682
+    2301762: Group1683
+    2301764: Group1684
+    2301766: Group1685
+    2301768: Group1686
+    2301770: Group1687
+    2301772: Group1688
+    2301774: Group1689
+    2301776: Group1690
+    2301778: Group1691
+    2301780: Group1715
+    2301782: Group1717
+    2301784: Group1725
+    2301786: Group1726
+    2301788: Group1727
+    2301790: Group1728
+    2301792: Group1730
+    2301794: Group1731
+    2301796: Group1732
+    2301798: Group1733
+    2301800: Group1734
+    2301802: Group1871020927
+    2301804: Group1871020928
+    2301806: Group194
+    2301808: Group196
+    2301810: Group197
+    2301812: Group198
+    2301814: Group199
+    2301816: Group200
+    2301818: Group201
+    2301820: Group204
+    2301822: Group205
+    2301824: Group2057
+    2301826: Group2058
+    2301828: Group206
+    2301830: Group2060
+    2301832: Group207
+    2301834: Group208
+    2301836: Group209
+    2301838: Group909
+    2301840: Group910
+    2301842: Group911
+    2301844: Group912
+    2301846: Group913
+    2301848: Group914
+    2301850: Group916
+    2301852: Group920
+    2301854: Group921
+    2301856: Group922
+    2301858: Group923
+    2301860: Group924
+    2301862: Group925
+    2301864: Group926
+    2301866: Group964
+    2301868: Group965
+    2301870: Group972
+    2301872: Group975
+    2301874: Group977
+    2301876: Group978
+    2301878: Group980
+    2301880: Group992
+    2301882: Mesh04
+    2301884: Mesh1044
+    2301886: Mesh1046
+    2301888: Mesh1047
+    2301890: Mesh1052
+    2301892: Mesh1053
+    2301894: Mesh11559
+    2301896: Mesh11560
+    2301898: Mesh1536
+    2301900: Mesh1539
+    2301902: Mesh30
+    2301904: Mesh33
+    2301906: Mesh34
+    2301908: Mesh_test
+    2301910: baseboard_grey
+    2301912: baseboard_stone
+    2301914: Brick
+    2301916: Brick_wall
+    2301918: chair_rail_dark
+    2301920: chair_rail_wood
+    2301922: Dark_grey
+    2301924: graphic_takeout
+    2301926: Graphics1
+    2301928: Graphics2
+    2301930: Graphics3
+    2301932: Grey
+    2301934: light_grey
+    2301936: Object864
+    2301938: Red
+    2301940: Wall
+    2301942: Wall_details
+    2301944: wall_pattern
+    2301946: wood
     3300000: Box175838
     3300002: Box176027
     3300004: Box176028
@@ -3600,6 +3997,133 @@ ModelImporter:
     3301688: Web_3_7
     3301690: Web_3_8
     3301692: Web_3_9
+    3301694: Group1213
+    3301696: Group1214
+    3301698: Group1216
+    3301700: Group1217
+    3301702: Group1230
+    3301704: Group1231
+    3301706: Group1233
+    3301708: Group1235
+    3301710: Group1238
+    3301712: Group1239
+    3301714: Group1240
+    3301716: Group1241
+    3301718: Group1242
+    3301720: Group1243
+    3301722: Group1245
+    3301724: Group1249
+    3301726: Group1459
+    3301728: Group1460
+    3301730: Group1461
+    3301732: Group1462
+    3301734: Group1463
+    3301736: Group1464
+    3301738: Group1465
+    3301740: Group1466
+    3301742: Group1672
+    3301744: Group1673
+    3301746: Group1674
+    3301748: Group1675
+    3301750: Group1676
+    3301752: Group1677
+    3301754: Group1678
+    3301756: Group1679
+    3301758: Group1681
+    3301760: Group1682
+    3301762: Group1683
+    3301764: Group1684
+    3301766: Group1685
+    3301768: Group1686
+    3301770: Group1687
+    3301772: Group1688
+    3301774: Group1689
+    3301776: Group1690
+    3301778: Group1691
+    3301780: Group1715
+    3301782: Group1717
+    3301784: Group1725
+    3301786: Group1726
+    3301788: Group1727
+    3301790: Group1728
+    3301792: Group1730
+    3301794: Group1731
+    3301796: Group1732
+    3301798: Group1733
+    3301800: Group1734
+    3301802: Group1871020927
+    3301804: Group1871020928
+    3301806: Group194
+    3301808: Group196
+    3301810: Group197
+    3301812: Group198
+    3301814: Group199
+    3301816: Group200
+    3301818: Group201
+    3301820: Group204
+    3301822: Group205
+    3301824: Group2057
+    3301826: Group2058
+    3301828: Group206
+    3301830: Group2060
+    3301832: Group207
+    3301834: Group208
+    3301836: Group209
+    3301838: Group909
+    3301840: Group910
+    3301842: Group911
+    3301844: Group912
+    3301846: Group913
+    3301848: Group914
+    3301850: Group916
+    3301852: Group920
+    3301854: Group921
+    3301856: Group922
+    3301858: Group923
+    3301860: Group924
+    3301862: Group925
+    3301864: Group926
+    3301866: Group964
+    3301868: Group965
+    3301870: Group972
+    3301872: Group975
+    3301874: Group977
+    3301876: Group978
+    3301878: Group980
+    3301880: Group992
+    3301882: Mesh04
+    3301884: Mesh1044
+    3301886: Mesh1046
+    3301888: Mesh1047
+    3301890: Mesh1052
+    3301892: Mesh1053
+    3301894: Mesh11559
+    3301896: Mesh11560
+    3301898: Mesh1536
+    3301900: Mesh1539
+    3301902: Mesh30
+    3301904: Mesh33
+    3301906: Mesh34
+    3301908: Mesh_test
+    3301910: baseboard_grey
+    3301912: baseboard_stone
+    3301914: Brick
+    3301916: Brick_wall
+    3301918: chair_rail_dark
+    3301920: chair_rail_wood
+    3301922: Dark_grey
+    3301924: graphic_takeout
+    3301926: Graphics1
+    3301928: Graphics2
+    3301930: Graphics3
+    3301932: Grey
+    3301934: light_grey
+    3301936: Object864
+    3301938: Red
+    3301940: Wall
+    3301942: Wall_details
+    3301944: wall_pattern
+    3301946: wood
     4300000: Object438
     4300002: Group#174_062
     4300004: Group#174_061
@@ -4447,6 +4971,133 @@ ModelImporter:
     4301688: Object895
     4301690: Object897
     4301692: Object899
+    4301694: Mesh11560
+    4301696: Group1871020928
+    4301698: Mesh11559
+    4301700: Group1871020927
+    4301702: Group912
+    4301704: Group922
+    4301706: Group972
+    4301708: Group199
+    4301710: Group975
+    4301712: Group204
+    4301714: Group921
+    4301716: Group924
+    4301718: Group911
+    4301720: Group1463
+    4301722: Group205
+    4301724: Group1672
+    4301726: Group1679
+    4301728: Group207
+    4301730: Group1676
+    4301732: Group1687
+    4301734: Group1690
+    4301736: Group1675
+    4301738: Group206
+    4301740: Group1677
+    4301742: Group1674
+    4301744: Group1688
+    4301746: Group1673
+    4301748: Group198
+    4301750: Group1689
+    4301752: Group1691
+    4301754: Group1678
+    4301756: Group916
+    4301758: Group1726
+    4301760: Group920
+    4301762: Group925
+    4301764: Group910
+    4301766: Group1727
+    4301768: Group1728
+    4301770: Group1725
+    4301772: Group197
+    4301774: Group194
+    4301776: Group914
+    4301778: Group923
+    4301780: Group913
+    4301782: Group196
+    4301784: Group1249
+    4301786: Group980
+    4301788: Group909
+    4301790: Group926
+    4301792: Group201
+    4301794: Group1245
+    4301796: Group1241
+    4301798: Group1464
+    4301800: Group977
+    4301802: Group1213
+    4301804: Group1230
+    4301806: Group992
+    4301808: Group978
+    4301810: Group1233
+    4301812: Group1231
+    4301814: Group1466
+    4301816: Group209
+    4301818: Group964
+    4301820: Group1462
+    4301822: Group1235
+    4301824: Group1461
+    4301826: Group208
+    4301828: Group965
+    4301830: Group1459
+    4301832: Group1238
+    4301834: Group1243
+    4301836: Group1240
+    4301838: Group1460
+    4301840: Group1242
+    4301842: Group1465
+    4301844: Group200
+    4301846: Group1214
+    4301848: Group1239
+    4301850: Mesh1044
+    4301852: Mesh33
+    4301854: Group1684
+    4301856: Group1216
+    4301858: Group1685
+    4301860: Group1217
+    4301862: Group1683
+    4301864: Group1682
+    4301866: Group1681
+    4301868: Group1686
+    4301870: Mesh1046
+    4301872: Mesh1047
+    4301874: Mesh04
+    4301876: Group1734
+    4301878: Group1730
+    4301880: Group1733
+    4301882: Group1731
+    4301884: Group1732
+    4301886: Group1715
+    4301888: Group2060
+    4301890: Group2057
+    4301892: Group2058
+    4301894: Mesh30
+    4301896: Mesh1053
+    4301898: Mesh1052
+    4301900: Mesh34
+    4301902: Group1717
+    4301904: Mesh1536
+    4301906: Mesh1539
+    4301908: Mesh_test
+    4301910: Wall
+    4301912: Graphics1
+    4301914: Graphics2
+    4301916: Wall_details
+    4301918: wood
+    4301920: Red
+    4301922: Grey
+    4301924: baseboard_stone
+    4301926: baseboard_grey
+    4301928: chair_rail_dark
+    4301930: chair_rail_wood
+    4301932: Graphics3
+    4301934: Object864
+    4301936: wall_pattern
+    4301938: light_grey
+    4301940: Dark_grey
+    4301942: Brick
+    4301944: graphic_takeout
+    4301946: Brick_wall
     7400000: Take 001
     9500000: //RootNode
   externalObjects:
@@ -4515,6 +5166,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: 'Material #23'
     second: {fileID: 2100000, guid: 92555aaab1a75504bb3b7010c811f4d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #57070'
+    second: {fileID: 2100000, guid: bea22b9d9959e764b8b3f078389a73d9, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -4718,6 +5374,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: chrome
+    second: {fileID: 2100000, guid: 2d2f680811b633b40ab7f7ae393f104f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: hero1
     second: {fileID: 2100000, guid: 60c5023ea76b6f54d902808835b40df9, type: 2}
   - first:
@@ -4765,6 +5426,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: tveehhh
     second: {fileID: 2100000, guid: 90d5f07dfaedd5b4fa36fc52af6b046d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray 0131_Sil
+    second: {fileID: 2100000, guid: 2a35c2da6a9214845be7b24303c0baa0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -4848,8 +5514,23 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: vray Field_Sq
+    second: {fileID: 2100000, guid: 3fe9d03015717ac4dae9eee4fd882c57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: vray Foregrou
     second: {fileID: 2100000, guid: f129f36616a900c4c9a569d91406b55f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Metal_01
+    second: {fileID: 2100000, guid: 23a0694f07586c44fbaf3f9c4d71a7d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Metal_03
+    second: {fileID: 2100000, guid: 699b1581e76b64c4e9e77922e3cefe88, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -4865,6 +5546,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: vray Steel_Br
     second: {fileID: 2100000, guid: d9fe84b42dd8ee147ab082b31e2b929b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray White_Sq
+    second: {fileID: 2100000, guid: e60a1464332afdf4f888f778e6629507, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -4903,6 +5589,16 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: vray _30
+    second: {fileID: 2100000, guid: dbe780eac78b3714cb27e59ffcbaf0ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _33
+    second: {fileID: 2100000, guid: 1f7993e9bcc84124882d81c6398b1491, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: vray _5
     second: {fileID: 2100000, guid: a76d65cbf86965641b339a90a3e3e015, type: 2}
   - first:
@@ -4910,6 +5606,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: vray _6
     second: {fileID: 2100000, guid: cddbcee922541944384d1a69dd9d070d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _Color01
+    second: {fileID: 2100000, guid: 16d2e7a34661dd44cbd031fa25ff0921, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -4933,8 +5634,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: vray _DimGray
+    second: {fileID: 2100000, guid: 2db3b8ffc3e989f46b721fe80a138928, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: vray _Metal_C
     second: {fileID: 2100000, guid: 19efea32b9fdd9f41ac2039ba52bf7e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _Translu
+    second: {fileID: 2100000, guid: f94397fdc79fe4e46b8b3a55c9b08037, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

@@ -125,10 +125,20 @@ ModelImporter:
     4300042: Mesh2403
     4300044: Mesh2407
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stainless steel new
+    second: {fileID: 2100000, guid: 2f24b379b255d4e418593814ae753b2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Metal_03
+    second: {fileID: 2100000, guid: 699b1581e76b64c4e9e77922e3cefe88, type: 2}
   materials:
     importMaterials: 1
-    materialName: 0
+    materialName: 1
     materialSearch: 1
     materialLocation: 1
   animations:
@@ -155,7 +165,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 0.0254
     meshCompression: 0
     addColliders: 0
     importVisibility: 1
